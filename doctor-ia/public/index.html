@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Doctor IA · Enciclopedia médica inteligente</title>
+  <meta name="description" content="Doctor IA: asistente médico con inteligencia artificial y enciclopedia de enfermedades de todo el mundo, con síntomas, causas, tratamientos y prevención." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🩺</text></svg>" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <canvas id="bg-cells" aria-hidden="true"></canvas>
+
+  <header class="nav">
+    <a href="#inicio" class="brand"><span class="brand-icon">🩺</span> Doctor<span>IA</span></a>
+    <nav class="nav-links" id="nav-links">
+      <a href="#chat">Consulta IA</a>
+      <a href="#enciclopedia">Enciclopedia</a>
+      <a href="#sintomas">Síntomas</a>
+      <a href="#estadisticas">Datos mundiales</a>
+      <a href="#emergencias" class="nav-sos">SOS</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Cambiar tema">🌙</button>
+    <button class="menu-toggle" id="menu-toggle" aria-label="Abrir menú">☰</button>
+  </header>
+
+  <div class="disclaimer-bar" role="note">
+    ⚕️ Información educativa. No sustituye a un profesional de la salud. En una emergencia llama al <strong>112</strong> / <strong>911</strong>.
+  </div>
+
+  <main>
+    <!-- ================= HERO ================= -->
+    <section class="hero" id="inicio">
+      <div class="hero-text reveal">
+        <span class="pill"><span class="dot"></span> Inteligencia artificial médica</span>
+        <h1>Tu doctor virtual,<br /><span class="gradient-text">experto en enfermedades de todo el mundo</span></h1>
+        <p>Pregunta por síntomas, diagnósticos y tratamientos. Consulta una enciclopedia con cáncer, enfermedades del corazón, infecciones, salud mental y mucho más, con información de fuentes como la OMS y búsqueda web en tiempo real.</p>
+        <div class="hero-cta">
+          <a href="#chat" class="btn btn-primary">💬 Hablar con el Dr. IA</a>
+          <a href="#enciclopedia" class="btn btn-ghost">📚 Explorar enfermedades</a>
+        </div>
+        <div class="hero-badges">
+          <div><strong id="count-diseases">90+</strong><span>enfermedades detalladas</span></div>
+          <div><strong>13</strong><span>especialidades</span></div>
+          <div><strong>∞</strong><span>búsqueda en la web</span></div>
+        </div>
+      </div>
+
+      <div class="hero-visual reveal" aria-hidden="true">
+        <div class="orbit orbit-1"><span>🧬</span></div>
+        <div class="orbit orbit-2"><span>💊</span></div>
+        <div class="orbit orbit-3"><span>🫀</span></div>
+        <!-- Doctor animado -->
+        <svg class="doctor" viewBox="0 0 300 340">
+          <defs>
+            <linearGradient id="coat" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-color="#ffffff" />
+              <stop offset="1" stop-color="#dfe9f5" />
+            </linearGradient>
+            <linearGradient id="scrubs" x1="0" x2="1">
+              <stop offset="0" stop-color="#14b8a6" />
+              <stop offset="1" stop-color="#0ea5e9" />
+            </linearGradient>
+            <radialGradient id="halo">
+              <stop offset="0" stop-color="#5eead4" stop-opacity=".55" />
+              <stop offset="1" stop-color="#5eead4" stop-opacity="0" />
+            </radialGradient>
+          </defs>
+          <circle cx="150" cy="170" r="150" fill="url(#halo)" class="halo" />
+          <g class="doctor-body">
+            <!-- cuerpo / bata -->
+            <path d="M60 330 Q60 230 150 220 Q240 230 240 330 Z" fill="url(#coat)" stroke="#c6d4e4" stroke-width="2" />
+            <path d="M125 222 L150 290 L175 222 Z" fill="url(#scrubs)" />
+            <path d="M125 222 L140 330 M175 222 L160 330" stroke="#c6d4e4" stroke-width="2" />
+            <rect x="185" y="265" width="30" height="22" rx="4" fill="#e2ebf5" stroke="#c6d4e4" />
+            <rect x="192" y="258" width="4" height="16" rx="2" fill="#0ea5e9" />
+            <rect x="200" y="258" width="4" height="16" rx="2" fill="#ef4444" />
+            <!-- cruz -->
+            <g transform="translate(85 262)"><rect x="6" y="0" width="8" height="20" rx="2" fill="#ef4444" /><rect x="0" y="6" width="20" height="8" rx="2" fill="#ef4444" /></g>
+            <!-- cuello -->
+            <rect x="136" y="190" width="28" height="34" rx="10" fill="#f2c7a5" />
+            <!-- estetoscopio -->
+            <g class="stetho">
+              <path d="M128 224 Q110 280 150 292 Q190 280 172 224" fill="none" stroke="#334155" stroke-width="5" stroke-linecap="round" />
+              <circle cx="150" cy="298" r="11" fill="#94a3b8" stroke="#334155" stroke-width="4" />
+              <circle cx="150" cy="298" r="4" fill="#e2e8f0" />
+            </g>
+            <!-- cabeza -->
+            <g class="head">
+              <ellipse cx="150" cy="140" rx="58" ry="64" fill="#f6d2b4" />
+              <path d="M92 132 Q90 70 150 68 Q212 70 208 132 Q200 100 170 96 Q140 110 104 100 Q96 112 92 132Z" fill="#3b2a20" />
+              <ellipse cx="92" cy="145" rx="9" ry="14" fill="#f2c7a5" />
+              <ellipse cx="208" cy="145" rx="9" ry="14" fill="#f2c7a5" />
+              <!-- gafas -->
+              <g stroke="#1e293b" stroke-width="3" fill="rgba(255,255,255,.25)">
+                <rect x="108" y="128" width="34" height="26" rx="10" />
+                <rect x="158" y="128" width="34" height="26" rx="10" />
+                <path d="M142 138 Q150 133 158 138" fill="none" />
+              </g>
+              <g class="eyes">
+                <circle cx="125" cy="141" r="5" fill="#1e293b" />
+                <circle cx="175" cy="141" r="5" fill="#1e293b" />
+              </g>
+              <path d="M112 118 Q125 112 138 118 M162 118 Q175 112 188 118" stroke="#3b2a20" stroke-width="4" fill="none" stroke-linecap="round" />
+              <ellipse cx="112" cy="165" rx="9" ry="5" fill="#f4a3a3" opacity=".55" />
+              <ellipse cx="188" cy="165" rx="9" ry="5" fill="#f4a3a3" opacity=".55" />
+              <path class="mouth" d="M132 172 Q150 188 168 172" stroke="#9a3b3b" stroke-width="4" fill="none" stroke-linecap="round" />
+              <!-- espejo frontal -->
+              <circle cx="150" cy="84" r="13" fill="#e2e8f0" stroke="#94a3b8" stroke-width="3" class="mirror" />
+            </g>
+          </g>
+        </svg>
+        <!-- Electrocardiograma -->
+        <svg class="ecg" viewBox="0 0 400 80" preserveAspectRatio="none">
+          <path d="M0 40 H120 L135 40 L145 15 L158 70 L170 5 L182 55 L192 40 H260 L270 30 L280 40 H400" />
+        </svg>
+        <div class="bubble bubble-1">¿Cómo te sientes hoy? 😊</div>
+        <div class="bubble bubble-2">❤️ 72 lpm</div>
+      </div>
+    </section>
+
+    <!-- ================= CHAT ================= -->
+    <section class="section" id="chat">
+      <div class="section-head reveal">
+        <h2>💬 Consulta con el Dr. IA</h2>
+        <p>Describe tus síntomas o pregunta por cualquier enfermedad. El Dr. IA puede buscar información médica actualizada en la web y analizar imágenes (por ejemplo, de una lesión en la piel).</p>
+      </div>
+
+      <div class="chat-card reveal">
+        <div class="chat-header">
+          <div class="avatar-mini">
+            <span>👨‍⚕️</span>
+            <i class="status-dot" id="status-dot"></i>
+          </div>
+          <div>
+            <strong>Dr. IA</strong>
+            <small id="ai-status">Comprobando conexión…</small>
+          </div>
+          <button class="btn-icon" id="clear-chat" title="Nueva conversación">🗑️</button>
+        </div>
+
+        <div class="chat-messages" id="chat-messages" aria-live="polite"></div>
+
+        <div class="chat-suggestions" id="chat-suggestions">
+          <button>Tengo fiebre y dolor de garganta desde hace 3 días</button>
+          <button>¿Cuáles son los primeros síntomas del cáncer de colon?</button>
+          <button>¿Qué avances hay en el tratamiento del cáncer de pulmón?</button>
+          <button>¿Cómo diferenciar un infarto de un ataque de ansiedad?</button>
+          <button>¿Qué es la diabetes tipo 2 y cómo prevenirla?</button>
+        </div>
+
+        <form class="chat-input" id="chat-form">
+          <label class="btn-icon attach" title="Adjuntar imagen">
+            📷<input type="file" id="chat-image" accept="image/png,image/jpeg,image/webp,image/gif" hidden />
+          </label>
+          <div class="input-wrap">
+            <div class="image-preview" id="image-preview" hidden>
+              <img alt="Imagen adjunta" /><button type="button" aria-label="Quitar imagen">✕</button>
+            </div>
+            <textarea id="chat-text" rows="1" placeholder="Escribe tu consulta… (Enter para enviar)" maxlength="4000"></textarea>
+          </div>
+          <button type="button" class="btn-icon" id="mic-btn" title="Dictar por voz">🎙️</button>
+          <button type="submit" class="btn-send" id="send-btn" aria-label="Enviar">➤</button>
+        </form>
+      </div>
+    </section>
+
+    <!-- ================= ENCICLOPEDIA ================= -->
+    <section class="section" id="enciclopedia">
+      <div class="section-head reveal">
+        <h2>📚 Enciclopedia de enfermedades</h2>
+        <p>Resumen, síntomas, causas, diagnóstico, tratamientos y prevención. ¿No está la que buscas? Búscala en la web con un clic.</p>
+      </div>
+
+      <div class="search-bar reveal">
+        <span>🔎</span>
+        <input type="search" id="disease-search" placeholder="Busca una enfermedad o síntoma: cáncer, fiebre, tos, dengue…" autocomplete="off" />
+      </div>
+      <div class="category-chips reveal" id="category-chips"></div>
+
+      <div class="disease-grid" id="disease-grid"></div>
+
+      <div class="web-search-box reveal" id="web-search-box" hidden>
+        <p>¿No encuentras <strong id="web-query"></strong>? Hay miles de enfermedades más en el mundo.</p>
+        <div class="web-actions">
+          <button class="btn btn-primary" id="web-search-btn">🌐 Buscar en la web</button>
+          <button class="btn btn-ghost" id="ask-ai-btn">🤖 Preguntar al Dr. IA</button>
+        </div>
+        <div class="web-results" id="web-results"></div>
+      </div>
+    </section>
+
+    <!-- ================= SÍNTOMAS ================= -->
+    <section class="section" id="sintomas">
+      <div class="section-head reveal">
+        <h2>🩻 Orientador de síntomas</h2>
+        <p>Selecciona lo que sientes y te mostraremos enfermedades relacionadas de la enciclopedia. Es solo orientativo: la IA o un médico pueden valorarlo mejor.</p>
+      </div>
+      <div class="symptom-layout reveal">
+        <div class="symptom-picker">
+          <div class="symptom-chips" id="symptom-chips"></div>
+          <div class="symptom-actions">
+            <button class="btn btn-ghost" id="symptom-clear">Limpiar</button>
+            <button class="btn btn-primary" id="symptom-ask">🤖 Analizar con el Dr. IA</button>
+          </div>
+        </div>
+        <div class="symptom-results" id="symptom-results">
+          <div class="empty-state">
+            <div class="pulse-heart">❤️</div>
+            <p>Elige uno o más síntomas para empezar.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= ESTADÍSTICAS ================= -->
+    <section class="section" id="estadisticas">
+      <div class="section-head reveal">
+        <h2>🌍 La salud del mundo en cifras</h2>
+        <p>Datos recientes de la OMS y otras organizaciones internacionales.</p>
+      </div>
+      <div class="stats-grid" id="stats-grid"></div>
+    </section>
+
+    <!-- ================= EMERGENCIAS ================= -->
+    <section class="section" id="emergencias">
+      <div class="emergency-card reveal">
+        <div class="siren" aria-hidden="true">🚨</div>
+        <div>
+          <h2>¿Es una emergencia?</h2>
+          <p>Llama de inmediato si hay dolor en el pecho, dificultad para respirar, signos de ictus (cara caída, brazo débil, habla alterada), sangrado abundante, pérdida de conciencia, convulsiones o pensamientos de hacerte daño.</p>
+          <div class="emergency-numbers">
+            <span><strong>112</strong> Europa y gran parte de Latinoamérica</span>
+            <span><strong>911</strong> México, EE. UU., Argentina, Colombia, Perú…</span>
+            <span><strong>Línea de crisis</strong> busca la de tu país si tienes pensamientos suicidas</span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>🩺 <strong>Doctor IA</strong> · Información con fines educativos basada en fuentes como la OMS, CDC, NIH/MedlinePlus y Mayo Clinic. No sustituye el consejo, diagnóstico ni tratamiento de un profesional sanitario.</p>
+    <p class="footer-small">Imágenes y resúmenes externos: Wikipedia (CC BY-SA). IA: Claude de Anthropic.</p>
+  </footer>
+
+  <!-- Modal de enfermedad -->
+  <div class="modal" id="disease-modal" hidden>
+    <div class="modal-backdrop" data-close></div>
+    <article class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <button class="modal-close" data-close aria-label="Cerrar">✕</button>
+      <div class="modal-body" id="modal-body"></div>
+    </article>
+  </div>
+
+  <script src="js/data/categories.js"></script>
+  <script src="js/data/cancer.js"></script>
+  <script src="js/data/cardio-resp.js"></script>
+  <script src="js/data/infecciosas.js"></script>
+  <script src="js/data/metab-neuro-mental.js"></script>
+  <script src="js/data/otras.js"></script>
+  <script src="js/markdown.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
