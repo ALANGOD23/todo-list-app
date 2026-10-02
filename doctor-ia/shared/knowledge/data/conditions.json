@@ -1,0 +1,6243 @@
+[
+ {
+  "id": "cancer-general",
+  "name": "Cáncer (visión general)",
+  "specialties": [
+   "oncologia"
+  ],
+  "summary": "El cáncer es un grupo de más de 200 enfermedades en las que células anormales crecen sin control, pueden invadir tejidos cercanos y diseminarse a otros órganos (metástasis). Es la segunda causa de muerte en el mundo, pero entre un 30 y un 50 % de los casos se pueden prevenir y muchos se curan si se detectan a tiempo.",
+  "keyFact": "≈20,6 millones de casos nuevos y casi 10 millones de muertes al año (OMS/IARC, 2026). Se prevé que los casos se acerquen a 35 millones en 2050.",
+  "symptoms": [
+   "Bulto o engrosamiento nuevo en cualquier parte del cuerpo",
+   "Pérdida de peso sin causa aparente",
+   "Cansancio persistente",
+   "Sangrado inusual (tos, heces, orina, vaginal)",
+   "Tos o ronquera que no se va",
+   "Cambios en un lunar o herida que no cicatriza",
+   "Cambios persistentes del hábito intestinal"
+  ],
+  "causes": [
+   "Mutaciones del ADN que se acumulan con la edad",
+   "Carcinógenos: tabaco, alcohol, radiación UV, amianto",
+   "Infecciones: VPH, hepatitis B y C, Helicobacter pylori",
+   "Predisposición hereditaria (p. ej., genes BRCA1/2, síndrome de Lynch)"
+  ],
+  "riskFactors": [
+   "Tabaquismo (principal causa evitable)",
+   "Consumo de alcohol",
+   "Obesidad e inactividad física",
+   "Dieta pobre en frutas y verduras",
+   "Contaminación del aire",
+   "Edad avanzada"
+  ],
+  "diagnosis": "Exploración, análisis de sangre y marcadores tumorales, pruebas de imagen (ecografía, TAC, resonancia, PET) y, sobre todo, biopsia para confirmar el tipo de célula. Después se determina el estadio (TNM) para planificar el tratamiento.",
+  "treatments": [
+   "Cirugía para extirpar el tumor",
+   "Radioterapia",
+   "Quimioterapia",
+   "Inmunoterapia (inhibidores de puntos de control, CAR-T)",
+   "Terapias dirigidas según las mutaciones del tumor",
+   "Hormonoterapia en tumores hormonodependientes",
+   "Cuidados paliativos para aliviar síntomas en cualquier fase"
+  ],
+  "prevention": [
+   "No fumar y evitar el humo ajeno",
+   "Limitar el alcohol",
+   "Vacunarse contra VPH y hepatitis B",
+   "Protegerse del sol",
+   "Mantener un peso saludable y hacer ejercicio",
+   "Participar en los cribados recomendados (mama, cuello uterino, colon, pulmón en fumadores)"
+  ],
+  "whenToSeek": "Consulta si un síntoma inexplicable dura más de 2-3 semanas. Acude a urgencias ante sangrado abundante, dificultad para respirar o dolor intenso.",
+  "faq": [
+   {
+    "q": "¿El cáncer es hereditario?",
+    "a": "La mayoría no lo es. Entre un 5 y un 10 % se relacionan con mutaciones heredadas; si hay varios casos en la familia, conviene consultar."
+   },
+   {
+    "q": "¿Existen curas naturales para el cáncer?",
+    "a": "No hay evidencia de que remedios 'naturales' curen el cáncer, y abandonar tratamientos eficaces por ellos puede ser grave. Consulta con tu equipo antes de tomar cualquier suplemento."
+   }
+  ],
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "Cáncer"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Cáncer"
+   }
+  ],
+  "meta": {
+   "version": 2,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "cancer-mama",
+  "name": "Cáncer de mama",
+  "specialties": [
+   "oncologia",
+   "ginecologia"
+  ],
+  "summary": "Es el cáncer más frecuente en mujeres en el mundo. Se origina en los conductos o lobulillos de la mama. También puede afectar a hombres (≈1 % de los casos). Detectado en fases tempranas, la supervivencia a 5 años supera el 90 %.",
+  "keyFact": "≈2,4 millones de nuevos casos al año; es el cáncer más diagnosticado en mujeres (OMS/IARC).",
+  "symptoms": [
+   "Bulto o nódulo en la mama o la axila",
+   "Cambios de tamaño o forma de la mama",
+   "Piel de naranja, hundimiento o enrojecimiento",
+   "Pezón retraído o con secreción (sobre todo con sangre)",
+   "Dolor persistente en una zona concreta"
+  ],
+  "causes": [
+   "Mutaciones en las células mamarias",
+   "Exposición prolongada a estrógenos",
+   "Mutaciones hereditarias BRCA1, BRCA2, PALB2"
+  ],
+  "riskFactors": [
+   "Ser mujer y la edad",
+   "Antecedentes familiares",
+   "Menarquia temprana o menopausia tardía",
+   "No haber tenido hijos o tenerlos tarde",
+   "Terapia hormonal sustitutiva prolongada",
+   "Alcohol, obesidad tras la menopausia, sedentarismo"
+  ],
+  "diagnosis": "Mamografía, ecografía y resonancia; biopsia para confirmar. Se estudian receptores hormonales (RE/RP) y HER2, que definen el subtipo y el tratamiento.",
+  "treatments": [
+   "Cirugía conservadora o mastectomía, con biopsia del ganglio centinela",
+   "Radioterapia",
+   "Quimioterapia",
+   "Hormonoterapia (tamoxifeno, inhibidores de aromatasa)",
+   "Terapias anti-HER2 (trastuzumab y otros)",
+   "Inmunoterapia en el subtipo triple negativo"
+  ],
+  "prevention": [
+   "Mamografía de cribado según la edad y las guías de tu país (habitualmente cada 2 años a partir de 40-50 años)",
+   "Conocer tus mamas y consultar ante cambios",
+   "Lactancia materna",
+   "Limitar el alcohol y mantenerse activa",
+   "Asesoramiento genético si hay varios casos en la familia"
+  ],
+  "whenToSeek": "Consulta en pocas semanas ante cualquier bulto nuevo o cambio en la mama; la mayoría son benignos, pero debe valorarse.",
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "Cáncer de mama"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Cáncer de mama"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "cancer-pulmon",
+  "name": "Cáncer de pulmón",
+  "specialties": [
+   "oncologia"
+  ],
+  "summary": "Es la primera causa de muerte por cáncer en el mundo. Se divide en cáncer de pulmón de células no pequeñas (≈85 %) y de células pequeñas, más agresivo. El tabaco causa la gran mayoría de los casos.",
+  "keyFact": "Es el cáncer más frecuente en hombres (≈1,6 millones de casos anuales) y el segundo en mujeres.",
+  "symptoms": [
+   "Tos persistente o que cambia",
+   "Tos con sangre",
+   "Dolor en el pecho",
+   "Falta de aire o pitidos",
+   "Ronquera",
+   "Pérdida de peso y cansancio",
+   "Infecciones respiratorias repetidas"
+  ],
+  "causes": [
+   "Tabaco (incluido el humo ajeno)",
+   "Gas radón en viviendas",
+   "Amianto y otros tóxicos laborales",
+   "Contaminación del aire"
+  ],
+  "riskFactors": [
+   "Fumar (el riesgo aumenta con los años y cigarrillos)",
+   "Exposición laboral a carcinógenos",
+   "Antecedentes familiares",
+   "Radioterapia previa en el tórax"
+  ],
+  "diagnosis": "Radiografía y TAC de tórax, broncoscopia o biopsia guiada; estudio molecular del tumor (EGFR, ALK, ROS1, KRAS, PD-L1) para elegir terapias dirigidas o inmunoterapia.",
+  "treatments": [
+   "Cirugía (lobectomía) en fases iniciales",
+   "Radioterapia, incluida la estereotáctica",
+   "Quimioterapia",
+   "Terapias dirigidas según mutaciones",
+   "Inmunoterapia"
+  ],
+  "prevention": [
+   "No empezar a fumar o dejarlo (el beneficio empieza desde el primer día)",
+   "Medir el radón en casa si vives en zona de riesgo",
+   "Cribado con TAC de baja dosis para fumadores o exfumadores de alto riesgo, según las guías locales"
+  ],
+  "whenToSeek": "Acude a urgencias si toses sangre en cantidad o tienes dificultad para respirar. Consulta pronto si una tos dura más de 3 semanas.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Cáncer de pulmón"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Cáncer de pulmón"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "cancer-colorrectal",
+  "name": "Cáncer colorrectal",
+  "specialties": [
+   "oncologia"
+  ],
+  "summary": "Cáncer del colon o del recto que suele desarrollarse lentamente a partir de pólipos. Es el tercero más frecuente del mundo y uno de los más prevenibles gracias al cribado, que permite extirpar pólipos antes de que se vuelvan malignos.",
+  "keyFact": "Tercer cáncer más común en ambos sexos (≈2 millones de casos anuales).",
+  "symptoms": [
+   "Sangre en las heces o heces muy oscuras",
+   "Cambio persistente del ritmo intestinal (diarrea o estreñimiento)",
+   "Dolor o hinchazón abdominal",
+   "Sensación de evacuación incompleta",
+   "Anemia y cansancio",
+   "Pérdida de peso"
+  ],
+  "causes": [
+   "Transformación maligna de pólipos adenomatosos",
+   "Síndromes hereditarios (Lynch, poliposis adenomatosa familiar)"
+  ],
+  "riskFactors": [
+   "Edad mayor de 50 (aunque aumenta en jóvenes)",
+   "Dieta rica en carnes rojas y procesadas y pobre en fibra",
+   "Obesidad y sedentarismo",
+   "Tabaco y alcohol",
+   "Enfermedad inflamatoria intestinal",
+   "Antecedentes familiares"
+  ],
+  "diagnosis": "Test de sangre oculta en heces, colonoscopia con biopsia, TAC para el estadio y marcador CEA.",
+  "treatments": [
+   "Extirpación de pólipos durante la colonoscopia",
+   "Cirugía (colectomía)",
+   "Quimioterapia",
+   "Radioterapia (sobre todo en recto)",
+   "Terapias dirigidas e inmunoterapia (tumores con inestabilidad de microsatélites)"
+  ],
+  "prevention": [
+   "Cribado desde los 45-50 años (test en heces o colonoscopia)",
+   "Dieta rica en fibra, frutas y verduras",
+   "Limitar carnes procesadas y alcohol",
+   "Ejercicio regular"
+  ],
+  "whenToSeek": "Consulta pronto si hay sangre en las heces o cambios intestinales de más de 3 semanas. Urgencias si hay sangrado abundante o dolor intenso con vientre hinchado sin expulsar gases.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Cáncer colorrectal"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Cáncer colorrectal"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "cancer-prostata",
+  "name": "Cáncer de próstata",
+  "specialties": [
+   "oncologia",
+   "urologia"
+  ],
+  "summary": "Tumor de la glándula prostática, muy frecuente en hombres mayores. Muchos crecen tan despacio que nunca causan problemas, pero otros son agresivos. Tiene un pronóstico excelente cuando está localizado.",
+  "keyFact": "Segundo cáncer más frecuente en hombres (≈1,5 millones de casos al año).",
+  "symptoms": [
+   "A menudo sin síntomas en fases iniciales",
+   "Dificultad o chorro débil al orinar",
+   "Necesidad de orinar por la noche",
+   "Sangre en la orina o el semen",
+   "Dolor óseo (en fases avanzadas)"
+  ],
+  "causes": [
+   "Mutaciones en las células de la próstata, favorecidas por las hormonas masculinas"
+  ],
+  "riskFactors": [
+   "Edad (sobre todo > 65)",
+   "Antecedentes familiares o mutaciones BRCA",
+   "Ascendencia africana",
+   "Obesidad"
+  ],
+  "diagnosis": "Análisis de PSA, tacto rectal, resonancia multiparamétrica y biopsia. El índice de Gleason/ISUP mide la agresividad.",
+  "treatments": [
+   "Vigilancia activa en tumores de bajo riesgo",
+   "Prostatectomía radical",
+   "Radioterapia o braquiterapia",
+   "Terapia hormonal (bloqueo androgénico)",
+   "Quimioterapia y tratamientos con radioligandos en fases avanzadas"
+  ],
+  "prevention": [
+   "Hablar con el médico sobre el cribado con PSA a partir de los 50 (antes si hay riesgo)",
+   "Dieta saludable y ejercicio"
+  ],
+  "whenToSeek": "Urgencias si no puedes orinar en absoluto. Consulta ante sangre en orina o dolor óseo persistente.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Cáncer de próstata"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Cáncer de próstata"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "melanoma",
+  "name": "Melanoma y cáncer de piel",
+  "specialties": [
+   "oncologia",
+   "dermatologia"
+  ],
+  "summary": "El melanoma nace de los melanocitos (células del pigmento) y es el cáncer de piel más peligroso porque se disemina con facilidad. Los carcinomas basocelular y espinocelular son mucho más frecuentes y menos agresivos. Todos están muy ligados a la radiación ultravioleta.",
+  "keyFact": "La regla ABCDE ayuda a detectar lunares sospechosos a tiempo.",
+  "symptoms": [
+   "A: Asimetría del lunar",
+   "B: Bordes irregulares",
+   "C: Color variado (marrón, negro, rojo, azul)",
+   "D: Diámetro mayor de 6 mm",
+   "E: Evolución (cambia de tamaño, forma o color)",
+   "Herida o lesión que sangra y no cicatriza"
+  ],
+  "causes": [
+   "Daño en el ADN por radiación UV (sol y cabinas de bronceado)"
+  ],
+  "riskFactors": [
+   "Piel clara, pelo rubio o pelirrojo",
+   "Quemaduras solares, sobre todo en la infancia",
+   "Muchos lunares o lunares atípicos",
+   "Antecedentes familiares",
+   "Inmunosupresión"
+  ],
+  "diagnosis": "Exploración con dermatoscopio y extirpación/biopsia de la lesión. Se mide el grosor (Breslow) y se estudia el ganglio centinela.",
+  "treatments": [
+   "Cirugía con márgenes de seguridad",
+   "Inmunoterapia (anti-PD-1, anti-CTLA-4)",
+   "Terapia dirigida en tumores con mutación BRAF",
+   "Radioterapia en casos concretos"
+  ],
+  "prevention": [
+   "Protector solar FPS 30+ y reaplicarlo",
+   "Evitar el sol entre las 12 y las 16 h",
+   "Ropa, sombrero y gafas",
+   "No usar cabinas de bronceado",
+   "Autoexploración mensual de la piel"
+  ],
+  "whenToSeek": "Consulta en pocas semanas si un lunar cambia, pica o sangra.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Melanoma y cáncer de piel"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Melanoma y cáncer de piel"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "cancer-cervix",
+  "name": "Cáncer de cuello uterino",
+  "specialties": [
+   "oncologia",
+   "ginecologia"
+  ],
+  "summary": "Casi todos los casos se deben a la infección persistente por el virus del papiloma humano (VPH). Es uno de los cánceres más prevenibles del mundo gracias a la vacuna y al cribado, y la OMS tiene una estrategia para eliminarlo como problema de salud pública.",
+  "keyFact": "La vacuna contra el VPH, aplicada antes del inicio de la vida sexual, previene la gran mayoría de los casos.",
+  "symptoms": [
+   "Sangrado vaginal fuera de la regla, tras las relaciones o después de la menopausia",
+   "Flujo anormal o maloliente",
+   "Dolor pélvico o durante las relaciones",
+   "Sin síntomas en fases iniciales"
+  ],
+  "causes": [
+   "Infección persistente por VPH de alto riesgo (tipos 16 y 18, entre otros)"
+  ],
+  "riskFactors": [
+   "No estar vacunada ni hacerse citologías",
+   "Tabaquismo",
+   "VIH u otra inmunosupresión",
+   "Múltiples parejas sexuales"
+  ],
+  "diagnosis": "Test de VPH y citología (Papanicolaou), colposcopia y biopsia.",
+  "treatments": [
+   "Tratamiento de lesiones precancerosas (conización, crioterapia, ablación)",
+   "Cirugía (histerectomía)",
+   "Quimiorradioterapia",
+   "Inmunoterapia en casos avanzados"
+  ],
+  "prevention": [
+   "Vacuna contra el VPH (idealmente entre los 9 y 14 años)",
+   "Cribado con test de VPH o citología periódica",
+   "Preservativo",
+   "No fumar"
+  ],
+  "whenToSeek": "Consulta ante cualquier sangrado vaginal anormal, sobre todo después de la menopausia.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Cáncer de cuello uterino"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Cáncer de cuello uterino"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "cancer-estomago",
+  "name": "Cáncer de estómago",
+  "specialties": [
+   "oncologia"
+  ],
+  "summary": "Tumor maligno del estómago, frecuente en Asia oriental, Europa del Este y partes de Latinoamérica. La infección por Helicobacter pylori es su principal factor de riesgo. Suele diagnosticarse tarde porque sus síntomas se confunden con una gastritis.",
+  "keyFact": "La erradicación de H. pylori reduce el riesgo de cáncer gástrico.",
+  "symptoms": [
+   "Molestias o ardor persistente en la parte alta del abdomen",
+   "Sensación de llenarse enseguida",
+   "Náuseas o vómitos (a veces con sangre)",
+   "Heces negras",
+   "Pérdida de peso y apetito",
+   "Anemia"
+  ],
+  "causes": [
+   "Inflamación crónica por Helicobacter pylori",
+   "Gastritis atrófica",
+   "Mutaciones hereditarias (CDH1)"
+  ],
+  "riskFactors": [
+   "Infección por H. pylori",
+   "Dieta rica en sal, ahumados y conservas",
+   "Tabaco",
+   "Antecedentes familiares"
+  ],
+  "diagnosis": "Endoscopia digestiva alta con biopsia, TAC y ecoendoscopia.",
+  "treatments": [
+   "Resección endoscópica en tumores muy precoces",
+   "Gastrectomía",
+   "Quimioterapia antes y después de la cirugía",
+   "Terapias dirigidas (HER2) e inmunoterapia"
+  ],
+  "prevention": [
+   "Tratar la infección por H. pylori",
+   "Dieta con frutas y verduras frescas, poca sal",
+   "No fumar"
+  ],
+  "whenToSeek": "Urgencias si vomitas sangre o las heces son negras como el alquitrán.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Cáncer de estómago"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Cáncer de estómago"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "cancer-higado",
+  "name": "Cáncer de hígado",
+  "specialties": [
+   "oncologia"
+  ],
+  "summary": "El tipo más común es el carcinoma hepatocelular, que suele aparecer sobre un hígado dañado (cirrosis). Las hepatitis B y C, el alcohol y el hígado graso son sus causas principales.",
+  "keyFact": "La vacuna de la hepatitis B fue la primera vacuna capaz de prevenir un cáncer.",
+  "symptoms": [
+   "Dolor en la parte superior derecha del abdomen",
+   "Piel y ojos amarillos (ictericia)",
+   "Hinchazón abdominal (ascitis)",
+   "Pérdida de peso",
+   "Cansancio"
+  ],
+  "causes": [
+   "Cirrosis de cualquier origen",
+   "Hepatitis B y C crónicas",
+   "Aflatoxinas (hongos en alimentos mal almacenados)"
+  ],
+  "riskFactors": [
+   "Alcohol",
+   "Hígado graso asociado a obesidad y diabetes",
+   "Hepatitis viral",
+   "Tabaco"
+  ],
+  "diagnosis": "Ecografía, TAC o resonancia con contraste, alfafetoproteína en sangre; biopsia en casos dudosos.",
+  "treatments": [
+   "Resección quirúrgica",
+   "Trasplante hepático",
+   "Ablación por radiofrecuencia o microondas",
+   "Quimioembolización",
+   "Inmunoterapia y fármacos dirigidos"
+  ],
+  "prevention": [
+   "Vacuna de la hepatitis B",
+   "Tratar la hepatitis C (se cura en > 95 % de los casos)",
+   "Moderar el alcohol",
+   "Controlar el peso y la diabetes",
+   "Ecografías cada 6 meses si tienes cirrosis"
+  ],
+  "whenToSeek": "Urgencias si hay vómito con sangre, confusión o abdomen muy hinchado y doloroso.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Cáncer de hígado"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Cáncer de hígado"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "cancer-pancreas",
+  "name": "Cáncer de páncreas",
+  "specialties": [
+   "oncologia"
+  ],
+  "summary": "Uno de los cánceres más agresivos, porque suele dar síntomas cuando ya está avanzado. El tipo más común es el adenocarcinoma ductal. La cirugía es la única opción potencialmente curativa.",
+  "keyFact": "Una diabetes que aparece de repente en mayores de 50 años con pérdida de peso puede ser una señal de alerta.",
+  "symptoms": [
+   "Ictericia (piel y ojos amarillos) con orina oscura y heces claras",
+   "Dolor abdominal que se irradia a la espalda",
+   "Pérdida de peso importante",
+   "Falta de apetito",
+   "Diabetes de nueva aparición"
+  ],
+  "causes": [
+   "Mutaciones en las células del páncreas (KRAS en la mayoría)"
+  ],
+  "riskFactors": [
+   "Tabaco",
+   "Obesidad y diabetes",
+   "Pancreatitis crónica",
+   "Antecedentes familiares o mutaciones BRCA2"
+  ],
+  "diagnosis": "TAC o resonancia de páncreas, ecoendoscopia con biopsia y marcador CA 19-9.",
+  "treatments": [
+   "Cirugía (técnica de Whipple) si es resecable",
+   "Quimioterapia (FOLFIRINOX, gemcitabina)",
+   "Radioterapia",
+   "Terapias dirigidas en casos seleccionados",
+   "Cuidados paliativos del dolor y la nutrición"
+  ],
+  "prevention": [
+   "No fumar",
+   "Mantener un peso saludable",
+   "Seguimiento especializado si hay alto riesgo familiar"
+  ],
+  "whenToSeek": "Consulta pronto si notas piel amarilla, aunque no duela.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Cáncer de páncreas"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Cáncer de páncreas"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "leucemia",
+  "name": "Leucemia",
+  "specialties": [
+   "oncologia",
+   "hematologia",
+   "pediatria"
+  ],
+  "summary": "Cáncer de la sangre que se origina en la médula ósea, donde se producen glóbulos blancos anormales. Hay formas agudas (rápidas) y crónicas (lentas), linfoides y mieloides. La leucemia linfoblástica aguda es el cáncer más frecuente en niños, y hoy se cura en torno al 90 % de ellos.",
+  "keyFact": "Existen 4 tipos principales: LLA, LMA, LLC y LMC.",
+  "symptoms": [
+   "Cansancio y palidez (anemia)",
+   "Infecciones frecuentes y fiebre",
+   "Moratones o sangrados fáciles (encías, nariz)",
+   "Puntitos rojos en la piel (petequias)",
+   "Dolor de huesos",
+   "Ganglios o bazo agrandados"
+  ],
+  "causes": [
+   "Mutaciones en las células madre de la médula ósea"
+  ],
+  "riskFactors": [
+   "Quimioterapia o radiación previas",
+   "Exposición al benceno",
+   "Síndrome de Down y otras alteraciones genéticas",
+   "Tabaco (en la LMA)"
+  ],
+  "diagnosis": "Hemograma, frotis de sangre periférica y aspirado/biopsia de médula ósea con estudio genético.",
+  "treatments": [
+   "Quimioterapia",
+   "Terapias dirigidas (p. ej., imatinib en la LMC)",
+   "Inmunoterapia y células CAR-T",
+   "Trasplante de médula ósea (progenitores hematopoyéticos)"
+  ],
+  "prevention": [
+   "No hay una prevención clara; evitar tabaco y benceno",
+   "Hacerse donante de médula ósea salva vidas"
+  ],
+  "whenToSeek": "Urgencias ante fiebre con moratones o sangrados sin causa, o palidez extrema.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Leucemia"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Leucemia"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "linfoma",
+  "name": "Linfoma",
+  "specialties": [
+   "oncologia",
+   "hematologia"
+  ],
+  "summary": "Cáncer del sistema linfático, que forma parte de las defensas. Se divide en linfoma de Hodgkin y linfomas no Hodgkin (más frecuentes y variados). Muchos tienen tasas de curación altas.",
+  "keyFact": "El linfoma de Hodgkin se cura en más del 80-90 % de los casos.",
+  "symptoms": [
+   "Ganglios inflamados e indoloros (cuello, axila, ingle)",
+   "Fiebre sin infección",
+   "Sudores nocturnos intensos",
+   "Pérdida de peso",
+   "Picor en la piel",
+   "Cansancio"
+  ],
+  "causes": [
+   "Mutaciones en los linfocitos B o T"
+  ],
+  "riskFactors": [
+   "Inmunosupresión (VIH, trasplantes)",
+   "Virus de Epstein-Barr",
+   "Enfermedades autoinmunes",
+   "Edad"
+  ],
+  "diagnosis": "Biopsia de un ganglio, PET-TAC y a veces biopsia de médula ósea.",
+  "treatments": [
+   "Quimioterapia combinada",
+   "Inmunoterapia (anticuerpos como rituximab)",
+   "Radioterapia",
+   "Células CAR-T y trasplante en recaídas"
+  ],
+  "prevention": [
+   "Prevenir y tratar el VIH",
+   "No hay cribado específico"
+  ],
+  "whenToSeek": "Consulta si un ganglio crece durante más de 2-3 semanas sin infección o se acompaña de fiebre y sudores nocturnos.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Linfoma"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Linfoma"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "cancer-tiroides",
+  "name": "Cáncer de tiroides",
+  "specialties": [
+   "oncologia",
+   "endocrinologia"
+  ],
+  "summary": "Tumor de la glándula tiroides, en el cuello. La forma más común, el carcinoma papilar, tiene un pronóstico excelente. Es más frecuente en mujeres.",
+  "keyFact": "La mayoría de los nódulos tiroideos son benignos.",
+  "symptoms": [
+   "Bulto en la parte delantera del cuello",
+   "Ronquera persistente",
+   "Dificultad para tragar",
+   "Ganglios en el cuello"
+  ],
+  "causes": [
+   "Mutaciones en células tiroideas (BRAF, RET)"
+  ],
+  "riskFactors": [
+   "Radiación en el cuello en la infancia",
+   "Antecedentes familiares",
+   "Sexo femenino"
+  ],
+  "diagnosis": "Ecografía del cuello y punción-aspiración con aguja fina (PAAF).",
+  "treatments": [
+   "Tiroidectomía",
+   "Yodo radiactivo",
+   "Hormona tiroidea de por vida tras la cirugía",
+   "Terapias dirigidas en casos avanzados"
+  ],
+  "prevention": [
+   "Evitar radiación innecesaria en el cuello",
+   "Estudio genético si hay casos familiares de carcinoma medular"
+  ],
+  "whenToSeek": "Consulta si notas un bulto en el cuello que crece o te cuesta tragar o respirar.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Cáncer de tiroides"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Cáncer de tiroides"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "cancer-vejiga",
+  "name": "Cáncer de vejiga",
+  "specialties": [
+   "oncologia",
+   "urologia"
+  ],
+  "summary": "Tumor del revestimiento de la vejiga urinaria. Su síntoma más típico es la sangre en la orina sin dolor. El tabaco es responsable de alrededor de la mitad de los casos.",
+  "keyFact": "La sangre en la orina, aunque aparezca una sola vez, debe estudiarse.",
+  "symptoms": [
+   "Sangre en la orina (a veces sin dolor)",
+   "Ganas frecuentes o urgentes de orinar",
+   "Escozor al orinar",
+   "Dolor lumbar o pélvico"
+  ],
+  "causes": [
+   "Carcinógenos que se eliminan por la orina"
+  ],
+  "riskFactors": [
+   "Tabaco",
+   "Exposición laboral a tintes, caucho, pinturas",
+   "Infecciones crónicas de vejiga",
+   "Edad y sexo masculino"
+  ],
+  "diagnosis": "Análisis de orina y citología, cistoscopia con biopsia, TAC urológico.",
+  "treatments": [
+   "Resección transuretral (RTU)",
+   "Instilaciones de BCG o quimioterapia en la vejiga",
+   "Cistectomía",
+   "Quimioterapia, inmunoterapia y conjugados anticuerpo-fármaco"
+  ],
+  "prevention": [
+   "No fumar",
+   "Protección laboral",
+   "Beber suficiente agua"
+  ],
+  "whenToSeek": "Consulta pronto ante sangre visible en la orina.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Cáncer de vejiga"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Cáncer de vejiga"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "cancer-rinon",
+  "name": "Cáncer de riñón",
+  "specialties": [
+   "oncologia",
+   "urologia"
+  ],
+  "summary": "El carcinoma de células renales es el tipo más común. Muchos se descubren por casualidad en una ecografía o TAC hecha por otro motivo.",
+  "keyFact": "La tríada clásica (sangre en orina, dolor lumbar y masa palpable) aparece solo en fases avanzadas.",
+  "symptoms": [
+   "Sangre en la orina",
+   "Dolor en el costado o la espalda",
+   "Masa en el abdomen",
+   "Cansancio, fiebre, pérdida de peso"
+  ],
+  "causes": [
+   "Mutaciones como las del gen VHL"
+  ],
+  "riskFactors": [
+   "Tabaco",
+   "Obesidad",
+   "Hipertensión",
+   "Diálisis prolongada",
+   "Síndrome de Von Hippel-Lindau"
+  ],
+  "diagnosis": "Ecografía, TAC o resonancia; biopsia en casos seleccionados.",
+  "treatments": [
+   "Nefrectomía parcial o total",
+   "Ablación en tumores pequeños",
+   "Inmunoterapia",
+   "Fármacos antiangiogénicos"
+  ],
+  "prevention": [
+   "No fumar",
+   "Controlar el peso y la tensión arterial"
+  ],
+  "whenToSeek": "Consulta ante sangre en orina o dolor lumbar persistente sin causa.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Cáncer de riñón"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Cáncer de riñón"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "cancer-ovario",
+  "name": "Cáncer de ovario",
+  "specialties": [
+   "oncologia",
+   "ginecologia"
+  ],
+  "summary": "Llamado a veces 'el asesino silencioso' porque sus síntomas son vagos y se diagnostica tarde con frecuencia. Muchos casos se originan en las trompas de Falopio.",
+  "keyFact": "Las portadoras de mutaciones BRCA1/2 tienen un riesgo muy superior al de la población general.",
+  "symptoms": [
+   "Hinchazón abdominal persistente",
+   "Sensación de saciedad rápida",
+   "Dolor pélvico o abdominal",
+   "Necesidad frecuente de orinar",
+   "Cambios intestinales"
+  ],
+  "causes": [
+   "Mutaciones en células del ovario o de la trompa"
+  ],
+  "riskFactors": [
+   "Mutaciones BRCA1/2 o síndrome de Lynch",
+   "Edad",
+   "Endometriosis",
+   "No haber tenido embarazos"
+  ],
+  "diagnosis": "Ecografía transvaginal, marcador CA-125, TAC y cirugía con biopsia.",
+  "treatments": [
+   "Cirugía de citorreducción",
+   "Quimioterapia (platino y taxanos)",
+   "Inhibidores de PARP (sobre todo con BRCA)",
+   "Antiangiogénicos"
+  ],
+  "prevention": [
+   "Asesoramiento genético si hay antecedentes familiares",
+   "Los anticonceptivos orales reducen el riesgo",
+   "Cirugía preventiva en portadoras de alto riesgo"
+  ],
+  "whenToSeek": "Consulta si la hinchazón abdominal o el dolor pélvico duran más de 2-3 semanas, casi a diario.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Cáncer de ovario"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Cáncer de ovario"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "tumor-cerebral",
+  "name": "Tumores cerebrales (glioma)",
+  "specialties": [
+   "oncologia",
+   "neurologia"
+  ],
+  "summary": "Pueden ser primarios (nacen en el cerebro, como gliomas y meningiomas) o metástasis de otros cánceres. El glioblastoma es el tumor cerebral maligno primario más agresivo en adultos.",
+  "keyFact": "En niños, los tumores cerebrales son los tumores sólidos más frecuentes.",
+  "symptoms": [
+   "Dolor de cabeza nuevo y progresivo, peor por la mañana",
+   "Convulsiones",
+   "Náuseas y vómitos",
+   "Debilidad o pérdida de sensibilidad en un lado",
+   "Cambios de personalidad o memoria",
+   "Alteraciones de la visión o del habla"
+  ],
+  "causes": [
+   "Mutaciones en células gliales u otras células del sistema nervioso"
+  ],
+  "riskFactors": [
+   "Radiación previa en la cabeza",
+   "Síndromes genéticos (neurofibromatosis, Li-Fraumeni)"
+  ],
+  "diagnosis": "Resonancia magnética con contraste y biopsia o cirugía con estudio molecular (IDH, MGMT).",
+  "treatments": [
+   "Cirugía para extirpar lo máximo posible",
+   "Radioterapia",
+   "Quimioterapia (temozolomida)",
+   "Campos eléctricos de tratamiento tumoral",
+   "Ensayos clínicos"
+  ],
+  "prevention": [
+   "No hay prevención conocida; evitar radiación innecesaria"
+  ],
+  "whenToSeek": "Urgencias ante una convulsión por primera vez, un dolor de cabeza súbito y muy intenso o debilidad repentina en un lado del cuerpo.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Tumores cerebrales"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Tumores cerebrales"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "infarto",
+  "name": "Infarto de miocardio (cardiopatía isquémica)",
+  "specialties": [
+   "cardiologia",
+   "salud-cardiovascular"
+  ],
+  "summary": "Ocurre cuando una arteria coronaria se obstruye (normalmente por un coágulo sobre una placa de colesterol) y parte del músculo del corazón deja de recibir oxígeno. La cardiopatía isquémica es la primera causa de muerte en el mundo. Cada minuto cuenta: el tratamiento precoz salva músculo cardíaco y vidas.",
+  "keyFact": "Es responsable de alrededor del 13 % de todas las muertes del mundo (OMS).",
+  "symptoms": [
+   "Dolor, presión u opresión en el centro del pecho de más de unos minutos",
+   "Dolor que se extiende al brazo izquierdo, mandíbula, cuello o espalda",
+   "Falta de aire",
+   "Sudor frío, náuseas, mareo",
+   "En mujeres, diabéticos y mayores: cansancio extremo o molestias atípicas"
+  ],
+  "causes": [
+   "Aterosclerosis: placas de colesterol en las arterias coronarias",
+   "Rotura de la placa y formación de un coágulo"
+  ],
+  "riskFactors": [
+   "Tabaco",
+   "Hipertensión",
+   "Colesterol LDL alto",
+   "Diabetes",
+   "Obesidad y sedentarismo",
+   "Antecedentes familiares",
+   "Estrés y mala alimentación"
+  ],
+  "diagnosis": "Electrocardiograma inmediato, troponinas en sangre, ecocardiograma y cateterismo cardíaco (coronariografía).",
+  "treatments": [
+   "Llamar a emergencias; masticar aspirina si lo indica el servicio médico",
+   "Angioplastia con stent (cateterismo urgente)",
+   "Fármacos trombolíticos si no hay cateterismo disponible",
+   "Después: antiagregantes, estatinas, betabloqueantes, IECA",
+   "Rehabilitación cardíaca"
+  ],
+  "prevention": [
+   "No fumar",
+   "Controlar tensión, colesterol y azúcar",
+   "150 minutos de ejercicio a la semana",
+   "Dieta mediterránea",
+   "Mantener un peso saludable"
+  ],
+  "complications": [
+   "Insuficiencia cardíaca",
+   "Arritmias",
+   "Nuevo infarto",
+   "Muerte súbita"
+  ],
+  "whenToSeek": "Emergencia: llama al 112/911 ante dolor u opresión en el pecho de más de 5 minutos. No conduzcas tú mismo al hospital.",
+  "faq": [
+   {
+    "q": "¿El dolor de un infarto siempre es en el pecho?",
+    "a": "No siempre. En mujeres, personas mayores y con diabetes puede manifestarse como falta de aire, cansancio extremo, náuseas o molestias en la espalda o la mandíbula."
+   },
+   {
+    "q": "¿Qué hago si creo que alguien está sufriendo un infarto?",
+    "a": "Llama a emergencias de inmediato. Si la persona pierde el conocimiento y no respira con normalidad, inicia reanimación cardiopulmonar y usa un desfibrilador si hay uno cerca."
+   }
+  ],
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "Infarto de miocardio"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Infarto de miocardio"
+   }
+  ],
+  "meta": {
+   "version": 2,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "ictus",
+  "name": "Ictus (accidente cerebrovascular)",
+  "specialties": [
+   "cardiologia",
+   "salud-cardiovascular"
+  ],
+  "summary": "Interrupción del riego sanguíneo en una parte del cerebro, por un coágulo (isquémico, ≈85 %) o por la rotura de un vaso (hemorrágico). Es la segunda causa de muerte y una de las principales de discapacidad en el mundo. 'Tiempo es cerebro': cada minuto mueren casi 2 millones de neuronas.",
+  "keyFact": "Recuerda la regla RÁPIDO / FAST: Cara caída, Brazo débil, Habla alterada → llama a emergencias.",
+  "symptoms": [
+   "Cara caída o asimétrica al sonreír",
+   "Debilidad o entumecimiento súbito de un brazo o pierna, o de un lado del cuerpo",
+   "Dificultad repentina para hablar o entender",
+   "Pérdida súbita de visión en uno o ambos ojos",
+   "Mareo intenso o pérdida de equilibrio",
+   "Dolor de cabeza súbito y muy intenso (en el hemorrágico)"
+  ],
+  "causes": [
+   "Coágulo que obstruye una arteria cerebral",
+   "Rotura de un vaso (por hipertensión o aneurisma)",
+   "Fibrilación auricular que forma coágulos en el corazón"
+  ],
+  "riskFactors": [
+   "Hipertensión (el principal)",
+   "Fibrilación auricular",
+   "Tabaco",
+   "Diabetes",
+   "Colesterol alto",
+   "Edad",
+   "Alcohol en exceso"
+  ],
+  "diagnosis": "TAC o resonancia cerebral urgente para distinguir el tipo, angio-TAC y estudio del corazón.",
+  "treatments": [
+   "Trombólisis intravenosa en las primeras horas (isquémico)",
+   "Trombectomía mecánica (extraer el coágulo con catéter)",
+   "Control de la presión y cirugía en el hemorrágico",
+   "Rehabilitación: fisioterapia, logopedia, terapia ocupacional",
+   "Prevención secundaria: antiagregantes o anticoagulantes, estatinas"
+  ],
+  "prevention": [
+   "Controlar la tensión arterial",
+   "Tratar la fibrilación auricular",
+   "No fumar",
+   "Ejercicio y dieta saludable",
+   "Moderar el alcohol"
+  ],
+  "complications": [
+   "Parálisis o debilidad",
+   "Problemas del habla o de deglución",
+   "Alteraciones de memoria",
+   "Depresión",
+   "Nuevo ictus"
+  ],
+  "whenToSeek": "Emergencia: ante cara caída, brazo débil o habla alterada, llama al 112/911 de inmediato y anota la hora de inicio de los síntomas.",
+  "faq": [
+   {
+    "q": "¿Los síntomas que desaparecen solos importan?",
+    "a": "Sí. Un ataque isquémico transitorio puede anunciar un ictus. Aunque los síntomas cedan, hay que acudir a urgencias."
+   }
+  ],
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Ictus"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Ictus"
+   }
+  ],
+  "meta": {
+   "version": 2,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "hipertension",
+  "name": "Hipertensión arterial",
+  "specialties": [
+   "cardiologia",
+   "salud-cardiovascular",
+   "medicina-interna"
+  ],
+  "summary": "Presión arterial elevada de forma mantenida (habitualmente ≥ 140/90 mmHg en consulta, aunque algunas guías usan 130/80). Se llama el 'asesino silencioso' porque casi nunca da síntomas, pero daña corazón, cerebro, riñones y ojos.",
+  "keyFact": "Afecta a unos 1.300 millones de adultos en el mundo y casi la mitad no lo sabe (OMS).",
+  "symptoms": [
+   "Normalmente ninguno",
+   "Dolor de cabeza, mareo o zumbido de oídos con cifras muy altas",
+   "Sangrado nasal",
+   "Visión borrosa"
+  ],
+  "causes": [
+   "Primaria/esencial (la mayoría): combinación de genética y estilo de vida",
+   "Secundaria: enfermedad renal, apnea del sueño, problemas hormonales, fármacos"
+  ],
+  "riskFactors": [
+   "Exceso de sal",
+   "Sobrepeso",
+   "Sedentarismo",
+   "Alcohol y tabaco",
+   "Estrés",
+   "Edad y antecedentes familiares"
+  ],
+  "diagnosis": "Varias mediciones en diferentes días, idealmente con monitorización ambulatoria (MAPA) o automedida en casa.",
+  "treatments": [
+   "Cambios de estilo de vida (menos sal, dieta DASH, ejercicio, bajar peso)",
+   "IECA o ARA-II",
+   "Antagonistas del calcio",
+   "Diuréticos tiazídicos",
+   "Combinaciones en una sola pastilla"
+  ],
+  "prevention": [
+   "Menos de 5 g de sal al día",
+   "Ejercicio regular",
+   "Frutas, verduras y legumbres",
+   "Limitar el alcohol",
+   "Medirse la tensión al menos una vez al año"
+  ],
+  "complications": [
+   "Infarto e insuficiencia cardíaca",
+   "Ictus",
+   "Enfermedad renal crónica",
+   "Daño en la retina",
+   "Demencia vascular"
+  ],
+  "whenToSeek": "Urgencias si la tensión supera 180/120 con dolor de pecho, falta de aire, confusión, debilidad o alteraciones visuales.",
+  "faq": [
+   {
+    "q": "Si me siento bien, ¿necesito tratamiento?",
+    "a": "Sí. La hipertensión rara vez da síntomas; el tratamiento busca prevenir daños futuros en corazón, cerebro y riñones."
+   },
+   {
+    "q": "¿Puedo dejar las pastillas cuando la tensión esté normal?",
+    "a": "No las suspendas por tu cuenta: la tensión suele estar normal precisamente gracias al tratamiento. Cualquier cambio debe hacerse con tu médico."
+   },
+   {
+    "q": "¿Cómo me mido bien la tensión en casa?",
+    "a": "Sentado, tras 5 minutos de reposo, con la espalda apoyada, el brazo a la altura del corazón y un manguito del tamaño adecuado. Haz dos mediciones y anótalas."
+   }
+  ],
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "Hipertensión arterial"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Hipertensión arterial"
+   }
+  ],
+  "meta": {
+   "version": 2,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "insuficiencia-cardiaca",
+  "name": "Insuficiencia cardíaca",
+  "specialties": [
+   "cardiologia",
+   "salud-cardiovascular",
+   "medicina-interna"
+  ],
+  "summary": "El corazón no bombea la sangre con la fuerza necesaria para cubrir las necesidades del cuerpo. No significa que el corazón se haya parado, sino que funciona de forma insuficiente. Es una enfermedad crónica que se puede controlar bien con tratamiento.",
+  "keyFact": "Los tratamientos modernos (incluidos los inhibidores SGLT2) han mejorado mucho la supervivencia.",
+  "symptoms": [
+   "Falta de aire al esfuerzo o al estar tumbado",
+   "Hinchazón de tobillos y piernas",
+   "Cansancio",
+   "Aumento rápido de peso por retención de líquidos",
+   "Tos nocturna",
+   "Necesidad de dormir con varias almohadas"
+  ],
+  "causes": [
+   "Infarto previo",
+   "Hipertensión mantenida",
+   "Enfermedades de las válvulas",
+   "Miocardiopatías",
+   "Arritmias"
+  ],
+  "riskFactors": [
+   "Cardiopatía isquémica",
+   "Hipertensión",
+   "Diabetes",
+   "Obesidad",
+   "Alcohol"
+  ],
+  "diagnosis": "Ecocardiograma, péptidos natriuréticos (NT-proBNP), electrocardiograma y radiografía de tórax.",
+  "treatments": [
+   "Diuréticos para el líquido",
+   "IECA/ARNI (sacubitrilo-valsartán)",
+   "Betabloqueantes",
+   "Antagonistas de mineralocorticoides",
+   "Inhibidores SGLT2",
+   "Dispositivos (desfibrilador, resincronizador)",
+   "Control de sal y líquidos, pesarse a diario"
+  ],
+  "prevention": [
+   "Controlar tensión, colesterol y diabetes",
+   "No fumar",
+   "Moderar el alcohol"
+  ],
+  "whenToSeek": "Urgencias si la falta de aire aparece en reposo, no puedes estar tumbado o toses espuma rosada.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Insuficiencia cardíaca"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Insuficiencia cardíaca"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "fibrilacion-auricular",
+  "name": "Fibrilación auricular y arritmias",
+  "specialties": [
+   "cardiologia",
+   "salud-cardiovascular"
+  ],
+  "summary": "La fibrilación auricular es la arritmia más frecuente: las aurículas laten de forma rápida y desordenada. Su gran peligro es que favorece la formación de coágulos que pueden causar un ictus.",
+  "keyFact": "Multiplica aproximadamente por cinco el riesgo de ictus.",
+  "symptoms": [
+   "Palpitaciones o latido irregular",
+   "Cansancio",
+   "Mareo",
+   "Falta de aire",
+   "A veces no da síntomas"
+  ],
+  "causes": [
+   "Envejecimiento del corazón",
+   "Hipertensión",
+   "Enfermedad valvular",
+   "Hipertiroidismo",
+   "Alcohol ('corazón de fiesta')",
+   "Apnea del sueño"
+  ],
+  "riskFactors": [
+   "Edad",
+   "Hipertensión",
+   "Obesidad",
+   "Diabetes",
+   "Insuficiencia cardíaca"
+  ],
+  "diagnosis": "Electrocardiograma, Holter de 24-48 h, relojes inteligentes (orientativos) y ecocardiograma.",
+  "treatments": [
+   "Anticoagulantes para prevenir el ictus",
+   "Fármacos para controlar la frecuencia o el ritmo",
+   "Cardioversión eléctrica",
+   "Ablación con catéter"
+  ],
+  "prevention": [
+   "Controlar la tensión y el peso",
+   "Moderar el alcohol",
+   "Tratar la apnea del sueño",
+   "Ejercicio moderado"
+  ],
+  "whenToSeek": "Urgencias si las palpitaciones se acompañan de dolor de pecho, desmayo o falta de aire intensa, o si aparecen síntomas de ictus.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Fibrilación auricular y arritmias"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Fibrilación auricular y arritmias"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "trombosis",
+  "name": "Trombosis venosa profunda y embolia pulmonar",
+  "specialties": [
+   "cardiologia",
+   "salud-cardiovascular"
+  ],
+  "summary": "Un coágulo se forma en una vena profunda, casi siempre de la pierna. Si se suelta y viaja al pulmón causa una embolia pulmonar, que puede ser mortal.",
+  "keyFact": "Moverse durante viajes largos reduce el riesgo.",
+  "symptoms": [
+   "Hinchazón de una sola pierna",
+   "Dolor o tensión en la pantorrilla",
+   "Calor y enrojecimiento",
+   "Embolia: falta de aire súbita, dolor torácico al respirar, tos con sangre"
+  ],
+  "causes": [
+   "Estasis de la sangre (inmovilidad)",
+   "Daño en la pared de la vena",
+   "Mayor tendencia a coagular"
+  ],
+  "riskFactors": [
+   "Cirugía reciente o encamamiento",
+   "Viajes largos",
+   "Cáncer",
+   "Embarazo y posparto",
+   "Anticonceptivos con estrógenos",
+   "Trombofilias hereditarias",
+   "Obesidad y tabaco"
+  ],
+  "diagnosis": "Dímero D, ecografía doppler de la pierna y angio-TAC pulmonar.",
+  "treatments": [
+   "Anticoagulantes (heparina, anticoagulantes orales directos)",
+   "Medias de compresión",
+   "Trombólisis en embolias graves"
+  ],
+  "prevention": [
+   "Moverse y caminar tras cirugías",
+   "Profilaxis con heparina cuando está indicada",
+   "Levantarse y beber agua en viajes largos"
+  ],
+  "whenToSeek": "Urgencias ante falta de aire súbita o dolor torácico, especialmente si tienes una pierna hinchada.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Trombosis venosa profunda y embolia pulmonar"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Trombosis venosa profunda y embolia pulmonar"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "colesterol",
+  "name": "Colesterol alto (dislipemia)",
+  "specialties": [
+   "cardiologia",
+   "salud-cardiovascular",
+   "medicina-preventiva"
+  ],
+  "summary": "Niveles elevados de colesterol LDL ('malo') o triglicéridos en sangre. No da síntomas, pero se deposita en las arterias (aterosclerosis) y es una de las principales causas de infarto e ictus.",
+  "keyFact": "Cuanto más bajo y durante más tiempo esté el LDL, menor es el riesgo cardiovascular.",
+  "symptoms": [
+   "Ninguno en la mayoría de los casos",
+   "Xantomas (bultos amarillentos en tendones o párpados) en formas familiares"
+  ],
+  "causes": [
+   "Dieta rica en grasas saturadas y trans",
+   "Genética (hipercolesterolemia familiar)",
+   "Hipotiroidismo, diabetes"
+  ],
+  "riskFactors": [
+   "Sedentarismo",
+   "Obesidad",
+   "Tabaco",
+   "Antecedentes familiares"
+  ],
+  "diagnosis": "Análisis de sangre (perfil lipídico: colesterol total, LDL, HDL, triglicéridos).",
+  "treatments": [
+   "Dieta y ejercicio",
+   "Estatinas",
+   "Ezetimiba",
+   "Inhibidores de PCSK9 e inclisirán en alto riesgo"
+  ],
+  "prevention": [
+   "Dieta mediterránea rica en fibra, frutos secos y aceite de oliva",
+   "Ejercicio",
+   "No fumar",
+   "Análisis periódicos"
+  ],
+  "complications": [
+   "Aterosclerosis",
+   "Infarto",
+   "Ictus",
+   "Enfermedad arterial periférica"
+  ],
+  "whenToSeek": "No es una urgencia en sí, pero conviene tratarlo si tu riesgo cardiovascular es alto.",
+  "faq": [
+   {
+    "q": "¿El colesterol de los alimentos es el principal problema?",
+    "a": "Influyen más las grasas saturadas y trans, el peso, la actividad física y la genética que el colesterol de los alimentos."
+   }
+  ],
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Colesterol alto"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Colesterol alto"
+   }
+  ],
+  "meta": {
+   "version": 2,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "epoc",
+  "name": "EPOC (enfermedad pulmonar obstructiva crónica)",
+  "specialties": [
+   "neumologia"
+  ],
+  "summary": "Enfermedad pulmonar crónica que obstruye el paso del aire y empeora con el tiempo. Incluye la bronquitis crónica y el enfisema. Es una de las principales causas de muerte del mundo y está muy infradiagnosticada.",
+  "keyFact": "Está entre las cuatro primeras causas de muerte en el mundo (OMS).",
+  "symptoms": [
+   "Falta de aire progresiva al esfuerzo",
+   "Tos crónica con flemas",
+   "Pitidos en el pecho",
+   "Infecciones respiratorias frecuentes",
+   "Cansancio"
+  ],
+  "causes": [
+   "Tabaco (principal)",
+   "Humo de leña o carbón en cocinas",
+   "Polvos y químicos laborales",
+   "Déficit de alfa-1 antitripsina"
+  ],
+  "riskFactors": [
+   "Fumar",
+   "Contaminación",
+   "Infecciones respiratorias en la infancia"
+  ],
+  "diagnosis": "Espirometría (prueba de soplido) que muestra obstrucción no totalmente reversible.",
+  "treatments": [
+   "Dejar de fumar (lo más eficaz)",
+   "Broncodilatadores inhalados (LAMA, LABA)",
+   "Corticoides inhalados en algunos pacientes",
+   "Rehabilitación respiratoria",
+   "Oxígeno domiciliario si es necesario",
+   "Vacunas (gripe, neumococo, VRS, COVID)"
+  ],
+  "prevention": [
+   "No fumar",
+   "Cocinas ventiladas o limpias",
+   "Protección respiratoria en el trabajo"
+  ],
+  "whenToSeek": "Urgencias si la falta de aire empeora mucho, labios morados, confusión o somnolencia.",
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "EPOC"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "EPOC"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "asma",
+  "name": "Asma",
+  "specialties": [
+   "neumologia",
+   "alergologia",
+   "pediatria"
+  ],
+  "summary": "Inflamación crónica de los bronquios que los vuelve hiperreactivos: ante ciertos desencadenantes se estrechan y cuesta respirar. Afecta a niños y adultos y, bien tratada, permite una vida normal.",
+  "keyFact": "Afecta a más de 250 millones de personas en el mundo.",
+  "symptoms": [
+   "Pitidos (sibilancias)",
+   "Falta de aire",
+   "Opresión en el pecho",
+   "Tos, sobre todo nocturna o con el ejercicio"
+  ],
+  "causes": [
+   "Predisposición genética y alérgica",
+   "Desencadenantes: ácaros, polen, mascotas, humo, frío, infecciones, ejercicio"
+  ],
+  "riskFactors": [
+   "Alergias o dermatitis atópica",
+   "Antecedentes familiares",
+   "Tabaquismo pasivo",
+   "Obesidad"
+  ],
+  "diagnosis": "Espirometría con prueba broncodilatadora, medición del flujo espiratorio máximo, FeNO y pruebas de alergia.",
+  "treatments": [
+   "Inhalador de mantenimiento con corticoide",
+   "Inhalador de rescate (broncodilatador)",
+   "Plan de acción escrito",
+   "Biológicos en asma grave",
+   "Evitar desencadenantes"
+  ],
+  "prevention": [
+   "Usar bien el inhalador (técnica)",
+   "Evitar el humo del tabaco",
+   "Controlar alergias",
+   "Vacunarse contra la gripe"
+  ],
+  "complications": [
+   "Crisis graves que requieren hospitalización",
+   "Alteración del sueño y del rendimiento",
+   "Remodelado de las vías aéreas si no se controla"
+  ],
+  "whenToSeek": "Urgencias si el inhalador de rescate no alivia, no puedes hablar frases completas o los labios se ponen azulados.",
+  "faq": [
+   {
+    "q": "¿Los corticoides inhalados son peligrosos?",
+    "a": "A las dosis habituales son seguros y son el pilar del control del asma. Enjuagarse la boca después reduce efectos locales como la candidiasis."
+   },
+   {
+    "q": "¿Puedo hacer deporte con asma?",
+    "a": "Sí. Con el asma bien controlada, el ejercicio es recomendable. Habla con tu médico si los síntomas aparecen al hacer deporte."
+   }
+  ],
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Asma"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Asma"
+   }
+  ],
+  "meta": {
+   "version": 2,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "neumonia",
+  "name": "Neumonía",
+  "specialties": [
+   "neumologia",
+   "infectologia"
+  ],
+  "summary": "Infección de los pulmones en la que los alvéolos se llenan de líquido o pus. Puede deberse a bacterias, virus u hongos. Es la principal causa infecciosa de muerte en niños pequeños a nivel mundial.",
+  "keyFact": "Las infecciones respiratorias bajas están entre las 10 principales causas de muerte (OMS).",
+  "symptoms": [
+   "Fiebre y escalofríos",
+   "Tos con flemas",
+   "Dolor en el pecho al respirar",
+   "Falta de aire",
+   "Cansancio; en mayores, confusión"
+  ],
+  "causes": [
+   "Bacterias (neumococo es la más común)",
+   "Virus (gripe, VRS, SARS-CoV-2)",
+   "Hongos en inmunodeprimidos"
+  ],
+  "riskFactors": [
+   "Menores de 5 años y mayores de 65",
+   "Tabaco",
+   "EPOC, asma, diabetes, insuficiencia cardíaca",
+   "Inmunosupresión"
+  ],
+  "diagnosis": "Exploración (auscultación), radiografía de tórax, saturación de oxígeno y análisis.",
+  "treatments": [
+   "Antibióticos si es bacteriana",
+   "Antivirales en casos concretos",
+   "Líquidos, reposo y antitérmicos",
+   "Oxígeno y hospitalización en casos graves"
+  ],
+  "prevention": [
+   "Vacunas: neumococo, gripe, COVID-19, VRS, Hib, tos ferina",
+   "No fumar",
+   "Lavado de manos"
+  ],
+  "whenToSeek": "Urgencias ante dificultad para respirar, labios azulados, confusión o fiebre alta en bebés y mayores.",
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "Neumonía"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Neumonía"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "tuberculosis",
+  "name": "Tuberculosis",
+  "specialties": [
+   "neumologia",
+   "infectologia"
+  ],
+  "summary": "Infección causada por la bacteria Mycobacterium tuberculosis, que suele afectar a los pulmones y se transmite por el aire. Es la enfermedad infecciosa que más muertes causa por un solo agente en el mundo, pero es prevenible y curable.",
+  "keyFact": "En 2024 enfermaron 10,7 millones de personas y murieron 1,23 millones (OMS).",
+  "symptoms": [
+   "Tos de más de 2-3 semanas, a veces con sangre",
+   "Fiebre y sudores nocturnos",
+   "Pérdida de peso",
+   "Cansancio",
+   "Dolor torácico"
+  ],
+  "causes": [
+   "Mycobacterium tuberculosis, transmitida al toser o hablar"
+  ],
+  "riskFactors": [
+   "VIH",
+   "Desnutrición",
+   "Diabetes",
+   "Tabaco y alcohol",
+   "Hacinamiento",
+   "Contacto con enfermos"
+  ],
+  "diagnosis": "Pruebas moleculares rápidas en esputo (p. ej., Xpert), baciloscopia, cultivo, radiografía; test de tuberculina o IGRA para infección latente.",
+  "treatments": [
+   "Combinación de antibióticos durante al menos 4-6 meses (isoniazida, rifampicina, pirazinamida, etambutol)",
+   "Pautas especiales para la TB resistente",
+   "Tomar el tratamiento completo, sin saltar dosis"
+  ],
+  "prevention": [
+   "Vacuna BCG en niños en países de alta incidencia",
+   "Tratar la infección latente",
+   "Ventilación",
+   "Diagnóstico y tratamiento precoz de los enfermos"
+  ],
+  "whenToSeek": "Consulta si tienes tos de más de 2 semanas con fiebre, sudores o pérdida de peso; urgencias si toses mucha sangre.",
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "Tuberculosis"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Tuberculosis"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "gripe",
+  "name": "Gripe (influenza)",
+  "specialties": [
+   "neumologia",
+   "infectologia"
+  ],
+  "summary": "Infección vírica respiratoria que aparece en epidemias estacionales. Es más intensa que un resfriado y puede complicarse, sobre todo en mayores, embarazadas, niños pequeños y personas con enfermedades crónicas.",
+  "keyFact": "La vacuna se actualiza cada año según las cepas circulantes.",
+  "symptoms": [
+   "Fiebre alta de inicio brusco",
+   "Dolores musculares",
+   "Dolor de cabeza",
+   "Tos seca",
+   "Cansancio intenso",
+   "Dolor de garganta"
+  ],
+  "causes": [
+   "Virus de la gripe A y B"
+  ],
+  "riskFactors": [
+   "Mayores de 65",
+   "Embarazo",
+   "Enfermedades crónicas",
+   "Inmunosupresión"
+  ],
+  "diagnosis": "Clínica en época epidémica; test rápido o PCR.",
+  "treatments": [
+   "Reposo, líquidos, paracetamol",
+   "Antivirales (oseltamivir) en personas de riesgo o casos graves, idealmente en las primeras 48 h",
+   "Los antibióticos no sirven contra el virus"
+  ],
+  "prevention": [
+   "Vacuna anual",
+   "Lavado de manos",
+   "Taparse al toser",
+   "Quedarse en casa si estás enfermo"
+  ],
+  "whenToSeek": "Urgencias si hay dificultad para respirar, dolor torácico, confusión o si mejora y luego empeora con fiebre alta.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Gripe"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Gripe"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "covid",
+  "name": "COVID-19",
+  "specialties": [
+   "neumologia",
+   "infectologia"
+  ],
+  "summary": "Enfermedad causada por el coronavirus SARS-CoV-2. Puede ir de asintomática a neumonía grave. Algunas personas desarrollan síntomas prolongados (COVID persistente).",
+  "keyFact": "Fue la segunda causa de muerte mundial en 2021 según la OMS.",
+  "symptoms": [
+   "Fiebre",
+   "Tos",
+   "Dolor de garganta",
+   "Cansancio",
+   "Pérdida del olfato o gusto",
+   "Dolores musculares",
+   "Falta de aire en casos graves"
+  ],
+  "causes": [
+   "Virus SARS-CoV-2 y sus variantes"
+  ],
+  "riskFactors": [
+   "Edad avanzada",
+   "Enfermedades crónicas",
+   "Inmunosupresión",
+   "No estar vacunado"
+  ],
+  "diagnosis": "Test de antígenos o PCR.",
+  "treatments": [
+   "Reposo y tratamiento de síntomas",
+   "Antivirales (nirmatrelvir/ritonavir) en personas de riesgo",
+   "Oxígeno y corticoides en casos graves"
+  ],
+  "prevention": [
+   "Vacunación actualizada",
+   "Ventilación de espacios",
+   "Mascarilla en situaciones de riesgo",
+   "Lavado de manos"
+  ],
+  "whenToSeek": "Urgencias ante dificultad para respirar, saturación de oxígeno baja, dolor torácico o confusión.",
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "COVID-19"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "COVID-19"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "apnea",
+  "name": "Apnea obstructiva del sueño",
+  "specialties": [
+   "neumologia",
+   "otorrinolaringologia"
+  ],
+  "summary": "Durante el sueño la vía aérea se cierra repetidamente y la respiración se detiene durante segundos. Provoca sueño de mala calidad y aumenta el riesgo de hipertensión, arritmias, accidentes e ictus.",
+  "keyFact": "Muchos casos no están diagnosticados.",
+  "symptoms": [
+   "Ronquidos fuertes",
+   "Pausas respiratorias observadas por la pareja",
+   "Somnolencia durante el día",
+   "Dolor de cabeza matutino",
+   "Despertares con sensación de ahogo"
+  ],
+  "causes": [
+   "Relajación y colapso de la vía aérea superior durante el sueño"
+  ],
+  "riskFactors": [
+   "Obesidad",
+   "Cuello ancho",
+   "Alcohol y sedantes",
+   "Amígdalas grandes",
+   "Edad y sexo masculino"
+  ],
+  "diagnosis": "Polisomnografía o poligrafía respiratoria domiciliaria.",
+  "treatments": [
+   "CPAP (máquina de presión positiva) por la noche",
+   "Pérdida de peso",
+   "Dispositivos de avance mandibular",
+   "Cirugía en casos seleccionados"
+  ],
+  "prevention": [
+   "Mantener un peso saludable",
+   "Evitar alcohol por la noche",
+   "Dormir de lado"
+  ],
+  "whenToSeek": "Consulta si tienes mucho sueño de día: no conduzcas si te duermes al volante.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Apnea obstructiva del sueño"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Apnea obstructiva del sueño"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "vih",
+  "name": "VIH / sida",
+  "specialties": [
+   "infectologia",
+   "salud-sexual",
+   "inmunologia"
+  ],
+  "summary": "El virus de la inmunodeficiencia humana (VIH) ataca las defensas del cuerpo. Sin tratamiento evoluciona a sida. Hoy, con tratamiento antirretroviral, una persona con VIH puede tener una esperanza de vida casi normal, y si su carga viral es indetectable no transmite el virus por vía sexual (I = I, indetectable = intransmisible).",
+  "keyFact": "1,2 millones de nuevas infecciones y 570.000 muertes relacionadas con el sida en 2025 (ONUSIDA).",
+  "symptoms": [
+   "Fase aguda: fiebre, dolor de garganta, erupción, ganglios (parecido a una gripe)",
+   "Años sin síntomas",
+   "Sida: infecciones oportunistas, pérdida de peso, diarrea crónica, fiebre persistente"
+  ],
+  "causes": [
+   "Virus VIH transmitido por relaciones sexuales sin protección, sangre (agujas compartidas) y de madre a hijo"
+  ],
+  "riskFactors": [
+   "Relaciones sin preservativo",
+   "Compartir material de inyección",
+   "Otras infecciones de transmisión sexual"
+  ],
+  "diagnosis": "Test de anticuerpos/antígeno en sangre o test rápido; carga viral y CD4 para seguimiento.",
+  "treatments": [
+   "Tratamiento antirretroviral (TAR) de por vida, hoy a menudo en una pastilla diaria o inyecciones de acción prolongada",
+   "Seguimiento de carga viral"
+  ],
+  "prevention": [
+   "Preservativo",
+   "PrEP (profilaxis preexposición) en personas con riesgo",
+   "PEP (profilaxis postexposición) en las primeras 72 h tras un riesgo",
+   "No compartir agujas",
+   "Test periódicos",
+   "Tratamiento en el embarazo para evitar la transmisión al bebé"
+  ],
+  "whenToSeek": "Si tuviste una exposición de riesgo, acude a urgencias cuanto antes (máx. 72 h) para valorar la PEP.",
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "VIH / sida"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "VIH / sida"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "malaria",
+  "name": "Malaria (paludismo)",
+  "specialties": [
+   "infectologia"
+  ],
+  "summary": "Enfermedad causada por parásitos Plasmodium que transmiten los mosquitos Anopheles. Es prevenible y curable, pero sigue matando a cientos de miles de personas, sobre todo niños pequeños en África.",
+  "keyFact": "263 millones de casos y 597.000 muertes en 2023; el 94 % de los casos en África (OMS).",
+  "symptoms": [
+   "Fiebre alta con escalofríos, a veces en ciclos",
+   "Sudoración",
+   "Dolor de cabeza",
+   "Náuseas y vómitos",
+   "Dolores musculares",
+   "Grave: confusión, convulsiones, anemia, dificultad respiratoria"
+  ],
+  "causes": [
+   "Plasmodium falciparum (el más peligroso), vivax, ovale, malariae y knowlesi"
+  ],
+  "riskFactors": [
+   "Vivir o viajar a zonas endémicas",
+   "Niños menores de 5 años",
+   "Embarazo",
+   "No usar mosquiteras ni profilaxis"
+  ],
+  "diagnosis": "Gota gruesa y frotis de sangre al microscopio o test de diagnóstico rápido.",
+  "treatments": [
+   "Terapias combinadas con artemisinina (TCA)",
+   "Artesunato intravenoso en malaria grave",
+   "Primaquina o tafenoquina para evitar recaídas de P. vivax"
+  ],
+  "prevention": [
+   "Mosquiteras tratadas con insecticida",
+   "Repelentes y ropa larga",
+   "Profilaxis antipalúdica al viajar",
+   "Vacunas RTS,S y R21 para niños en zonas endémicas"
+  ],
+  "whenToSeek": "Cualquier fiebre tras viajar a zona con malaria es una urgencia médica hasta que se descarte.",
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "Malaria"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Malaria"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "dengue",
+  "name": "Dengue",
+  "specialties": [
+   "infectologia"
+  ],
+  "summary": "Infección vírica transmitida por el mosquito Aedes aegypti, muy extendida en zonas tropicales de Latinoamérica y Asia. La mayoría de los casos son leves, pero una segunda infección puede causar dengue grave.",
+  "keyFact": "Los casos de dengue en el mundo han batido récords en los últimos años.",
+  "symptoms": [
+   "Fiebre alta repentina",
+   "Dolor intenso detrás de los ojos",
+   "Dolores musculares y articulares ('fiebre quebrantahuesos')",
+   "Erupción en la piel",
+   "Náuseas",
+   "Señales de alarma: dolor abdominal intenso, vómitos persistentes, sangrado de encías, somnolencia"
+  ],
+  "causes": [
+   "Virus del dengue (4 serotipos) transmitido por mosquitos Aedes"
+  ],
+  "riskFactors": [
+   "Vivir o viajar a zonas tropicales",
+   "Haber tenido dengue antes (riesgo de forma grave)"
+  ],
+  "diagnosis": "Antígeno NS1, PCR o serología; hemograma (plaquetas bajas).",
+  "treatments": [
+   "No hay antiviral específico",
+   "Hidratación abundante",
+   "Paracetamol para la fiebre",
+   "EVITAR aspirina e ibuprofeno (aumentan el riesgo de sangrado)",
+   "Hospitalización en casos graves"
+  ],
+  "prevention": [
+   "Eliminar agua estancada (floreros, neumáticos, cubos)",
+   "Repelente y mosquiteras",
+   "Ropa de manga larga",
+   "Vacunas disponibles en algunos países según edad y antecedentes"
+  ],
+  "whenToSeek": "Urgencias ante dolor abdominal intenso, vómitos persistentes, sangrados, somnolencia o cuando baja la fiebre y te sientes peor.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Dengue"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Dengue"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "hepatitis-b",
+  "name": "Hepatitis B",
+  "specialties": [
+   "infectologia",
+   "gastroenterologia"
+  ],
+  "summary": "Infección del hígado por el virus de la hepatitis B, que puede volverse crónica y llevar a cirrosis y cáncer de hígado. Existe una vacuna muy eficaz.",
+  "keyFact": "Unos 250 millones de personas viven con hepatitis B crónica (OMS).",
+  "symptoms": [
+   "Muchas veces sin síntomas",
+   "Cansancio",
+   "Piel y ojos amarillos",
+   "Orina oscura",
+   "Dolor abdominal y náuseas"
+  ],
+  "causes": [
+   "Virus VHB transmitido por sangre, relaciones sexuales y de madre a hijo en el parto"
+  ],
+  "riskFactors": [
+   "No estar vacunado",
+   "Compartir agujas",
+   "Relaciones sin protección",
+   "Madre portadora"
+  ],
+  "diagnosis": "Análisis de sangre: HBsAg, anticuerpos y carga viral; elastografía hepática.",
+  "treatments": [
+   "Antivirales (tenofovir, entecavir) en la hepatitis crónica activa",
+   "Seguimiento del hígado de por vida"
+  ],
+  "prevention": [
+   "Vacuna (incluida en el calendario infantil)",
+   "Preservativo",
+   "No compartir agujas, cuchillas ni cepillos"
+  ],
+  "whenToSeek": "Urgencias ante ictericia con confusión, somnolencia o sangrados.",
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "Hepatitis B"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Hepatitis B"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "hepatitis-c",
+  "name": "Hepatitis C",
+  "specialties": [
+   "infectologia",
+   "gastroenterologia"
+  ],
+  "summary": "Infección del hígado por el virus de la hepatitis C, que suele volverse crónica sin dar síntomas durante décadas. La gran noticia: hoy se cura en más del 95 % de los casos con pastillas durante 8-12 semanas.",
+  "keyFact": "No hay vacuna, pero sí tratamiento curativo.",
+  "symptoms": [
+   "Normalmente ninguno durante años",
+   "Cansancio",
+   "Síntomas de cirrosis en fases avanzadas"
+  ],
+  "causes": [
+   "Virus VHC transmitido por sangre (agujas, transfusiones antiguas, tatuajes sin esterilizar)"
+  ],
+  "riskFactors": [
+   "Uso de drogas inyectadas",
+   "Transfusiones antes de los años 90",
+   "Tatuajes o piercings sin garantías sanitarias"
+  ],
+  "diagnosis": "Anticuerpos anti-VHC y confirmación con ARN viral.",
+  "treatments": [
+   "Antivirales de acción directa (sofosbuvir/velpatasvir, glecaprevir/pibrentasvir)"
+  ],
+  "prevention": [
+   "No compartir agujas ni material cortante",
+   "Material estéril en tatuajes",
+   "Hacerse la prueba al menos una vez en la vida"
+  ],
+  "whenToSeek": "Consulta si te detectan anticuerpos: el tratamiento cura.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Hepatitis C"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Hepatitis C"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "sarampion",
+  "name": "Sarampión",
+  "specialties": [
+   "infectologia",
+   "pediatria"
+  ],
+  "summary": "Una de las enfermedades más contagiosas que existen. Puede causar neumonía, encefalitis y muerte, especialmente en niños desnutridos. La vacuna triple vírica la previene y ha salvado millones de vidas.",
+  "keyFact": "Una persona con sarampión puede contagiar a 9 de cada 10 personas cercanas no vacunadas.",
+  "symptoms": [
+   "Fiebre alta",
+   "Tos, mocos y ojos rojos",
+   "Manchitas blancas dentro de la boca (manchas de Koplik)",
+   "Erupción rojiza que empieza en la cara y baja por el cuerpo"
+  ],
+  "causes": [
+   "Virus del sarampión transmitido por el aire"
+  ],
+  "riskFactors": [
+   "No estar vacunado",
+   "Desnutrición y falta de vitamina A",
+   "Inmunosupresión"
+  ],
+  "diagnosis": "Clínica y confirmación con análisis (IgM o PCR).",
+  "treatments": [
+   "No hay antiviral específico; tratamiento de síntomas",
+   "Vitamina A en niños",
+   "Tratar complicaciones"
+  ],
+  "prevention": [
+   "Dos dosis de vacuna triple vírica (sarampión, rubéola, paperas)",
+   "Aislamiento de los casos"
+  ],
+  "whenToSeek": "Urgencias ante dificultad para respirar, convulsiones, somnolencia o deshidratación.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Sarampión"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Sarampión"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "colera",
+  "name": "Cólera y diarreas infecciosas",
+  "specialties": [
+   "infectologia"
+  ],
+  "summary": "El cólera es una infección intestinal por Vibrio cholerae que causa diarrea acuosa tan abundante que puede matar por deshidratación en horas. Las enfermedades diarreicas siguen siendo una gran causa de muerte infantil donde no hay agua segura.",
+  "keyFact": "Las sales de rehidratación oral son uno de los grandes avances médicos del siglo XX.",
+  "symptoms": [
+   "Diarrea acuosa abundante ('agua de arroz')",
+   "Vómitos",
+   "Sed intensa",
+   "Calambres",
+   "Signos de deshidratación: boca seca, ojos hundidos, poca orina"
+  ],
+  "causes": [
+   "Agua o alimentos contaminados con heces"
+  ],
+  "riskFactors": [
+   "Falta de agua potable y saneamiento",
+   "Desastres y campos de refugiados"
+  ],
+  "diagnosis": "Cultivo de heces o test rápido.",
+  "treatments": [
+   "Sales de rehidratación oral (SRO)",
+   "Sueros intravenosos en casos graves",
+   "Antibióticos en casos graves",
+   "Zinc en niños con diarrea"
+  ],
+  "prevention": [
+   "Agua potable (hervida o clorada)",
+   "Lavado de manos con jabón",
+   "Alimentos bien cocinados",
+   "Vacuna oral contra el cólera"
+  ],
+  "whenToSeek": "Urgencias si hay signos de deshidratación grave, especialmente en bebés y ancianos.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Cólera y diarreas infecciosas"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Cólera y diarreas infecciosas"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "itu",
+  "name": "Infección urinaria (cistitis)",
+  "specialties": [
+   "infectologia",
+   "urologia"
+  ],
+  "summary": "Infección de la vejiga (cistitis) o, si sube, del riñón (pielonefritis), casi siempre por la bacteria E. coli. Es muy frecuente en mujeres por la menor longitud de la uretra.",
+  "keyFact": "Más de la mitad de las mujeres tendrá al menos una cistitis en su vida.",
+  "symptoms": [
+   "Escozor o dolor al orinar",
+   "Ganas frecuentes y urgentes de orinar",
+   "Orina turbia o maloliente",
+   "Dolor en la parte baja del abdomen",
+   "Pielonefritis: fiebre, escalofríos y dolor lumbar"
+  ],
+  "causes": [
+   "Bacterias intestinales que suben por la uretra (E. coli)"
+  ],
+  "riskFactors": [
+   "Sexo femenino",
+   "Relaciones sexuales",
+   "Embarazo",
+   "Menopausia",
+   "Sonda urinaria",
+   "Diabetes",
+   "Cálculos o próstata agrandada"
+  ],
+  "diagnosis": "Tira reactiva de orina y urocultivo.",
+  "treatments": [
+   "Antibióticos (fosfomicina, nitrofurantoína u otros según guías locales)",
+   "Beber líquidos"
+  ],
+  "prevention": [
+   "Beber suficiente agua",
+   "Orinar después de las relaciones",
+   "Limpiarse de delante hacia atrás",
+   "No aguantar las ganas de orinar"
+  ],
+  "whenToSeek": "Urgencias si hay fiebre alta con dolor lumbar, vómitos o si estás embarazada con síntomas.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Infección urinaria"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Infección urinaria"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "chagas",
+  "name": "Enfermedad de Chagas",
+  "specialties": [
+   "infectologia"
+  ],
+  "summary": "Infección por el parásito Trypanosoma cruzi, transmitido por las heces de la vinchuca o chinche besucona, endémica en Latinoamérica. Puede permanecer silenciosa durante décadas y luego dañar el corazón o el aparato digestivo.",
+  "keyFact": "Se estima que entre 6 y 7 millones de personas están infectadas (OMS).",
+  "symptoms": [
+   "Fase aguda: fiebre, hinchazón del párpado (signo de Romaña) o en la picadura",
+   "Fase crónica: arritmias, insuficiencia cardíaca, megaesófago o megacolon"
+  ],
+  "causes": [
+   "Trypanosoma cruzi transmitido por insectos triatominos, transfusiones, de madre a hijo o alimentos contaminados"
+  ],
+  "riskFactors": [
+   "Viviendas rurales de adobe o techos de paja en zonas endémicas",
+   "Madre infectada"
+  ],
+  "diagnosis": "Serología (dos pruebas distintas); en fase aguda, observación del parásito en sangre.",
+  "treatments": [
+   "Benznidazol o nifurtimox (muy eficaces en fase aguda y en niños)",
+   "Tratamiento de las complicaciones cardíacas"
+  ],
+  "prevention": [
+   "Mejorar viviendas y fumigar",
+   "Control de sangre donada",
+   "Cribado en embarazadas de zonas endémicas"
+  ],
+  "whenToSeek": "Consulta si has vivido en zona endémica y tienes palpitaciones o desmayos.",
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "Enfermedad de Chagas"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Enfermedad de Chagas"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "rabia",
+  "name": "Rabia",
+  "specialties": [
+   "infectologia"
+  ],
+  "summary": "Infección vírica del sistema nervioso transmitida por la mordedura o arañazo de animales infectados (sobre todo perros). Una vez aparecen los síntomas es casi siempre mortal, pero es 100 % prevenible si se actúa a tiempo tras la mordedura.",
+  "keyFact": "La mayoría de las muertes humanas por rabia se deben a mordeduras de perros.",
+  "symptoms": [
+   "Hormigueo o dolor en la zona de la mordedura",
+   "Fiebre",
+   "Agitación, confusión",
+   "Miedo al agua (hidrofobia)",
+   "Parálisis"
+  ],
+  "causes": [
+   "Virus de la rabia en la saliva de animales infectados (perros, murciélagos, zorros)"
+  ],
+  "riskFactors": [
+   "Mordeduras de animales en zonas endémicas",
+   "Contacto con murciélagos"
+  ],
+  "diagnosis": "Evaluación de la exposición; en enfermos, pruebas específicas de saliva, piel o líquido cefalorraquídeo.",
+  "treatments": [
+   "Profilaxis tras la exposición: lavar la herida 15 minutos con agua y jabón, vacuna antirrábica y a veces inmunoglobulina"
+  ],
+  "prevention": [
+   "Vacunar a perros y gatos",
+   "No tocar animales desconocidos o salvajes",
+   "Vacuna preventiva en viajeros de riesgo"
+  ],
+  "whenToSeek": "Tras cualquier mordedura de animal: lava la herida con agua y jabón durante 15 minutos y acude a un centro sanitario HOY.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Rabia"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Rabia"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "sifilis-its",
+  "name": "Sífilis y otras ITS",
+  "specialties": [
+   "infectologia",
+   "salud-sexual"
+  ],
+  "summary": "Las infecciones de transmisión sexual (ITS) incluyen sífilis, gonorrea, clamidia, herpes genital y VPH. Muchas no dan síntomas y pueden causar infertilidad u otras complicaciones. La sífilis ha aumentado en muchos países.",
+  "keyFact": "Se producen más de un millón de ITS curables cada día en el mundo (OMS).",
+  "symptoms": [
+   "Llaga indolora en genitales, ano o boca (sífilis primaria)",
+   "Erupción en palmas y plantas (sífilis secundaria)",
+   "Flujo o secreción anormal",
+   "Escozor al orinar",
+   "Muchas veces sin síntomas"
+  ],
+  "causes": [
+   "Bacterias (Treponema pallidum, gonococo, clamidia), virus (herpes, VPH, VIH) o parásitos (tricomonas)"
+  ],
+  "riskFactors": [
+   "Relaciones sin preservativo",
+   "Varias parejas",
+   "ITS previas"
+  ],
+  "diagnosis": "Análisis de sangre (sífilis, VIH, hepatitis), PCR en orina o exudados.",
+  "treatments": [
+   "Sífilis: penicilina benzatina",
+   "Clamidia y gonorrea: antibióticos específicos",
+   "Herpes: antivirales",
+   "Tratar también a la pareja"
+  ],
+  "prevention": [
+   "Preservativo",
+   "Pruebas periódicas",
+   "Vacuna del VPH y hepatitis B",
+   "Doxi-PEP en algunos grupos de riesgo según guías locales"
+  ],
+  "whenToSeek": "Consulta ante cualquier llaga o secreción genital. Las embarazadas deben hacerse la prueba de sífilis.",
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "Sífilis y otras ITS"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Sífilis y otras ITS"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "varicela",
+  "name": "Varicela y herpes zóster",
+  "specialties": [
+   "infectologia",
+   "pediatria"
+  ],
+  "summary": "La varicela es una infección muy contagiosa, típica de la infancia, causada por el virus varicela-zóster. El virus queda dormido en los nervios y puede reactivarse años después como herpes zóster ('culebrilla'), una erupción dolorosa en franja.",
+  "keyFact": "Existen vacunas eficaces tanto para la varicela como para el herpes zóster.",
+  "symptoms": [
+   "Varicela: fiebre y ampollas que pican por todo el cuerpo en distintas fases",
+   "Zóster: dolor o ardor en una franja de un lado del cuerpo seguido de ampollas"
+  ],
+  "causes": [
+   "Virus varicela-zóster"
+  ],
+  "riskFactors": [
+   "No estar vacunado",
+   "Zóster: edad > 50, estrés, inmunosupresión"
+  ],
+  "diagnosis": "Clínico; PCR en casos dudosos.",
+  "treatments": [
+   "Varicela: antihistamínicos, paracetamol (evitar aspirina en niños)",
+   "Zóster: antivirales en las primeras 72 h y control del dolor"
+  ],
+  "prevention": [
+   "Vacuna de la varicela en la infancia",
+   "Vacuna del zóster a partir de los 50-65 años según el país"
+  ],
+  "whenToSeek": "Urgencias si el zóster afecta al ojo, o si hay dificultad respiratoria, confusión o ampollas infectadas.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Varicela y herpes zóster"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Varicela y herpes zóster"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "mpox",
+  "name": "Mpox (viruela símica)",
+  "specialties": [
+   "infectologia"
+  ],
+  "summary": "Infección vírica emparentada con la viruela, que se transmite por contacto estrecho piel con piel, incluido el sexual. La OMS la declaró emergencia internacional en 2022 y de nuevo en 2024.",
+  "keyFact": "Existe una vacuna para personas con alto riesgo de exposición.",
+  "symptoms": [
+   "Erupción o lesiones que pasan por fases (mancha, ampolla, costra), a menudo en genitales, cara o manos",
+   "Fiebre",
+   "Ganglios inflamados",
+   "Dolor de cabeza y muscular"
+  ],
+  "causes": [
+   "Virus mpox (clados I y II)"
+  ],
+  "riskFactors": [
+   "Contacto estrecho o sexual con personas infectadas",
+   "Contacto con animales infectados en zonas endémicas"
+  ],
+  "diagnosis": "PCR de las lesiones.",
+  "treatments": [
+   "Tratamiento de síntomas y cuidado de las lesiones",
+   "Antivirales (tecovirimat) en casos graves"
+  ],
+  "prevention": [
+   "Vacunación de grupos de riesgo",
+   "Evitar contacto con lesiones",
+   "Aislamiento hasta que caigan las costras"
+  ],
+  "whenToSeek": "Consulta si tienes lesiones nuevas tras un contacto de riesgo; urgencias si afectan a los ojos.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Mpox"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Mpox"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "diabetes-2",
+  "name": "Diabetes tipo 2",
+  "specialties": [
+   "endocrinologia",
+   "medicina-interna",
+   "nutricion"
+  ],
+  "summary": "El cuerpo no usa bien la insulina (resistencia a la insulina) y el azúcar en sangre sube. Es la forma más común de diabetes (≈90 %). Mal controlada daña ojos, riñones, nervios, corazón y pies, pero puede prevenirse o retrasarse con hábitos saludables y, en algunos casos, entrar en remisión.",
+  "keyFact": "589 millones de adultos viven con diabetes y unos 252 millones no lo saben (FID, 2025).",
+  "symptoms": [
+   "Mucha sed y orinar a menudo",
+   "Hambre excesiva",
+   "Cansancio",
+   "Visión borrosa",
+   "Heridas que tardan en curar",
+   "Infecciones frecuentes",
+   "Hormigueo en pies y manos",
+   "A menudo sin síntomas al principio"
+  ],
+  "causes": [
+   "Resistencia a la insulina y agotamiento progresivo del páncreas",
+   "Combinación de genética y estilo de vida"
+  ],
+  "riskFactors": [
+   "Sobrepeso, sobre todo abdominal",
+   "Sedentarismo",
+   "Antecedentes familiares",
+   "Edad > 45",
+   "Diabetes gestacional previa",
+   "Prediabetes"
+  ],
+  "diagnosis": "Glucosa en ayunas ≥ 126 mg/dL, hemoglobina glicosilada (HbA1c) ≥ 6,5 % o sobrecarga oral de glucosa.",
+  "treatments": [
+   "Dieta, ejercicio y pérdida de peso",
+   "Metformina",
+   "Agonistas GLP-1 (semaglutida, tirzepatida)",
+   "Inhibidores SGLT2 (protegen corazón y riñón)",
+   "Insulina cuando es necesaria",
+   "Revisión anual de ojos, pies y riñones"
+  ],
+  "prevention": [
+   "Perder un 5-7 % del peso si hay sobrepeso",
+   "150 minutos de actividad física por semana",
+   "Reducir azúcares y ultraprocesados",
+   "Análisis periódicos si tienes factores de riesgo"
+  ],
+  "complications": [
+   "Enfermedad cardiovascular (infarto, ictus)",
+   "Daño renal (nefropatía)",
+   "Daño en la retina (retinopatía)",
+   "Daño en los nervios (neuropatía), sobre todo en los pies",
+   "Úlceras en los pies",
+   "Mayor riesgo de infecciones"
+  ],
+  "whenToSeek": "Urgencias ante confusión, respiración rápida con aliento afrutado, vómitos, o glucosa muy alta o muy baja con síntomas.",
+  "faq": [
+   {
+    "q": "¿La diabetes tipo 2 se puede revertir?",
+    "a": "En algunas personas, la pérdida de peso importante y mantenida puede llevar los niveles de glucosa a valores normales sin medicación (remisión). No ocurre en todos los casos y requiere seguimiento."
+   },
+   {
+    "q": "¿Qué es la prediabetes?",
+    "a": "Niveles de glucosa por encima de lo normal pero por debajo del umbral de diabetes. Es una oportunidad: los cambios de hábitos reducen mucho el riesgo de progresar."
+   },
+   {
+    "q": "¿Tener que usar insulina significa que lo he hecho mal?",
+    "a": "No. La diabetes tipo 2 suele progresar con los años y muchas personas necesitan insulina en algún momento."
+   }
+  ],
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Diabetes tipo 2"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Diabetes tipo 2"
+   }
+  ],
+  "meta": {
+   "version": 2,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "diabetes-1",
+  "name": "Diabetes tipo 1",
+  "specialties": [
+   "endocrinologia",
+   "pediatria"
+  ],
+  "summary": "Enfermedad autoinmune en la que el sistema inmunitario destruye las células del páncreas que fabrican insulina. Suele aparecer en niños y jóvenes y requiere insulina de por vida. La tecnología (sensores de glucosa y bombas) ha mejorado mucho el control.",
+  "keyFact": "No se debe a comer azúcar ni se puede prevenir con la dieta.",
+  "symptoms": [
+   "Sed intensa y orinar mucho (incluso mojar la cama en niños)",
+   "Pérdida de peso rápida",
+   "Hambre",
+   "Cansancio",
+   "Cetoacidosis: náuseas, vómitos, dolor abdominal, aliento afrutado"
+  ],
+  "causes": [
+   "Autoinmunidad contra las células beta del páncreas"
+  ],
+  "riskFactors": [
+   "Antecedentes familiares",
+   "Otras enfermedades autoinmunes"
+  ],
+  "diagnosis": "Glucosa elevada, HbA1c, autoanticuerpos pancreáticos y péptido C.",
+  "treatments": [
+   "Insulina (múltiples dosis o bomba)",
+   "Monitorización continua de glucosa",
+   "Educación diabetológica: conteo de carbohidratos",
+   "Teplizumab para retrasar la aparición en personas de riesgo (en algunos países)"
+  ],
+  "prevention": [
+   "No se puede prevenir; el diagnóstico precoz evita la cetoacidosis"
+  ],
+  "whenToSeek": "Urgencias ante vómitos, respiración rápida, somnolencia o confusión en una persona con diabetes tipo 1.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Diabetes tipo 1"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Diabetes tipo 1"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "obesidad",
+  "name": "Obesidad",
+  "specialties": [
+   "endocrinologia",
+   "nutricion"
+  ],
+  "summary": "Enfermedad crónica caracterizada por un exceso de grasa corporal que perjudica la salud (IMC ≥ 30 como referencia). Aumenta el riesgo de diabetes, hipertensión, enfermedades cardíacas, apnea del sueño, artrosis y varios cánceres. No es solo cuestión de fuerza de voluntad: influyen la genética, el entorno y las hormonas.",
+  "keyFact": "Más de 1.000 millones de personas viven con obesidad en el mundo.",
+  "symptoms": [
+   "Aumento del perímetro abdominal",
+   "Cansancio y falta de aire al esfuerzo",
+   "Dolor articular",
+   "Ronquidos"
+  ],
+  "causes": [
+   "Desequilibrio entre energía ingerida y gastada",
+   "Genética",
+   "Entorno obesogénico (ultraprocesados, sedentarismo)",
+   "Fármacos, problemas hormonales, falta de sueño"
+  ],
+  "riskFactors": [
+   "Dieta rica en ultraprocesados y bebidas azucaradas",
+   "Sedentarismo",
+   "Dormir poco",
+   "Estrés"
+  ],
+  "diagnosis": "IMC, perímetro de cintura y evaluación de complicaciones (análisis, tensión).",
+  "treatments": [
+   "Cambios de alimentación sostenibles",
+   "Actividad física",
+   "Apoyo psicológico",
+   "Fármacos (agonistas GLP-1 y duales como semaglutida y tirzepatida)",
+   "Cirugía bariátrica en casos seleccionados"
+  ],
+  "prevention": [
+   "Comida real, más verduras y legumbres",
+   "Menos bebidas azucaradas",
+   "Moverse a diario",
+   "Dormir 7-9 horas"
+  ],
+  "whenToSeek": "No es una urgencia, pero merece tratamiento médico como cualquier enfermedad crónica.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Obesidad"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Obesidad"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "hipotiroidismo",
+  "name": "Hipotiroidismo",
+  "specialties": [
+   "endocrinologia"
+  ],
+  "summary": "La glándula tiroides produce menos hormona de la necesaria y el metabolismo se ralentiza. La causa más común es la tiroiditis de Hashimoto (autoinmune). Es mucho más frecuente en mujeres.",
+  "keyFact": "En el mundo, la falta de yodo sigue siendo una causa importante; la sal yodada la previene.",
+  "symptoms": [
+   "Cansancio y somnolencia",
+   "Aumento de peso",
+   "Frío constante",
+   "Piel seca y caída del pelo",
+   "Estreñimiento",
+   "Ánimo bajo y lentitud mental",
+   "Reglas abundantes"
+  ],
+  "causes": [
+   "Tiroiditis de Hashimoto",
+   "Déficit de yodo",
+   "Cirugía o yodo radiactivo en la tiroides",
+   "Algunos fármacos (litio, amiodarona)"
+  ],
+  "riskFactors": [
+   "Sexo femenino",
+   "Edad",
+   "Otras enfermedades autoinmunes",
+   "Posparto"
+  ],
+  "diagnosis": "Análisis de TSH (alta) y T4 libre (baja); anticuerpos antitiroideos.",
+  "treatments": [
+   "Levotiroxina diaria en ayunas",
+   "Controles de TSH para ajustar la dosis"
+  ],
+  "prevention": [
+   "Usar sal yodada",
+   "Control de la tiroides en el embarazo"
+  ],
+  "complications": [
+   "Alteraciones del colesterol",
+   "Problemas en el embarazo si no se trata",
+   "Coma mixedematoso (muy raro)"
+  ],
+  "whenToSeek": "Urgencias ante somnolencia extrema, frío intenso y confusión (coma mixedematoso, raro).",
+  "faq": [
+   {
+    "q": "¿Cómo debo tomar la levotiroxina?",
+    "a": "En general, en ayunas y separada de otros medicamentos y alimentos según te indiquen. Sigue la pauta de tu médico y del prospecto."
+   }
+  ],
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Hipotiroidismo"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Hipotiroidismo"
+   }
+  ],
+  "meta": {
+   "version": 2,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "hipertiroidismo",
+  "name": "Hipertiroidismo",
+  "specialties": [
+   "endocrinologia"
+  ],
+  "summary": "La tiroides produce hormona en exceso y el metabolismo se acelera. La causa más frecuente es la enfermedad de Graves (autoinmune), que también puede afectar a los ojos.",
+  "keyFact": "Puede desencadenar fibrilación auricular, sobre todo en mayores.",
+  "symptoms": [
+   "Palpitaciones",
+   "Pérdida de peso con apetito",
+   "Nerviosismo e insomnio",
+   "Temblor",
+   "Calor y sudoración",
+   "Diarrea",
+   "Ojos saltones (Graves)"
+  ],
+  "causes": [
+   "Enfermedad de Graves",
+   "Nódulos tiroideos hiperfuncionantes",
+   "Tiroiditis"
+  ],
+  "riskFactors": [
+   "Sexo femenino",
+   "Antecedentes familiares",
+   "Tabaco (en la oftalmopatía de Graves)"
+  ],
+  "diagnosis": "TSH baja con T4/T3 altas; anticuerpos (TSI) y gammagrafía.",
+  "treatments": [
+   "Antitiroideos (metimazol)",
+   "Betabloqueantes para los síntomas",
+   "Yodo radiactivo",
+   "Cirugía"
+  ],
+  "prevention": [
+   "No se puede prevenir, pero dejar de fumar protege los ojos en Graves"
+  ],
+  "whenToSeek": "Urgencias ante fiebre alta, taquicardia muy rápida, agitación o confusión (tormenta tiroidea).",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Hipertiroidismo"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Hipertiroidismo"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "osteoporosis",
+  "name": "Osteoporosis",
+  "specialties": [
+   "endocrinologia",
+   "reumatologia",
+   "ortopedia"
+  ],
+  "summary": "Los huesos pierden densidad y se vuelven frágiles, de modo que se rompen con golpes o caídas leves. Es silenciosa hasta que aparece una fractura (cadera, vértebras, muñeca).",
+  "keyFact": "Una de cada tres mujeres y uno de cada cinco hombres mayores de 50 sufrirá una fractura por fragilidad.",
+  "symptoms": [
+   "Ninguno hasta la fractura",
+   "Pérdida de estatura",
+   "Espalda encorvada",
+   "Dolor de espalda por fracturas vertebrales"
+  ],
+  "causes": [
+   "Pérdida de estrógenos tras la menopausia",
+   "Envejecimiento",
+   "Corticoides prolongados"
+  ],
+  "riskFactors": [
+   "Mujer posmenopáusica",
+   "Bajo peso",
+   "Tabaco y alcohol",
+   "Poca vitamina D y calcio",
+   "Sedentarismo",
+   "Antecedentes familiares de fractura de cadera"
+  ],
+  "diagnosis": "Densitometría ósea (DXA) y cálculo del riesgo de fractura (FRAX).",
+  "treatments": [
+   "Calcio y vitamina D",
+   "Ejercicio de fuerza y equilibrio",
+   "Bisfosfonatos",
+   "Denosumab",
+   "Fármacos anabólicos (teriparatida, romosozumab) en casos graves",
+   "Prevención de caídas en casa"
+  ],
+  "prevention": [
+   "Ejercicio con carga (caminar, pesas)",
+   "Dieta con calcio (lácteos, sardinas, verduras de hoja)",
+   "Sol moderado para la vitamina D",
+   "No fumar"
+  ],
+  "whenToSeek": "Urgencias ante una caída con dolor intenso de cadera o imposibilidad de apoyar la pierna.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Osteoporosis"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Osteoporosis"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "gota",
+  "name": "Gota",
+  "specialties": [
+   "endocrinologia",
+   "reumatologia"
+  ],
+  "summary": "Artritis inflamatoria muy dolorosa causada por cristales de ácido úrico en las articulaciones. El ataque típico afecta al dedo gordo del pie, de noche y de forma súbita.",
+  "keyFact": "Controlar el ácido úrico por debajo de 6 mg/dL evita nuevos ataques.",
+  "symptoms": [
+   "Dolor articular súbito e intenso (a menudo el dedo gordo del pie)",
+   "Hinchazón, calor y enrojecimiento",
+   "Tofos (bultos bajo la piel) en casos crónicos"
+  ],
+  "causes": [
+   "Exceso de ácido úrico en sangre que forma cristales"
+  ],
+  "riskFactors": [
+   "Carnes rojas, mariscos y vísceras",
+   "Cerveza y bebidas azucaradas con fructosa",
+   "Obesidad",
+   "Diuréticos",
+   "Enfermedad renal"
+  ],
+  "diagnosis": "Análisis del líquido articular (cristales), ácido úrico en sangre, ecografía.",
+  "treatments": [
+   "Ataque: colchicina, antiinflamatorios o corticoides",
+   "Largo plazo: alopurinol o febuxostat",
+   "Hielo y reposo de la articulación"
+  ],
+  "prevention": [
+   "Reducir alcohol (sobre todo cerveza) y bebidas azucaradas",
+   "Beber agua",
+   "Perder peso",
+   "Limitar carnes rojas y mariscos"
+  ],
+  "whenToSeek": "Urgencias si la articulación inflamada se acompaña de fiebre alta (descartar infección).",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Gota"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Gota"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "alzheimer",
+  "name": "Alzheimer y demencias",
+  "specialties": [
+   "neurologia"
+  ],
+  "summary": "La demencia es un deterioro progresivo de la memoria, el pensamiento y la capacidad de hacer las tareas diarias. El Alzheimer es su causa más frecuente (60-70 %), por la acumulación de proteínas beta-amiloide y tau en el cerebro. Otras son la demencia vascular y la de cuerpos de Lewy.",
+  "keyFact": "57 millones de personas vivían con demencia en 2021 y hay casi 10 millones de casos nuevos al año (OMS). Hasta un 45 % del riesgo podría prevenirse o retrasarse.",
+  "symptoms": [
+   "Olvidos de hechos recientes que afectan a la vida diaria",
+   "Repetir las mismas preguntas",
+   "Desorientación en lugares conocidos",
+   "Dificultad para encontrar palabras",
+   "Cambios de humor o personalidad",
+   "Problemas para planificar o manejar dinero"
+  ],
+  "causes": [
+   "Depósitos de beta-amiloide y ovillos de tau",
+   "Daño vascular cerebral",
+   "Genética (APOE ε4; formas familiares raras)"
+  ],
+  "riskFactors": [
+   "Edad",
+   "Hipertensión, diabetes y colesterol en la mediana edad",
+   "Pérdida auditiva no tratada",
+   "Sedentarismo, tabaco, alcohol",
+   "Aislamiento social",
+   "Baja estimulación cognitiva",
+   "Traumatismos craneales"
+  ],
+  "diagnosis": "Evaluación neurológica y neuropsicológica, análisis para descartar causas tratables, resonancia, y biomarcadores (PET, líquido cefalorraquídeo o análisis de sangre).",
+  "treatments": [
+   "Inhibidores de la acetilcolinesterasa (donepezilo, rivastigmina)",
+   "Memantina",
+   "Anticuerpos anti-amiloide (lecanemab, donanemab) en fases iniciales seleccionadas",
+   "Estimulación cognitiva y actividad física",
+   "Apoyo a cuidadores"
+  ],
+  "prevention": [
+   "Controlar tensión, azúcar y colesterol",
+   "Usar audífonos si hay pérdida auditiva",
+   "Ejercicio regular",
+   "Vida social activa",
+   "Aprender cosas nuevas",
+   "No fumar y moderar el alcohol"
+  ],
+  "whenToSeek": "Urgencias si la confusión aparece de repente (puede ser una infección, un ictus o un efecto de fármacos).",
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "Alzheimer y demencias"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Alzheimer y demencias"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "parkinson",
+  "name": "Enfermedad de Parkinson",
+  "specialties": [
+   "neurologia"
+  ],
+  "summary": "Enfermedad neurodegenerativa por pérdida de neuronas que producen dopamina. Afecta sobre todo al movimiento, pero también al sueño, el olfato, el ánimo y la digestión. Es la enfermedad neurológica que más rápido está creciendo en el mundo.",
+  "keyFact": "La pérdida de olfato y los trastornos del sueño REM pueden aparecer años antes del temblor.",
+  "symptoms": [
+   "Temblor en reposo, a menudo de una mano",
+   "Lentitud de movimientos",
+   "Rigidez muscular",
+   "Pasos cortos y problemas de equilibrio",
+   "Letra más pequeña",
+   "Cara con poca expresión",
+   "Estreñimiento, pérdida de olfato"
+  ],
+  "causes": [
+   "Pérdida de neuronas dopaminérgicas y depósitos de alfa-sinucleína",
+   "Factores genéticos y ambientales (pesticidas)"
+  ],
+  "riskFactors": [
+   "Edad > 60",
+   "Sexo masculino",
+   "Exposición a pesticidas",
+   "Antecedentes familiares"
+  ],
+  "diagnosis": "Clínico, por un neurólogo; a veces DaTSCAN o pruebas de alfa-sinucleína.",
+  "treatments": [
+   "Levodopa",
+   "Agonistas dopaminérgicos",
+   "Inhibidores MAO-B",
+   "Estimulación cerebral profunda",
+   "Fisioterapia, ejercicio y logopedia"
+  ],
+  "prevention": [
+   "El ejercicio aeróbico regular parece proteger",
+   "Evitar pesticidas"
+  ],
+  "whenToSeek": "Urgencias ante caídas con golpe en la cabeza, alucinaciones intensas o incapacidad para tragar.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Enfermedad de Parkinson"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Enfermedad de Parkinson"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "epilepsia",
+  "name": "Epilepsia",
+  "specialties": [
+   "neurologia"
+  ],
+  "summary": "Enfermedad cerebral caracterizada por crisis epilépticas repetidas, debidas a descargas eléctricas anormales de las neuronas. Unas 50 millones de personas la padecen y hasta un 70 % podría vivir sin crisis con el tratamiento adecuado.",
+  "keyFact": "Una crisis no siempre es una convulsión: también puede ser una 'desconexión' breve.",
+  "symptoms": [
+   "Convulsiones (sacudidas) con pérdida de conciencia",
+   "Ausencias o miradas fijas",
+   "Movimientos involuntarios de una parte del cuerpo",
+   "Sensaciones extrañas (olores, déjà vu)",
+   "Confusión tras la crisis"
+  ],
+  "causes": [
+   "Genéticas",
+   "Lesiones cerebrales (traumatismos, ictus, tumores, infecciones)",
+   "Desconocida en muchos casos"
+  ],
+  "riskFactors": [
+   "Traumatismos craneales",
+   "Ictus",
+   "Infecciones del sistema nervioso",
+   "Falta de sueño, alcohol o luces intermitentes como desencadenantes"
+  ],
+  "diagnosis": "Electroencefalograma (EEG), resonancia cerebral y descripción detallada de las crisis (un vídeo ayuda mucho).",
+  "treatments": [
+   "Fármacos antiepilépticos (levetiracetam, lamotrigina, valproato…)",
+   "Cirugía de epilepsia en casos resistentes",
+   "Estimulación del nervio vago",
+   "Dieta cetogénica en algunos niños"
+  ],
+  "prevention": [
+   "Evitar traumatismos (casco, cinturón)",
+   "Buen control prenatal",
+   "Tomar el tratamiento sin saltar dosis",
+   "Dormir lo suficiente"
+  ],
+  "whenToSeek": "Llama a emergencias si una convulsión dura más de 5 minutos, se repite sin recuperar la conciencia, es la primera o hay lesión. No metas nada en la boca: pon a la persona de lado.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Epilepsia"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Epilepsia"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "migrana",
+  "name": "Migraña",
+  "specialties": [
+   "neurologia"
+  ],
+  "summary": "Enfermedad neurológica que causa crisis de dolor de cabeza intenso, a menudo pulsátil y en un lado, acompañado de náuseas y sensibilidad a la luz y el ruido. Es una de las principales causas de discapacidad en adultos jóvenes.",
+  "keyFact": "Es tres veces más frecuente en mujeres que en hombres.",
+  "symptoms": [
+   "Dolor de cabeza pulsátil, moderado o intenso, de 4 a 72 horas",
+   "Náuseas o vómitos",
+   "Molestia con la luz y los ruidos",
+   "Aura: luces, zigzags o hormigueos antes del dolor"
+  ],
+  "causes": [
+   "Activación del sistema trigeminovascular con liberación de CGRP",
+   "Predisposición genética"
+  ],
+  "riskFactors": [
+   "Antecedentes familiares",
+   "Desencadenantes: estrés, falta de sueño, ayuno, alcohol, cambios hormonales"
+  ],
+  "diagnosis": "Clínico, con los criterios de la Clasificación Internacional de Cefaleas; pruebas solo si hay señales de alarma.",
+  "treatments": [
+   "En la crisis: analgésicos, antiinflamatorios, triptanes, gepantes",
+   "Preventivos si hay muchas crisis: betabloqueantes, topiramato, amitriptilina, anticuerpos anti-CGRP, toxina botulínica",
+   "Diario de cefaleas"
+  ],
+  "prevention": [
+   "Horarios regulares de sueño y comidas",
+   "Ejercicio",
+   "Identificar desencadenantes",
+   "Evitar el abuso de analgésicos (más de 10-15 días al mes)"
+  ],
+  "complications": [
+   "Migraña crónica (15 o más días al mes)",
+   "Cefalea por uso excesivo de analgésicos"
+  ],
+  "whenToSeek": "Urgencias ante 'el peor dolor de cabeza de tu vida' de inicio súbito, con fiebre y rigidez de nuca, o con debilidad, confusión o pérdida de visión.",
+  "faq": [
+   {
+    "q": "¿Es lo mismo migraña que dolor de cabeza?",
+    "a": "No. La migraña es una enfermedad neurológica con crisis de dolor y otros síntomas (náuseas, sensibilidad a la luz), distinta de la cefalea tensional."
+   },
+   {
+    "q": "¿Cuándo hace falta tratamiento preventivo?",
+    "a": "Cuando las crisis son frecuentes, duran mucho o afectan de forma importante a tu vida. Tu médico valorará las opciones."
+   }
+  ],
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Migraña"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Migraña"
+   }
+  ],
+  "meta": {
+   "version": 2,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "esclerosis-multiple",
+  "name": "Esclerosis múltiple",
+  "specialties": [
+   "neurologia",
+   "inmunologia"
+  ],
+  "summary": "Enfermedad autoinmune en la que el sistema inmunitario ataca la mielina, la capa que protege los nervios del cerebro y la médula espinal. Suele comenzar entre los 20 y 40 años, y los tratamientos actuales reducen mucho los brotes.",
+  "keyFact": "El virus de Epstein-Barr parece ser un desencadenante clave.",
+  "symptoms": [
+   "Visión borrosa o dolor al mover un ojo (neuritis óptica)",
+   "Hormigueo o entumecimiento",
+   "Debilidad en extremidades",
+   "Fatiga intensa",
+   "Problemas de equilibrio",
+   "Problemas urinarios"
+  ],
+  "causes": [
+   "Autoinmunidad contra la mielina",
+   "Genética y ambiente (virus de Epstein-Barr, falta de vitamina D, tabaco)"
+  ],
+  "riskFactors": [
+   "Sexo femenino",
+   "Latitudes alejadas del ecuador",
+   "Tabaco",
+   "Obesidad en la adolescencia"
+  ],
+  "diagnosis": "Resonancia magnética de cerebro y médula, punción lumbar (bandas oligoclonales) y potenciales evocados.",
+  "treatments": [
+   "Fármacos modificadores de la enfermedad (interferones, anticuerpos monoclonales como ocrelizumab, natalizumab)",
+   "Corticoides en los brotes",
+   "Rehabilitación"
+  ],
+  "prevention": [
+   "No fumar",
+   "Niveles adecuados de vitamina D"
+  ],
+  "whenToSeek": "Consulta pronto ante pérdida de visión o debilidad nueva. Urgencias si es súbita (descartar ictus).",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Esclerosis múltiple"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Esclerosis múltiple"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "ela",
+  "name": "Esclerosis lateral amiotrófica (ELA)",
+  "specialties": [
+   "neurologia"
+  ],
+  "summary": "Enfermedad neurodegenerativa que destruye las neuronas motoras que controlan los músculos. Provoca debilidad progresiva hasta afectar al habla, la deglución y la respiración, mientras que la mente suele mantenerse intacta.",
+  "keyFact": "El 5-10 % de los casos son hereditarios (genes SOD1, C9orf72, entre otros).",
+  "symptoms": [
+   "Debilidad en una mano o pierna",
+   "Calambres y pequeños temblores musculares (fasciculaciones)",
+   "Dificultad para hablar o tragar",
+   "Pérdida de masa muscular",
+   "Dificultad respiratoria en fases avanzadas"
+  ],
+  "causes": [
+   "Degeneración de motoneuronas; causa exacta desconocida en la mayoría"
+  ],
+  "riskFactors": [
+   "Edad (50-70)",
+   "Antecedentes familiares"
+  ],
+  "diagnosis": "Evaluación neurológica y electromiograma; descartar otras enfermedades.",
+  "treatments": [
+   "Riluzol y otros fármacos que pueden ralentizar la progresión",
+   "Tofersen en ELA por mutación SOD1",
+   "Equipo multidisciplinar: fisioterapia, logopedia, nutrición, ventilación",
+   "Comunicadores oculares"
+  ],
+  "prevention": [
+   "No se conoce prevención"
+  ],
+  "whenToSeek": "Urgencias ante atragantamientos o dificultad respiratoria.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Esclerosis lateral amiotrófica"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Esclerosis lateral amiotrófica"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "depresion",
+  "name": "Depresión",
+  "specialties": [
+   "psiquiatria"
+  ],
+  "summary": "Trastorno frecuente que va mucho más allá de la tristeza: un estado de ánimo bajo o pérdida de interés durante al menos dos semanas, que afecta al pensamiento, el sueño, el apetito y la vida diaria. Tiene tratamiento eficaz, y pedir ayuda es un signo de fortaleza.",
+  "keyFact": "Es una de las principales causas de discapacidad en el mundo según la OMS.",
+  "symptoms": [
+   "Tristeza, vacío o desesperanza casi todos los días",
+   "Pérdida de interés o placer",
+   "Alteraciones del sueño",
+   "Cansancio y falta de energía",
+   "Cambios de apetito o peso",
+   "Dificultad para concentrarse",
+   "Sentimientos de culpa o inutilidad",
+   "Pensamientos de muerte o suicidio"
+  ],
+  "causes": [
+   "Combinación de factores biológicos, genéticos, psicológicos y sociales"
+  ],
+  "riskFactors": [
+   "Acontecimientos vitales estresantes o traumas",
+   "Antecedentes familiares",
+   "Enfermedades crónicas",
+   "Consumo de alcohol o drogas",
+   "Aislamiento social",
+   "Posparto"
+  ],
+  "diagnosis": "Entrevista clínica con criterios diagnósticos y cuestionarios (PHQ-9); análisis para descartar causas físicas (tiroides, anemia).",
+  "treatments": [
+   "Psicoterapia (cognitivo-conductual, interpersonal)",
+   "Antidepresivos (ISRS y otros)",
+   "Ejercicio físico regular",
+   "Terapias como estimulación magnética en casos resistentes",
+   "Combinación de terapia y medicación en casos moderados-graves"
+  ],
+  "prevention": [
+   "Mantener vínculos sociales",
+   "Ejercicio",
+   "Dormir bien",
+   "Pedir ayuda temprano",
+   "Limitar alcohol"
+  ],
+  "complications": [
+   "Deterioro laboral, académico y social",
+   "Consumo de alcohol u otras sustancias",
+   "Riesgo de suicidio",
+   "Empeoramiento de otras enfermedades"
+  ],
+  "whenToSeek": "Si tienes pensamientos de hacerte daño o de suicidio, llama ya a emergencias (112/911) o a una línea de crisis de tu país. No estás solo/a.",
+  "faq": [
+   {
+    "q": "¿Los antidepresivos crean adicción?",
+    "a": "No producen adicción como otras sustancias, pero no deben suspenderse de golpe: hay que reducirlos de forma gradual con indicación médica."
+   },
+   {
+    "q": "¿Cuánto tarda en hacer efecto el tratamiento?",
+    "a": "Los antidepresivos suelen tardar varias semanas en mostrar beneficio. La psicoterapia también requiere tiempo."
+   },
+   {
+    "q": "¿Cómo ayudo a alguien con depresión?",
+    "a": "Escucha sin juzgar, anima a buscar ayuda profesional y mantén el contacto. Si menciona ideas de suicidio, tómalo en serio y busca ayuda urgente."
+   }
+  ],
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "Depresión"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Depresión"
+   }
+  ],
+  "meta": {
+   "version": 2,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "ansiedad",
+  "name": "Trastornos de ansiedad",
+  "specialties": [
+   "psiquiatria"
+  ],
+  "summary": "La ansiedad es una respuesta normal, pero se convierte en trastorno cuando es excesiva, persistente y limita la vida. Incluye la ansiedad generalizada, el trastorno de pánico, las fobias y la ansiedad social. Son los trastornos mentales más frecuentes del mundo.",
+  "keyFact": "Los ataques de pánico asustan mucho, pero no son peligrosos en sí mismos.",
+  "symptoms": [
+   "Preocupación constante difícil de controlar",
+   "Inquietud, tensión muscular",
+   "Palpitaciones, sudoración, temblor",
+   "Sensación de ahogo",
+   "Ataques de pánico con miedo a morir o perder el control",
+   "Evitar situaciones",
+   "Insomnio"
+  ],
+  "causes": [
+   "Genética, experiencias vitales, estrés y factores de personalidad"
+  ],
+  "riskFactors": [
+   "Estrés crónico",
+   "Traumas",
+   "Antecedentes familiares",
+   "Consumo de cafeína, alcohol o drogas"
+  ],
+  "diagnosis": "Evaluación clínica (GAD-7) y descartar causas físicas (tiroides, arritmias).",
+  "treatments": [
+   "Terapia cognitivo-conductual (muy eficaz)",
+   "Antidepresivos ISRS/IRSN",
+   "Técnicas de respiración y relajación",
+   "Ejercicio",
+   "Evitar el uso prolongado de benzodiacepinas"
+  ],
+  "prevention": [
+   "Ejercicio regular",
+   "Dormir bien",
+   "Reducir cafeína y alcohol",
+   "Mindfulness",
+   "Hablar de lo que preocupa"
+  ],
+  "whenToSeek": "Urgencias si el dolor de pecho o la falta de aire no ceden o es la primera vez (hay que descartar un problema del corazón).",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Trastornos de ansiedad"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Trastornos de ansiedad"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "bipolar",
+  "name": "Trastorno bipolar",
+  "specialties": [
+   "psiquiatria"
+  ],
+  "summary": "Trastorno del estado de ánimo con episodios de manía o hipomanía (euforia, energía extrema, poco sueño) que alternan con episodios de depresión. Con tratamiento, la mayoría de las personas lleva una vida plena.",
+  "keyFact": "Suele empezar entre los 15 y 25 años.",
+  "symptoms": [
+   "Manía: euforia o irritabilidad, necesidad de dormir muy poco, hablar rápido, ideas de grandeza, conductas de riesgo",
+   "Depresión: tristeza, desánimo, falta de energía",
+   "Periodos de estabilidad entre episodios"
+  ],
+  "causes": [
+   "Fuerte componente genético y alteraciones en la regulación del ánimo"
+  ],
+  "riskFactors": [
+   "Antecedentes familiares",
+   "Estrés intenso",
+   "Consumo de drogas",
+   "Falta de sueño"
+  ],
+  "diagnosis": "Evaluación psiquiátrica y seguimiento del ánimo.",
+  "treatments": [
+   "Estabilizadores del ánimo (litio, valproato, lamotrigina)",
+   "Antipsicóticos atípicos",
+   "Psicoterapia y psicoeducación",
+   "Rutinas de sueño regulares"
+  ],
+  "prevention": [
+   "Mantener el tratamiento",
+   "Rutinas regulares",
+   "Evitar alcohol y drogas",
+   "Detectar señales tempranas de recaída"
+  ],
+  "whenToSeek": "Urgencias ante ideas de suicidio, conductas peligrosas o pérdida de contacto con la realidad.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Trastorno bipolar"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Trastorno bipolar"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "esquizofrenia",
+  "name": "Esquizofrenia",
+  "specialties": [
+   "psiquiatria"
+  ],
+  "summary": "Trastorno mental grave que afecta a la forma de pensar, percibir y sentir. Puede provocar alucinaciones, delirios y pensamiento desorganizado. No es 'doble personalidad'. Con tratamiento temprano y apoyo, muchas personas se recuperan de forma significativa.",
+  "keyFact": "Afecta aproximadamente a 1 de cada 300 personas en el mundo (OMS).",
+  "symptoms": [
+   "Alucinaciones (oír voces)",
+   "Delirios (creencias falsas firmes)",
+   "Pensamiento y lenguaje desorganizados",
+   "Aislamiento, falta de motivación",
+   "Dificultades de concentración y memoria"
+  ],
+  "causes": [
+   "Genética, alteraciones del neurodesarrollo y factores ambientales"
+  ],
+  "riskFactors": [
+   "Antecedentes familiares",
+   "Consumo de cannabis en la adolescencia",
+   "Complicaciones en el embarazo o parto",
+   "Estrés y traumas"
+  ],
+  "diagnosis": "Evaluación psiquiátrica; pruebas para descartar otras causas.",
+  "treatments": [
+   "Antipsicóticos (orales o inyectables de larga duración)",
+   "Terapia psicológica y familiar",
+   "Rehabilitación psicosocial y apoyo al empleo"
+  ],
+  "prevention": [
+   "Evitar el cannabis en la adolescencia",
+   "Intervención temprana ante los primeros síntomas"
+  ],
+  "whenToSeek": "Urgencias si hay riesgo para la persona o para otros, o ideas de suicidio.",
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "Esquizofrenia"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Esquizofrenia"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "tdah",
+  "name": "TDAH (trastorno por déficit de atención e hiperactividad)",
+  "specialties": [
+   "psiquiatria",
+   "pediatria"
+  ],
+  "summary": "Trastorno del neurodesarrollo con dificultades de atención, hiperactividad e impulsividad que afectan al funcionamiento en la escuela, el trabajo o las relaciones. Empieza en la infancia y a menudo continúa en la edad adulta.",
+  "keyFact": "Muchos adultos, sobre todo mujeres, reciben el diagnóstico tarde.",
+  "symptoms": [
+   "Distracción fácil y olvidos",
+   "Dificultad para organizarse y terminar tareas",
+   "Inquietud, moverse mucho",
+   "Impulsividad, interrumpir",
+   "Dificultad para esperar el turno"
+  ],
+  "causes": [
+   "Muy hereditario; diferencias en el desarrollo cerebral"
+  ],
+  "riskFactors": [
+   "Antecedentes familiares",
+   "Prematuridad",
+   "Exposición prenatal a tabaco o alcohol"
+  ],
+  "diagnosis": "Evaluación clínica con información de varios ámbitos (casa, escuela, trabajo).",
+  "treatments": [
+   "Terapia conductual y entrenamiento a padres",
+   "Adaptaciones escolares o laborales",
+   "Estimulantes (metilfenidato, lisdexanfetamina)",
+   "No estimulantes (atomoxetina, guanfacina)"
+  ],
+  "prevention": [
+   "Evitar tabaco y alcohol en el embarazo"
+  ],
+  "whenToSeek": "No suele ser urgente; consulta si afecta a la vida diaria.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "TDAH"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "TDAH"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "tca",
+  "name": "Trastornos de la conducta alimentaria",
+  "specialties": [
+   "psiquiatria",
+   "nutricion"
+  ],
+  "summary": "Incluyen la anorexia nerviosa, la bulimia y el trastorno por atracón. Son enfermedades mentales graves, con consecuencias físicas importantes. La anorexia tiene una de las tasas de mortalidad más altas entre los trastornos mentales.",
+  "keyFact": "Pueden afectar a cualquier persona, de cualquier peso, sexo o edad.",
+  "symptoms": [
+   "Restricción extrema de la comida o miedo intenso a engordar",
+   "Atracones con sensación de pérdida de control",
+   "Vómitos provocados, laxantes o ejercicio excesivo",
+   "Preocupación constante por el peso y la figura",
+   "Pérdida de la menstruación"
+  ],
+  "causes": [
+   "Genética, factores psicológicos y presión sociocultural"
+  ],
+  "riskFactors": [
+   "Adolescencia",
+   "Dietas estrictas",
+   "Perfeccionismo",
+   "Acoso por el peso",
+   "Redes sociales"
+  ],
+  "diagnosis": "Evaluación psiquiátrica y médica (análisis, electrocardiograma, peso).",
+  "treatments": [
+   "Equipo multidisciplinar: psicología, psiquiatría, nutrición",
+   "Terapia familiar en adolescentes",
+   "Terapia cognitivo-conductual",
+   "Hospitalización si hay riesgo físico"
+  ],
+  "prevention": [
+   "Evitar comentarios sobre el cuerpo",
+   "Promover una relación sana con la comida",
+   "Detección temprana"
+  ],
+  "whenToSeek": "Urgencias ante desmayos, palpitaciones, debilidad extrema o ideas de suicidio.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Trastornos de la conducta alimentaria"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Trastornos de la conducta alimentaria"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "gastritis-ulcera",
+  "name": "Gastritis y úlcera péptica",
+  "specialties": [
+   "gastroenterologia"
+  ],
+  "summary": "La gastritis es la inflamación del revestimiento del estómago; la úlcera es una herida en el estómago o el duodeno. Las dos causas principales son la bacteria Helicobacter pylori y los antiinflamatorios (ibuprofeno, aspirina).",
+  "keyFact": "El descubrimiento de H. pylori como causa de la úlcera ganó el Premio Nobel de Medicina en 2005.",
+  "symptoms": [
+   "Ardor o dolor en la boca del estómago",
+   "Dolor que mejora o empeora con las comidas",
+   "Náuseas",
+   "Hinchazón",
+   "Heces negras o vómito con sangre (complicación)"
+  ],
+  "causes": [
+   "Helicobacter pylori",
+   "Antiinflamatorios no esteroideos",
+   "Alcohol y tabaco"
+  ],
+  "riskFactors": [
+   "Uso frecuente de antiinflamatorios",
+   "Tabaco",
+   "Alcohol",
+   "Estrés físico grave"
+  ],
+  "diagnosis": "Test de H. pylori (aliento, heces) y endoscopia si hay señales de alarma o edad > 50.",
+  "treatments": [
+   "Inhibidores de la bomba de protones (omeprazol)",
+   "Tratamiento de erradicación de H. pylori con antibióticos",
+   "Suspender antiinflamatorios si es posible"
+  ],
+  "prevention": [
+   "Evitar el abuso de antiinflamatorios",
+   "No fumar",
+   "Moderar el alcohol"
+  ],
+  "whenToSeek": "Urgencias ante heces negras, vómito con sangre o 'posos de café', o dolor abdominal súbito e intenso.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Gastritis y úlcera péptica"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Gastritis y úlcera péptica"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "erge",
+  "name": "Reflujo gastroesofágico (ERGE)",
+  "specialties": [
+   "gastroenterologia"
+  ],
+  "summary": "El ácido del estómago sube al esófago con frecuencia y provoca ardor y otras molestias. Con el tiempo puede inflamar el esófago o producir cambios (esófago de Barrett).",
+  "keyFact": "Levantar el cabecero de la cama ayuda a reducir el reflujo nocturno.",
+  "symptoms": [
+   "Ardor detrás del esternón (pirosis)",
+   "Regurgitación ácida",
+   "Tos crónica o ronquera",
+   "Dificultad para tragar"
+  ],
+  "causes": [
+   "Debilidad del esfínter esofágico inferior",
+   "Hernia de hiato"
+  ],
+  "riskFactors": [
+   "Obesidad",
+   "Comidas copiosas o tardías",
+   "Tabaco, alcohol, café, grasas",
+   "Embarazo"
+  ],
+  "diagnosis": "Clínico; endoscopia o pH-metría si no mejora o hay señales de alarma.",
+  "treatments": [
+   "Cambios de hábitos",
+   "Antiácidos y alginatos",
+   "Inhibidores de la bomba de protones",
+   "Cirugía antirreflujo en casos seleccionados"
+  ],
+  "prevention": [
+   "Cenar al menos 2-3 horas antes de acostarse",
+   "Perder peso",
+   "Evitar comidas abundantes",
+   "No fumar"
+  ],
+  "whenToSeek": "Consulta ante dificultad para tragar, pérdida de peso o vómitos con sangre. Un dolor torácico puede ser del corazón: si hay dudas, urgencias.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Reflujo gastroesofágico"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Reflujo gastroesofágico"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "colon-irritable",
+  "name": "Síndrome del intestino irritable",
+  "specialties": [
+   "gastroenterologia"
+  ],
+  "summary": "Trastorno de la interacción intestino-cerebro con dolor abdominal y cambios en el ritmo intestinal (diarrea, estreñimiento o ambos) sin daño visible en el intestino. Es muy frecuente y molesto, pero no es peligroso.",
+  "keyFact": "La dieta baja en FODMAP mejora los síntomas en muchas personas.",
+  "symptoms": [
+   "Dolor abdominal que mejora al evacuar",
+   "Hinchazón y gases",
+   "Diarrea, estreñimiento o alternancia",
+   "Moco en las heces"
+  ],
+  "causes": [
+   "Hipersensibilidad intestinal, alteraciones de la motilidad y de la microbiota, eje intestino-cerebro"
+  ],
+  "riskFactors": [
+   "Estrés y ansiedad",
+   "Gastroenteritis previa",
+   "Sexo femenino"
+  ],
+  "diagnosis": "Criterios clínicos (Roma IV) y descartar otras enfermedades (celiaquía, enfermedad inflamatoria).",
+  "treatments": [
+   "Dieta baja en FODMAP guiada",
+   "Fibra soluble (psyllium)",
+   "Antiespasmódicos",
+   "Fármacos según el tipo (laxantes, antidiarreicos)",
+   "Terapia psicológica e hipnoterapia intestinal"
+  ],
+  "prevention": [
+   "Manejo del estrés",
+   "Ejercicio",
+   "Comer con regularidad"
+  ],
+  "whenToSeek": "Consulta ante sangre en heces, pérdida de peso, fiebre, síntomas nocturnos o inicio después de los 50 años.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Síndrome del intestino irritable"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Síndrome del intestino irritable"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "eii",
+  "name": "Enfermedad de Crohn y colitis ulcerosa",
+  "specialties": [
+   "gastroenterologia"
+  ],
+  "summary": "Enfermedades inflamatorias intestinales crónicas de origen inmunitario. La enfermedad de Crohn puede afectar a cualquier parte del tubo digestivo; la colitis ulcerosa afecta al colon. Alternan brotes y periodos de calma.",
+  "keyFact": "Su frecuencia aumenta en todo el mundo, sobre todo en países industrializados.",
+  "symptoms": [
+   "Diarrea persistente, a veces con sangre",
+   "Dolor abdominal",
+   "Urgencia para ir al baño",
+   "Pérdida de peso",
+   "Cansancio y fiebre",
+   "Lesiones perianales (Crohn)"
+  ],
+  "causes": [
+   "Respuesta inmunitaria anómala frente a la microbiota en personas predispuestas"
+  ],
+  "riskFactors": [
+   "Antecedentes familiares",
+   "Tabaco (en el Crohn)",
+   "Dieta occidental"
+  ],
+  "diagnosis": "Colonoscopia con biopsias, calprotectina fecal, resonancia intestinal y análisis.",
+  "treatments": [
+   "Aminosalicilatos (colitis)",
+   "Corticoides en brotes",
+   "Inmunosupresores",
+   "Biológicos (anti-TNF, anti-integrinas, anti-IL-23) y moléculas orales (JAK)",
+   "Cirugía en complicaciones"
+  ],
+  "prevention": [
+   "No fumar",
+   "Seguimiento para detectar cáncer de colon en casos de larga evolución"
+  ],
+  "whenToSeek": "Urgencias ante sangrado abundante, fiebre alta, dolor intenso o distensión abdominal.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Enfermedad de Crohn y colitis ulcerosa"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Enfermedad de Crohn y colitis ulcerosa"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "celiaquia",
+  "name": "Enfermedad celíaca",
+  "specialties": [
+   "gastroenterologia",
+   "nutricion",
+   "inmunologia"
+  ],
+  "summary": "Enfermedad autoinmune en la que el gluten (trigo, cebada, centeno) daña el intestino delgado en personas predispuestas. Afecta a alrededor del 1 % de la población y muchos casos están sin diagnosticar.",
+  "keyFact": "El único tratamiento es una dieta sin gluten estricta de por vida.",
+  "symptoms": [
+   "Diarrea o estreñimiento",
+   "Hinchazón",
+   "Pérdida de peso",
+   "Anemia por falta de hierro",
+   "Cansancio",
+   "En niños: retraso del crecimiento",
+   "Dermatitis herpetiforme"
+  ],
+  "causes": [
+   "Reacción inmunitaria al gluten en personas con genes HLA-DQ2/DQ8"
+  ],
+  "riskFactors": [
+   "Familiares de celíacos",
+   "Diabetes tipo 1, tiroiditis",
+   "Síndrome de Down"
+  ],
+  "diagnosis": "Anticuerpos antitransglutaminasa en sangre (sin retirar el gluten antes) y biopsia duodenal.",
+  "treatments": [
+   "Dieta sin gluten estricta",
+   "Corregir déficits (hierro, vitamina D, B12)",
+   "Asesoramiento nutricional"
+  ],
+  "prevention": [
+   "No se puede prevenir; diagnóstico precoz en familiares"
+  ],
+  "whenToSeek": "No suele ser urgente; consulta si tienes síntomas persistentes.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Enfermedad celíaca"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Enfermedad celíaca"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "higado-graso",
+  "name": "Hígado graso (MASLD)",
+  "specialties": [
+   "gastroenterologia",
+   "nutricion"
+  ],
+  "summary": "Acumulación de grasa en el hígado asociada a sobrepeso, diabetes o síndrome metabólico (antes llamada hígado graso no alcohólico). Es la enfermedad hepática más frecuente del mundo y puede evolucionar a inflamación, fibrosis y cirrosis.",
+  "keyFact": "Perder entre un 7 y un 10 % del peso puede revertir la inflamación y la grasa.",
+  "symptoms": [
+   "Normalmente ninguno",
+   "Cansancio",
+   "Molestia en el lado derecho del abdomen"
+  ],
+  "causes": [
+   "Resistencia a la insulina y exceso de grasa corporal"
+  ],
+  "riskFactors": [
+   "Obesidad abdominal",
+   "Diabetes tipo 2",
+   "Colesterol y triglicéridos altos",
+   "Bebidas azucaradas"
+  ],
+  "diagnosis": "Ecografía, análisis hepáticos, índice FIB-4 y elastografía (FibroScan).",
+  "treatments": [
+   "Pérdida de peso con dieta mediterránea y ejercicio",
+   "Control de la diabetes y el colesterol",
+   "Resmetirom y agonistas GLP-1 en casos con fibrosis según disponibilidad"
+  ],
+  "prevention": [
+   "Peso saludable",
+   "Evitar bebidas azucaradas y ultraprocesados",
+   "Ejercicio",
+   "Moderar el alcohol"
+  ],
+  "whenToSeek": "No suele ser urgente; consulta si hay ictericia o abdomen hinchado.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Hígado graso"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Hígado graso"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "cirrosis",
+  "name": "Cirrosis hepática",
+  "specialties": [
+   "gastroenterologia",
+   "medicina-interna"
+  ],
+  "summary": "Fase avanzada de muchas enfermedades del hígado, en la que el tejido sano se sustituye por cicatrices y el hígado deja de funcionar bien. Sus causas principales son el alcohol, las hepatitis virales y el hígado graso.",
+  "keyFact": "Detectar la fibrosis a tiempo permite frenarla antes de llegar a cirrosis.",
+  "symptoms": [
+   "Cansancio",
+   "Ictericia",
+   "Abdomen hinchado por líquido (ascitis)",
+   "Hinchazón de piernas",
+   "Moratones fáciles",
+   "Confusión (encefalopatía)",
+   "Arañas vasculares en la piel"
+  ],
+  "causes": [
+   "Alcohol",
+   "Hepatitis B y C",
+   "Hígado graso metabólico",
+   "Enfermedades autoinmunes o genéticas (hemocromatosis)"
+  ],
+  "riskFactors": [
+   "Consumo excesivo de alcohol",
+   "Hepatitis crónica",
+   "Obesidad y diabetes"
+  ],
+  "diagnosis": "Análisis, ecografía, elastografía y, a veces, biopsia.",
+  "treatments": [
+   "Tratar la causa (abstinencia de alcohol, antivirales)",
+   "Diuréticos para la ascitis",
+   "Betabloqueantes para prevenir sangrados",
+   "Trasplante hepático en fases avanzadas"
+  ],
+  "prevention": [
+   "Moderar o evitar el alcohol",
+   "Vacuna de la hepatitis B y tratar la hepatitis C",
+   "Peso saludable"
+  ],
+  "whenToSeek": "Urgencias ante vómitos con sangre, heces negras, confusión o fiebre con abdomen hinchado.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Cirrosis hepática"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Cirrosis hepática"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "apendicitis",
+  "name": "Apendicitis",
+  "specialties": [
+   "gastroenterologia"
+  ],
+  "summary": "Inflamación del apéndice, una pequeña bolsa del intestino grueso. Es la urgencia quirúrgica abdominal más frecuente. Si no se trata, el apéndice puede perforarse y causar peritonitis.",
+  "keyFact": "El dolor típico empieza alrededor del ombligo y se desplaza a la parte baja derecha del abdomen.",
+  "symptoms": [
+   "Dolor que empieza cerca del ombligo y se va a la fosa ilíaca derecha",
+   "Dolor que empeora al moverse o toser",
+   "Falta de apetito",
+   "Náuseas y vómitos",
+   "Fiebre baja"
+  ],
+  "causes": [
+   "Obstrucción del apéndice (restos de heces, inflamación linfoide) seguida de infección"
+  ],
+  "riskFactors": [
+   "Más frecuente entre los 10 y 30 años"
+  ],
+  "diagnosis": "Exploración, análisis de sangre y ecografía o TAC.",
+  "treatments": [
+   "Apendicectomía (normalmente por laparoscopia)",
+   "Antibióticos",
+   "En casos seleccionados sin complicaciones, antibióticos solos"
+  ],
+  "prevention": [
+   "No hay prevención conocida"
+  ],
+  "whenToSeek": "Urgencias ante dolor abdominal intenso y progresivo, sobre todo en la parte baja derecha, con fiebre o vómitos.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Apendicitis"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Apendicitis"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "calculos-biliares",
+  "name": "Cálculos biliares (colelitiasis)",
+  "specialties": [
+   "gastroenterologia"
+  ],
+  "summary": "Piedras que se forman en la vesícula biliar, casi siempre de colesterol. Muchas no dan síntomas, pero pueden causar cólicos o complicaciones como colecistitis o pancreatitis.",
+  "keyFact": "La regla clásica de riesgo: mujer, alrededor de 40 años, con sobrepeso y fértil.",
+  "symptoms": [
+   "Cólico biliar: dolor intenso en la parte superior derecha del abdomen tras comidas grasas",
+   "Dolor que se irradia a la espalda o el hombro derecho",
+   "Náuseas y vómitos",
+   "Fiebre o ictericia (complicaciones)"
+  ],
+  "causes": [
+   "Exceso de colesterol o bilirrubina en la bilis",
+   "Vaciamiento lento de la vesícula"
+  ],
+  "riskFactors": [
+   "Sexo femenino",
+   "Obesidad o pérdida de peso muy rápida",
+   "Embarazo",
+   "Edad > 40"
+  ],
+  "diagnosis": "Ecografía abdominal y análisis.",
+  "treatments": [
+   "Analgésicos en el cólico",
+   "Colecistectomía laparoscópica si dan síntomas",
+   "CPRE si hay piedras en el colédoco"
+  ],
+  "prevention": [
+   "Peso saludable, evitando pérdidas muy rápidas",
+   "Dieta rica en fibra",
+   "Ejercicio"
+  ],
+  "whenToSeek": "Urgencias si el dolor dura más de 5-6 horas o hay fiebre, ictericia o vómitos persistentes.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Cálculos biliares"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Cálculos biliares"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "erc",
+  "name": "Enfermedad renal crónica",
+  "specialties": [
+   "nefrologia",
+   "medicina-interna"
+  ],
+  "summary": "Pérdida progresiva de la función de los riñones durante más de tres meses. Suele ser silenciosa hasta fases avanzadas. La diabetes y la hipertensión son sus causas principales. En la fase final requiere diálisis o trasplante.",
+  "keyFact": "Afecta a alrededor de 1 de cada 10 adultos en el mundo.",
+  "symptoms": [
+   "Sin síntomas al principio",
+   "Hinchazón de piernas y párpados",
+   "Orina espumosa",
+   "Cansancio y anemia",
+   "Picor",
+   "Falta de apetito y náuseas en fases avanzadas"
+  ],
+  "causes": [
+   "Diabetes",
+   "Hipertensión",
+   "Glomerulonefritis",
+   "Riñones poliquísticos",
+   "Uso prolongado de antiinflamatorios"
+  ],
+  "riskFactors": [
+   "Diabetes e hipertensión",
+   "Obesidad",
+   "Edad > 60",
+   "Antecedentes familiares",
+   "Enfermedad cardiovascular"
+  ],
+  "diagnosis": "Análisis de creatinina con filtrado glomerular estimado (FGe) y cociente albúmina/creatinina en orina.",
+  "treatments": [
+   "Control estricto de tensión y glucosa",
+   "IECA o ARA-II",
+   "Inhibidores SGLT2 (protegen el riñón)",
+   "Finerenona en diabéticos",
+   "Dieta adaptada (sal, proteínas, potasio)",
+   "Diálisis o trasplante en fase terminal"
+  ],
+  "prevention": [
+   "Controlar la diabetes y la tensión",
+   "Evitar abusar de antiinflamatorios",
+   "No fumar",
+   "Análisis anuales si tienes factores de riesgo"
+  ],
+  "whenToSeek": "Urgencias si dejas de orinar, tienes mucha falta de aire o confusión.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Enfermedad renal crónica"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Enfermedad renal crónica"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "calculos-renales",
+  "name": "Cálculos renales (cólico nefrítico)",
+  "specialties": [
+   "nefrologia",
+   "urologia"
+  ],
+  "summary": "Piedras que se forman en el riñón a partir de sales minerales. Cuando bajan por el uréter causan uno de los dolores más intensos que existen: el cólico renal.",
+  "keyFact": "Beber agua suficiente para producir más de 2 litros de orina al día es la mejor prevención.",
+  "symptoms": [
+   "Dolor intenso en la espalda o el costado que baja hacia la ingle",
+   "Dolor en oleadas; no se encuentra postura",
+   "Sangre en la orina",
+   "Náuseas y vómitos",
+   "Ganas frecuentes de orinar"
+  ],
+  "causes": [
+   "Orina concentrada con exceso de calcio, oxalato, ácido úrico o cistina"
+  ],
+  "riskFactors": [
+   "Beber poca agua",
+   "Dieta rica en sal y proteína animal",
+   "Obesidad",
+   "Antecedentes familiares",
+   "Gota"
+  ],
+  "diagnosis": "Ecografía o TAC sin contraste y análisis de orina.",
+  "treatments": [
+   "Analgésicos y antiinflamatorios",
+   "Tamsulosina para facilitar la expulsión",
+   "Litotricia (ondas de choque)",
+   "Ureteroscopia con láser",
+   "Análisis del cálculo para prevenir recurrencias"
+  ],
+  "prevention": [
+   "Beber 2,5-3 litros de agua al día",
+   "Reducir la sal",
+   "Moderar la carne",
+   "Tomar cítricos (limón)"
+  ],
+  "whenToSeek": "Urgencias si hay fiebre con el cólico, si solo tienes un riñón, si no puedes orinar o si el dolor no cede.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Cálculos renales"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Cálculos renales"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "artritis-reumatoide",
+  "name": "Artritis reumatoide",
+  "specialties": [
+   "reumatologia",
+   "inmunologia"
+  ],
+  "summary": "Enfermedad autoinmune crónica que inflama las articulaciones, sobre todo de manos y pies, de forma simétrica. Sin tratamiento puede deformarlas. El tratamiento precoz cambia por completo el pronóstico.",
+  "keyFact": "Hay una 'ventana de oportunidad': tratar en los primeros meses evita daño permanente.",
+  "symptoms": [
+   "Dolor e hinchazón en varias articulaciones pequeñas (manos, muñecas, pies)",
+   "Rigidez matutina de más de 30 minutos",
+   "Cansancio",
+   "Nódulos bajo la piel"
+  ],
+  "causes": [
+   "Autoinmunidad; genética y ambiente (tabaco)"
+  ],
+  "riskFactors": [
+   "Sexo femenino",
+   "Tabaco",
+   "Antecedentes familiares",
+   "Enfermedad periodontal"
+  ],
+  "diagnosis": "Exploración, factor reumatoide y anticuerpos anti-CCP, VSG/PCR, radiografías y ecografía.",
+  "treatments": [
+   "Metotrexato (fármaco de base)",
+   "Otros FAME (leflunomida, sulfasalazina, hidroxicloroquina)",
+   "Biológicos (anti-TNF, tocilizumab, abatacept, rituximab)",
+   "Inhibidores JAK",
+   "Corticoides a corto plazo",
+   "Fisioterapia"
+  ],
+  "prevention": [
+   "No fumar",
+   "Cuidar la salud dental"
+  ],
+  "whenToSeek": "Consulta pronto ante varias articulaciones hinchadas más de 6 semanas.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Artritis reumatoide"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Artritis reumatoide"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "lupus",
+  "name": "Lupus eritematoso sistémico",
+  "specialties": [
+   "reumatologia",
+   "inmunologia"
+  ],
+  "summary": "Enfermedad autoinmune que puede afectar a casi cualquier órgano: piel, articulaciones, riñones, sangre, corazón y cerebro. Es mucho más frecuente en mujeres jóvenes y alterna brotes y remisiones.",
+  "keyFact": "Se le llama 'la enfermedad de las mil caras' por lo variados que son sus síntomas.",
+  "symptoms": [
+   "Erupción en alas de mariposa en la cara",
+   "Dolor e inflamación articular",
+   "Cansancio y fiebre",
+   "Sensibilidad al sol",
+   "Úlceras en la boca",
+   "Caída del pelo",
+   "Afectación renal (orina espumosa, hinchazón)"
+  ],
+  "causes": [
+   "Autoinmunidad; genética, hormonas y ambiente (luz UV, infecciones)"
+  ],
+  "riskFactors": [
+   "Mujeres de 15 a 45 años",
+   "Ascendencia africana, asiática o latinoamericana",
+   "Antecedentes familiares"
+  ],
+  "diagnosis": "Anticuerpos antinucleares (ANA), anti-ADN, complemento y estudio de órganos afectados.",
+  "treatments": [
+   "Hidroxicloroquina (base del tratamiento)",
+   "Corticoides",
+   "Inmunosupresores",
+   "Biológicos (belimumab, anifrolumab)",
+   "Protección solar"
+  ],
+  "prevention": [
+   "Protección solar estricta",
+   "No fumar",
+   "Tomar el tratamiento de base"
+  ],
+  "whenToSeek": "Urgencias ante dolor torácico, falta de aire, convulsiones o disminución de la orina.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Lupus eritematoso sistémico"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Lupus eritematoso sistémico"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "artrosis",
+  "name": "Artrosis",
+  "specialties": [
+   "reumatologia",
+   "ortopedia"
+  ],
+  "summary": "Desgaste del cartílago de las articulaciones, la enfermedad articular más frecuente. Afecta sobre todo a rodillas, caderas, manos y columna, y causa dolor y rigidez. El ejercicio es parte fundamental del tratamiento.",
+  "keyFact": "Más de 500 millones de personas viven con artrosis en el mundo.",
+  "symptoms": [
+   "Dolor articular que empeora con el uso y mejora con el reposo",
+   "Rigidez breve al levantarse",
+   "Crujidos",
+   "Pérdida de movilidad",
+   "Bultos en los dedos (nódulos de Heberden)"
+  ],
+  "causes": [
+   "Degeneración del cartílago y cambios en todo el tejido articular"
+  ],
+  "riskFactors": [
+   "Edad",
+   "Obesidad",
+   "Lesiones articulares previas",
+   "Sobrecarga laboral o deportiva",
+   "Sexo femenino"
+  ],
+  "diagnosis": "Clínico y radiografía.",
+  "treatments": [
+   "Ejercicio terapéutico y fortalecimiento muscular",
+   "Pérdida de peso",
+   "Paracetamol o antiinflamatorios tópicos u orales",
+   "Infiltraciones",
+   "Prótesis de rodilla o cadera en casos avanzados"
+  ],
+  "prevention": [
+   "Peso saludable",
+   "Ejercicio regular de bajo impacto",
+   "Evitar lesiones"
+  ],
+  "whenToSeek": "Urgencias si una articulación se hincha de forma súbita con fiebre.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Artrosis"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Artrosis"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "fibromialgia",
+  "name": "Fibromialgia",
+  "specialties": [
+   "reumatologia"
+  ],
+  "summary": "Síndrome de dolor crónico generalizado acompañado de cansancio, problemas de sueño y dificultades de concentración. Se debe a una alteración en cómo el sistema nervioso procesa el dolor (sensibilización central). El dolor es real aunque las pruebas salgan normales.",
+  "keyFact": "El ejercicio gradual es el tratamiento con mejor evidencia.",
+  "symptoms": [
+   "Dolor generalizado de más de 3 meses",
+   "Fatiga",
+   "Sueño no reparador",
+   "Niebla mental",
+   "Rigidez",
+   "Colon irritable, dolores de cabeza"
+  ],
+  "causes": [
+   "Sensibilización central del dolor; factores genéticos, estrés y traumas"
+  ],
+  "riskFactors": [
+   "Sexo femenino",
+   "Estrés o trauma",
+   "Otras enfermedades reumáticas"
+  ],
+  "diagnosis": "Clínico (criterios ACR) tras descartar otras causas.",
+  "treatments": [
+   "Ejercicio aeróbico gradual",
+   "Terapia cognitivo-conductual",
+   "Higiene del sueño",
+   "Fármacos: amitriptilina, duloxetina, pregabalina",
+   "Educación sobre el dolor"
+  ],
+  "prevention": [
+   "Manejo del estrés",
+   "Actividad física regular"
+  ],
+  "whenToSeek": "No suele ser urgente.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Fibromialgia"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Fibromialgia"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "psoriasis",
+  "name": "Psoriasis",
+  "specialties": [
+   "dermatologia"
+  ],
+  "summary": "Enfermedad inflamatoria crónica, de origen inmunitario, que acelera la renovación de la piel y forma placas rojas con escamas plateadas. No es contagiosa. Puede asociarse a artritis psoriásica y a riesgo cardiovascular.",
+  "keyFact": "Los tratamientos biológicos permiten a muchos pacientes tener la piel casi limpia.",
+  "symptoms": [
+   "Placas rojas con escamas blancas (codos, rodillas, cuero cabelludo)",
+   "Picor",
+   "Uñas con hoyuelos o engrosadas",
+   "Dolor articular (artritis psoriásica)"
+  ],
+  "causes": [
+   "Activación del sistema inmunitario (eje IL-23/IL-17) en personas predispuestas"
+  ],
+  "riskFactors": [
+   "Antecedentes familiares",
+   "Estrés",
+   "Infecciones",
+   "Tabaco, alcohol y obesidad",
+   "Algunos fármacos"
+  ],
+  "diagnosis": "Clínico; biopsia en casos dudosos.",
+  "treatments": [
+   "Cremas con corticoides y vitamina D",
+   "Fototerapia",
+   "Metotrexato, ciclosporina, apremilast",
+   "Biológicos (anti-IL-17, anti-IL-23, anti-TNF)"
+  ],
+  "prevention": [
+   "Hidratar la piel",
+   "No fumar",
+   "Moderar el alcohol",
+   "Controlar el peso"
+  ],
+  "whenToSeek": "Urgencias si la piel se enrojece por todo el cuerpo o aparecen pústulas con fiebre.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Psoriasis"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Psoriasis"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "dermatitis-atopica",
+  "name": "Dermatitis atópica (eccema)",
+  "specialties": [
+   "dermatologia",
+   "alergologia",
+   "pediatria"
+  ],
+  "summary": "Inflamación crónica de la piel que causa sequedad, picor intenso y brotes de eccema. Es muy frecuente en niños y a menudo se asocia a asma y alergias.",
+  "keyFact": "Hidratar la piel a diario es la base del tratamiento.",
+  "symptoms": [
+   "Piel muy seca",
+   "Picor intenso, peor por la noche",
+   "Placas rojas en pliegues (codos, rodillas), cara o cuello",
+   "Piel engrosada por rascado"
+  ],
+  "causes": [
+   "Alteración de la barrera de la piel (filagrina) e inflamación inmunitaria"
+  ],
+  "riskFactors": [
+   "Antecedentes familiares de atopia",
+   "Clima seco o frío",
+   "Jabones agresivos",
+   "Estrés"
+  ],
+  "diagnosis": "Clínico.",
+  "treatments": [
+   "Emolientes varias veces al día",
+   "Corticoides tópicos en brotes",
+   "Inhibidores de la calcineurina tópicos",
+   "Biológicos (dupilumab, tralokinumab) e inhibidores JAK en casos graves"
+  ],
+  "prevention": [
+   "Duchas cortas con agua tibia",
+   "Jabones suaves",
+   "Ropa de algodón",
+   "Evitar desencadenantes"
+  ],
+  "whenToSeek": "Consulta si aparecen costras amarillas, ampollas o fiebre (infección).",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Dermatitis atópica"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Dermatitis atópica"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "acne",
+  "name": "Acné",
+  "specialties": [
+   "dermatologia"
+  ],
+  "summary": "Afección de los folículos pilosebáceos con granos, puntos negros y quistes, muy común en la adolescencia pero también en adultos. Tiene tratamientos eficaces que evitan cicatrices.",
+  "keyFact": "No se debe a falta de higiene.",
+  "symptoms": [
+   "Puntos negros y blancos",
+   "Granos rojos y con pus",
+   "Nódulos o quistes dolorosos",
+   "Cicatrices y manchas"
+  ],
+  "causes": [
+   "Exceso de sebo, obstrucción del poro, bacteria C. acnes e inflamación",
+   "Hormonas"
+  ],
+  "riskFactors": [
+   "Adolescencia",
+   "Cambios hormonales, síndrome de ovario poliquístico",
+   "Algunos fármacos",
+   "Cosméticos grasos"
+  ],
+  "diagnosis": "Clínico.",
+  "treatments": [
+   "Peróxido de benzoilo",
+   "Retinoides tópicos (adapaleno)",
+   "Antibióticos tópicos u orales",
+   "Anticonceptivos o espironolactona en mujeres",
+   "Isotretinoína en acné grave"
+  ],
+  "prevention": [
+   "Lavar la cara con productos suaves",
+   "No manipular los granos",
+   "Cosméticos 'no comedogénicos'"
+  ],
+  "whenToSeek": "No es urgente, pero consulta pronto si deja cicatrices o afecta a tu ánimo.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Acné"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Acné"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "anemia",
+  "name": "Anemia ferropénica",
+  "specialties": [
+   "hematologia",
+   "medicina-interna"
+  ],
+  "summary": "Falta de glóbulos rojos o hemoglobina por déficit de hierro. Es la anemia más frecuente del mundo y afecta sobre todo a mujeres en edad fértil, embarazadas y niños.",
+  "keyFact": "La anemia afecta a cerca de 2.000 millones de personas en el mundo.",
+  "symptoms": [
+   "Cansancio y debilidad",
+   "Palidez",
+   "Falta de aire al esfuerzo",
+   "Palpitaciones",
+   "Uñas frágiles y caída del pelo",
+   "Ganas de comer hielo o tierra (pica)"
+  ],
+  "causes": [
+   "Pérdidas de sangre (reglas abundantes, sangrado digestivo)",
+   "Dieta pobre en hierro",
+   "Mala absorción (celiaquía)",
+   "Embarazo"
+  ],
+  "riskFactors": [
+   "Mujeres con reglas abundantes",
+   "Embarazo",
+   "Dietas vegetarianas mal planificadas",
+   "Parásitos intestinales"
+  ],
+  "diagnosis": "Hemograma y ferritina; buscar la causa (en adultos mayores, estudio digestivo).",
+  "treatments": [
+   "Hierro oral (mejor en días alternos, con vitamina C)",
+   "Hierro intravenoso si no se tolera o no funciona",
+   "Tratar la causa del sangrado"
+  ],
+  "prevention": [
+   "Dieta con legumbres, carnes, pescado, verduras de hoja",
+   "Suplementos en el embarazo",
+   "Desparasitación en zonas endémicas"
+  ],
+  "complications": [
+   "Cansancio que limita la vida diaria",
+   "Problemas cardíacos en anemias graves",
+   "Complicaciones en el embarazo"
+  ],
+  "whenToSeek": "Urgencias ante dolor torácico, desmayo o sangrado activo.",
+  "faq": [
+   {
+    "q": "¿Debo tomar hierro si me siento cansado?",
+    "a": "No sin un análisis. El exceso de hierro también es perjudicial y el cansancio tiene muchas causas."
+   }
+  ],
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Anemia ferropénica"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Anemia ferropénica"
+   }
+  ],
+  "meta": {
+   "version": 2,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "falciforme",
+  "name": "Anemia falciforme",
+  "specialties": [
+   "hematologia",
+   "pediatria"
+  ],
+  "summary": "Enfermedad hereditaria en la que los glóbulos rojos adoptan forma de hoz, se rompen y obstruyen los vasos sanguíneos, causando dolor y daño en órganos. Es frecuente en personas de ascendencia africana.",
+  "keyFact": "Las terapias génicas aprobadas recientemente pueden curarla en algunos pacientes.",
+  "symptoms": [
+   "Crisis de dolor intenso (huesos, pecho, abdomen)",
+   "Anemia y cansancio",
+   "Infecciones frecuentes",
+   "Ictericia",
+   "Retraso del crecimiento"
+  ],
+  "causes": [
+   "Mutación del gen de la hemoglobina (HbS) heredada de ambos padres"
+  ],
+  "riskFactors": [
+   "Ascendencia africana, mediterránea, de Oriente Medio o India"
+  ],
+  "diagnosis": "Cribado neonatal y electroforesis de hemoglobina.",
+  "treatments": [
+   "Hidroxiurea",
+   "Analgesia e hidratación en crisis",
+   "Transfusiones",
+   "Antibióticos y vacunas",
+   "Trasplante de médula ósea y terapia génica"
+  ],
+  "prevention": [
+   "Consejo genético",
+   "Cribado neonatal",
+   "Vacunación y profilaxis con penicilina en niños"
+  ],
+  "whenToSeek": "Urgencias ante fiebre, dolor torácico, dificultad respiratoria, dolor intenso o síntomas de ictus.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Anemia falciforme"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Anemia falciforme"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "hemofilia",
+  "name": "Hemofilia",
+  "specialties": [
+   "hematologia"
+  ],
+  "summary": "Trastorno hereditario de la coagulación por falta del factor VIII (hemofilia A) o IX (hemofilia B). Provoca sangrados prolongados, sobre todo en articulaciones y músculos. Afecta casi solo a varones.",
+  "keyFact": "Los tratamientos preventivos modernos y la terapia génica han transformado la vida de los pacientes.",
+  "symptoms": [
+   "Sangrados prolongados tras heridas o extracciones",
+   "Moratones grandes",
+   "Sangrado en articulaciones (dolor e hinchazón)",
+   "Sangrados espontáneos en casos graves"
+  ],
+  "causes": [
+   "Mutación en el cromosoma X de los genes F8 o F9"
+  ],
+  "riskFactors": [
+   "Madre portadora"
+  ],
+  "diagnosis": "Pruebas de coagulación y medición de factores.",
+  "treatments": [
+   "Reposición del factor de coagulación",
+   "Emicizumab (prevención subcutánea)",
+   "Terapia génica",
+   "Fisioterapia"
+  ],
+  "prevention": [
+   "Consejo genético",
+   "Profilaxis regular",
+   "Evitar antiinflamatorios y aspirina"
+  ],
+  "whenToSeek": "Urgencias ante golpes en la cabeza, dolor de cabeza intenso, sangrados que no paran o sangrado en articulación.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Hemofilia"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Hemofilia"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "fibrosis-quistica",
+  "name": "Fibrosis quística",
+  "specialties": [
+   "hematologia",
+   "neumologia",
+   "pediatria"
+  ],
+  "summary": "Enfermedad genética que espesa las secreciones y afecta sobre todo a pulmones y páncreas, causando infecciones respiratorias repetidas y problemas digestivos. Los moduladores de CFTR han cambiado radicalmente su pronóstico.",
+  "keyFact": "Se detecta en el cribado neonatal (prueba del talón) en muchos países.",
+  "symptoms": [
+   "Tos crónica con moco espeso",
+   "Infecciones pulmonares repetidas",
+   "Sudor muy salado",
+   "Heces grasas y dificultad para ganar peso",
+   "Infertilidad masculina"
+  ],
+  "causes": [
+   "Mutaciones en el gen CFTR heredadas de ambos padres"
+  ],
+  "riskFactors": [
+   "Padres portadores"
+  ],
+  "diagnosis": "Cribado neonatal, test del sudor y estudio genético.",
+  "treatments": [
+   "Moduladores de CFTR (elexacaftor/tezacaftor/ivacaftor)",
+   "Fisioterapia respiratoria",
+   "Antibióticos",
+   "Enzimas pancreáticas y nutrición",
+   "Trasplante pulmonar en casos graves"
+  ],
+  "prevention": [
+   "Consejo genético"
+  ],
+  "whenToSeek": "Urgencias ante dificultad respiratoria o tos con sangre.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Fibrosis quística"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Fibrosis quística"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "glaucoma",
+  "name": "Glaucoma",
+  "specialties": [
+   "oftalmologia"
+  ],
+  "summary": "Grupo de enfermedades que dañan el nervio óptico, a menudo por presión elevada dentro del ojo. Es la principal causa de ceguera irreversible del mundo, y avanza sin síntomas hasta fases tardías.",
+  "keyFact": "La visión perdida por glaucoma no se recupera, pero se puede frenar.",
+  "symptoms": [
+   "Normalmente ninguno al principio",
+   "Pérdida lenta de la visión periférica",
+   "Glaucoma agudo: dolor ocular intenso, ojo rojo, visión borrosa, halos, náuseas"
+  ],
+  "causes": [
+   "Daño del nervio óptico, frecuentemente por presión intraocular alta"
+  ],
+  "riskFactors": [
+   "Edad > 60",
+   "Antecedentes familiares",
+   "Miopía alta",
+   "Ascendencia africana",
+   "Uso prolongado de corticoides"
+  ],
+  "diagnosis": "Medición de la presión ocular, fondo de ojo, campimetría y OCT.",
+  "treatments": [
+   "Colirios que bajan la presión",
+   "Láser",
+   "Cirugía"
+  ],
+  "prevention": [
+   "Revisión oftalmológica periódica a partir de los 40"
+  ],
+  "whenToSeek": "Urgencias ante dolor ocular intenso con ojo rojo, visión borrosa y náuseas.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Glaucoma"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Glaucoma"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "cataratas",
+  "name": "Cataratas",
+  "specialties": [
+   "oftalmologia"
+  ],
+  "summary": "Opacificación del cristalino, la lente natural del ojo. Es la primera causa de ceguera en el mundo, y a la vez una de las más fáciles de solucionar con una cirugía rápida y segura.",
+  "keyFact": "La cirugía de cataratas es una de las operaciones más frecuentes y exitosas del mundo.",
+  "symptoms": [
+   "Visión borrosa o nublada",
+   "Deslumbramiento con luces",
+   "Colores apagados",
+   "Dificultad para ver de noche",
+   "Cambios frecuentes de graduación"
+  ],
+  "causes": [
+   "Envejecimiento del cristalino"
+  ],
+  "riskFactors": [
+   "Edad",
+   "Diabetes",
+   "Tabaco",
+   "Radiación UV",
+   "Corticoides"
+  ],
+  "diagnosis": "Exploración con lámpara de hendidura.",
+  "treatments": [
+   "Cirugía: se sustituye el cristalino por una lente artificial"
+  ],
+  "prevention": [
+   "Gafas de sol",
+   "No fumar",
+   "Controlar la diabetes"
+  ],
+  "whenToSeek": "Urgencias si hay pérdida súbita de visión (no es típico de cataratas).",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Cataratas"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Cataratas"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "dmae",
+  "name": "Degeneración macular (DMAE)",
+  "specialties": [
+   "oftalmologia"
+  ],
+  "summary": "Enfermedad de la mácula, la zona central de la retina, que afecta a la visión central necesaria para leer y reconocer caras. Es una causa principal de pérdida de visión en mayores. Hay forma seca (lenta) y húmeda (rápida).",
+  "keyFact": "La rejilla de Amsler permite vigilar en casa si aparecen líneas deformadas.",
+  "symptoms": [
+   "Visión central borrosa",
+   "Líneas rectas que se ven onduladas",
+   "Mancha oscura en el centro de la visión",
+   "Dificultad para leer o reconocer caras"
+  ],
+  "causes": [
+   "Envejecimiento de la retina; en la forma húmeda, crecimiento de vasos anormales"
+  ],
+  "riskFactors": [
+   "Edad > 55",
+   "Tabaco",
+   "Antecedentes familiares",
+   "Hipertensión"
+  ],
+  "diagnosis": "Fondo de ojo, OCT y angiografía.",
+  "treatments": [
+   "DMAE húmeda: inyecciones intraoculares antiangiogénicas (anti-VEGF)",
+   "DMAE seca: suplementos AREDS2 en casos concretos; nuevos fármacos para la atrofia geográfica",
+   "Ayudas de baja visión"
+  ],
+  "prevention": [
+   "No fumar",
+   "Dieta rica en verduras de hoja y pescado",
+   "Revisiones oftalmológicas"
+  ],
+  "whenToSeek": "Consulta en pocos días si notas líneas deformadas o una mancha central nueva.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Degeneración macular"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Degeneración macular"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "otitis",
+  "name": "Otitis",
+  "specialties": [
+   "otorrinolaringologia",
+   "pediatria"
+  ],
+  "summary": "Infección o inflamación del oído. La otitis media (detrás del tímpano) es muy común en niños tras un resfriado; la otitis externa ('del nadador') afecta al conducto auditivo.",
+  "keyFact": "Muchas otitis medias leves se curan solas y solo necesitan analgésicos.",
+  "symptoms": [
+   "Dolor de oído",
+   "Fiebre",
+   "Disminución de la audición",
+   "Supuración",
+   "En bebés: irritabilidad, tocarse la oreja, mal sueño"
+  ],
+  "causes": [
+   "Bacterias o virus tras infecciones respiratorias",
+   "Humedad en el conducto (otitis externa)"
+  ],
+  "riskFactors": [
+   "Niños pequeños",
+   "Guardería",
+   "Tabaquismo pasivo",
+   "Uso de chupete",
+   "Natación"
+  ],
+  "diagnosis": "Exploración con otoscopio.",
+  "treatments": [
+   "Analgésicos (paracetamol, ibuprofeno)",
+   "Antibióticos cuando están indicados",
+   "Gotas óticas en otitis externa"
+  ],
+  "prevention": [
+   "Vacuna antineumocócica y de la gripe",
+   "Evitar el humo del tabaco",
+   "Lactancia materna",
+   "Secar bien los oídos"
+  ],
+  "whenToSeek": "Urgencias ante hinchazón detrás de la oreja, rigidez de cuello, parálisis facial o fiebre muy alta.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "Otitis"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "Otitis"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-09-24",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "faringoamigdalitis",
+  "name": "Faringitis y amigdalitis",
+  "aka": [
+   "dolor de garganta",
+   "anginas"
+  ],
+  "specialties": [
+   "otorrinolaringologia",
+   "infectologia",
+   "pediatria"
+  ],
+  "summary": "Inflamación de la garganta y las amígdalas. La mayoría de los casos se deben a virus y se curan solos en una semana. Una parte, sobre todo en niños de 5 a 15 años, la causa la bacteria estreptococo del grupo A, que sí necesita antibiótico.",
+  "symptoms": [
+   "Dolor de garganta, peor al tragar",
+   "Fiebre",
+   "Amígdalas rojas o con placas blancas",
+   "Ganglios del cuello inflamados y dolorosos",
+   "Si es vírica: tos, mocos, ronquera, ojos rojos"
+  ],
+  "causes": [
+   "Virus respiratorios (la mayoría)",
+   "Estreptococo del grupo A",
+   "Virus de Epstein-Barr (mononucleosis)"
+  ],
+  "riskFactors": [
+   "Edad escolar",
+   "Contacto cercano con personas enfermas",
+   "Época de otoño-invierno"
+  ],
+  "diagnosis": "Exploración de la garganta. Las escalas clínicas (como Centor/McIsaac) y el test rápido de estreptococo ayudan a decidir si hace falta antibiótico.",
+  "treatments": [
+   "Analgésicos y antitérmicos de venta libre",
+   "Líquidos y alimentos blandos",
+   "Antibiótico solo si se confirma o es muy probable el estreptococo",
+   "Completar el antibiótico si se prescribe"
+  ],
+  "prevention": [
+   "Lavado de manos",
+   "No compartir vasos ni cubiertos",
+   "Taparse al toser"
+  ],
+  "complications": [
+   "Absceso periamigdalino",
+   "Fiebre reumática (rara, tras estreptococo no tratado)",
+   "Glomerulonefritis postestreptocócica (rara)"
+  ],
+  "whenToSeek": "Consulta si el dolor dura más de 3-4 días, hay fiebre alta, placas en las amígdalas sin tos, o ganglios muy dolorosos. Urgencias si hay dificultad para respirar, babeo, imposibilidad de tragar líquidos o de abrir la boca.",
+  "faq": [
+   {
+    "q": "¿Necesito antibiótico para el dolor de garganta?",
+    "a": "Normalmente no. La mayoría son víricos y el antibiótico no ayuda. Se usa cuando hay infección por estreptococo confirmada o muy probable."
+   },
+   {
+    "q": "¿Cuánto dura?",
+    "a": "Una faringitis vírica suele mejorar en 5-7 días."
+   }
+  ],
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "faringitis estreptocócica"
+   },
+   {
+    "sourceId": "nhs",
+    "query": "tonsillitis"
+   },
+   {
+    "sourceId": "cdc"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "sinusitis",
+  "name": "Sinusitis aguda",
+  "aka": [
+   "rinosinusitis"
+  ],
+  "specialties": [
+   "otorrinolaringologia"
+  ],
+  "summary": "Inflamación de los senos paranasales, normalmente tras un resfriado. Casi siempre es vírica y mejora sola en 2-3 semanas.",
+  "symptoms": [
+   "Congestión y mucosidad espesa",
+   "Dolor o presión en la cara (frente, mejillas, alrededor de los ojos)",
+   "Dolor que aumenta al agacharse",
+   "Disminución del olfato",
+   "Fiebre en algunos casos"
+  ],
+  "causes": [
+   "Virus del resfriado (la mayoría)",
+   "Bacterias en una minoría",
+   "Alergias que favorecen la inflamación"
+  ],
+  "riskFactors": [
+   "Rinitis alérgica",
+   "Desviación del tabique",
+   "Pólipos nasales",
+   "Tabaco"
+  ],
+  "diagnosis": "Clínico. Se sospecha origen bacteriano si los síntomas duran más de 10 días sin mejorar, empeoran tras mejorar o son muy intensos desde el inicio.",
+  "treatments": [
+   "Lavados nasales con suero salino",
+   "Analgésicos de venta libre",
+   "Corticoides nasales en algunos casos",
+   "Antibiótico solo si se sospecha infección bacteriana"
+  ],
+  "prevention": [
+   "Lavado de manos",
+   "Controlar la rinitis alérgica",
+   "No fumar"
+  ],
+  "complications": [
+   "Infección alrededor del ojo (rara)",
+   "Sinusitis crónica"
+  ],
+  "whenToSeek": "Consulta si dura más de 10 días o empeora tras mejorar. Urgencias si hay hinchazón o enrojecimiento alrededor del ojo, visión doble, rigidez de nuca o dolor de cabeza muy intenso.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "sinusitis"
+   },
+   {
+    "sourceId": "nhs",
+    "query": "sinusitis"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "rinitis-alergica",
+  "name": "Rinitis alérgica",
+  "aka": [
+   "fiebre del heno",
+   "alergia al polen"
+  ],
+  "specialties": [
+   "alergologia",
+   "otorrinolaringologia"
+  ],
+  "summary": "Inflamación de la nariz por una reacción alérgica a sustancias como polen, ácaros, epitelio de animales u hongos. Muy frecuente y a menudo asociada a asma.",
+  "symptoms": [
+   "Estornudos en salvas",
+   "Mucosidad acuosa",
+   "Congestión nasal",
+   "Picor de nariz, ojos o paladar",
+   "Ojos rojos y llorosos"
+  ],
+  "causes": [
+   "Respuesta inmunitaria (IgE) frente a alérgenos ambientales"
+  ],
+  "riskFactors": [
+   "Antecedentes familiares de alergia",
+   "Dermatitis atópica o asma",
+   "Exposición a alérgenos"
+  ],
+  "diagnosis": "Historia clínica y pruebas cutáneas (prick test) o IgE específica en sangre.",
+  "treatments": [
+   "Evitar el alérgeno cuando sea posible",
+   "Antihistamínicos orales no sedantes",
+   "Corticoides nasales",
+   "Lavados nasales",
+   "Inmunoterapia con alérgenos (vacunas de alergia) en casos seleccionados"
+  ],
+  "prevention": [
+   "Ventanas cerradas en días de mucho polen",
+   "Fundas antiácaros",
+   "Ducharse al volver de la calle en temporada de polen"
+  ],
+  "complications": [
+   "Peor control del asma",
+   "Sinusitis",
+   "Alteración del sueño"
+  ],
+  "whenToSeek": "Consulta si los síntomas afectan al sueño o a la vida diaria, o si aparecen pitidos o falta de aire.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "rinitis alérgica"
+   },
+   {
+    "sourceId": "mayo",
+    "query": "fiebre del heno"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "anafilaxia",
+  "name": "Anafilaxia (reacción alérgica grave)",
+  "specialties": [
+   "alergologia",
+   "inmunologia"
+  ],
+  "summary": "Reacción alérgica grave, de inicio rápido, que afecta a varios órganos y puede ser mortal. Sus desencadenantes más comunes son alimentos, medicamentos y picaduras de insectos. El tratamiento de primera línea es la adrenalina intramuscular.",
+  "symptoms": [
+   "Ronchas o hinchazón de labios, lengua o garganta",
+   "Dificultad para respirar o pitidos",
+   "Sensación de nudo en la garganta o ronquera",
+   "Mareo, desmayo o tensión baja",
+   "Vómitos o dolor abdominal intenso",
+   "Sensación de muerte inminente"
+  ],
+  "causes": [
+   "Alimentos (frutos secos, marisco, leche, huevo…)",
+   "Medicamentos",
+   "Picaduras de abejas o avispas",
+   "Látex"
+  ],
+  "riskFactors": [
+   "Reacción alérgica grave previa",
+   "Asma mal controlada",
+   "Alergia alimentaria conocida"
+  ],
+  "diagnosis": "Clínico, en el momento agudo. Después, estudio por alergología para identificar la causa.",
+  "treatments": [
+   "Llamar a emergencias",
+   "Adrenalina intramuscular (autoinyector si la persona lo tiene prescrito)",
+   "Tumbarse con las piernas elevadas (sentarse si cuesta respirar)",
+   "Observación hospitalaria por posible reacción tardía",
+   "Plan de acción y autoinyector tras el episodio"
+  ],
+  "prevention": [
+   "Evitar el desencadenante identificado",
+   "Llevar siempre el autoinyector si está prescrito",
+   "Informar de las alergias en cada consulta"
+  ],
+  "complications": [
+   "Shock anafiláctico",
+   "Paro respiratorio"
+  ],
+  "whenToSeek": "Emergencia: ante dificultad para respirar, hinchazón de la garganta o desmayo tras un posible alérgeno, llama al 112/911 y usa el autoinyector de adrenalina si lo tienes.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "anafilaxia"
+   },
+   {
+    "sourceId": "nhs",
+    "query": "anaphylaxis"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "alergia-alimentaria",
+  "name": "Alergia alimentaria",
+  "specialties": [
+   "alergologia",
+   "pediatria",
+   "nutricion"
+  ],
+  "summary": "Reacción del sistema inmunitario frente a un alimento. Es distinta de la intolerancia (como la intolerancia a la lactosa), que no implica al sistema inmunitario y no causa anafilaxia.",
+  "symptoms": [
+   "Ronchas, picor o hinchazón tras comer",
+   "Picor en la boca",
+   "Vómitos, dolor abdominal o diarrea",
+   "En casos graves: dificultad respiratoria o desmayo (anafilaxia)"
+  ],
+  "causes": [
+   "Respuesta inmunitaria a proteínas de alimentos: leche, huevo, cacahuete, frutos secos, pescado, marisco, trigo, soja, sésamo"
+  ],
+  "riskFactors": [
+   "Dermatitis atópica",
+   "Otras alergias o asma",
+   "Antecedentes familiares"
+  ],
+  "diagnosis": "Historia clínica, pruebas cutáneas, IgE específica y, en algunos casos, prueba de provocación supervisada por especialistas.",
+  "treatments": [
+   "Evitar el alimento y leer etiquetas",
+   "Antihistamínicos para reacciones leves",
+   "Autoinyector de adrenalina si hay riesgo de anafilaxia",
+   "Inmunoterapia oral en casos seleccionados y en centros especializados"
+  ],
+  "prevention": [
+   "En bebés, la introducción temprana de alimentos alergénicos se recomienda hoy en muchas guías; consulta a tu pediatra"
+  ],
+  "whenToSeek": "Consulta tras cualquier reacción a un alimento. Emergencia si aparece dificultad respiratoria, hinchazón de la garganta o desmayo.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "alergia alimentaria"
+   },
+   {
+    "sourceId": "healthychildren"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "urticaria",
+  "name": "Urticaria",
+  "aka": [
+   "ronchas",
+   "habones"
+  ],
+  "specialties": [
+   "dermatologia",
+   "alergologia"
+  ],
+  "summary": "Ronchas elevadas que pican y cambian de lugar en horas. La urticaria aguda suele deberse a infecciones víricas, alimentos o medicamentos; la crónica (más de 6 semanas) muchas veces no tiene un desencadenante externo.",
+  "symptoms": [
+   "Ronchas rojizas o pálidas que pican",
+   "Lesiones que aparecen y desaparecen en menos de 24 h",
+   "A veces hinchazón de párpados o labios (angioedema)"
+  ],
+  "causes": [
+   "Infecciones víricas",
+   "Alimentos o medicamentos",
+   "Picaduras",
+   "Frío, presión o calor",
+   "Causa autoinmune o desconocida en la crónica"
+  ],
+  "riskFactors": [
+   "Alergias",
+   "Enfermedades autoinmunes en la urticaria crónica"
+  ],
+  "diagnosis": "Clínico; en la urticaria crónica, análisis seleccionados.",
+  "treatments": [
+   "Antihistamínicos no sedantes",
+   "Evitar desencadenantes conocidos",
+   "Omalizumab u otros tratamientos especializados en urticaria crónica resistente"
+  ],
+  "prevention": [
+   "Identificar y evitar desencadenantes"
+  ],
+  "whenToSeek": "Emergencia si se acompaña de dificultad para respirar, hinchazón de la lengua o la garganta, o mareo. Consulta si dura más de unos días o se repite.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "urticaria"
+   },
+   {
+    "sourceId": "nhs",
+    "query": "hives"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "lumbalgia",
+  "name": "Dolor lumbar (lumbalgia)",
+  "aka": [
+   "dolor de espalda",
+   "lumbago"
+  ],
+  "specialties": [
+   "traumatologia",
+   "ortopedia",
+   "reumatologia"
+  ],
+  "summary": "Dolor en la parte baja de la espalda, muy frecuente. En la mayoría de los casos es 'inespecífico' (muscular o mecánico) y mejora en pocas semanas manteniéndose activo.",
+  "symptoms": [
+   "Dolor en la zona lumbar que empeora con ciertos movimientos",
+   "Rigidez",
+   "Dolor que baja por la pierna (ciática) si hay compresión de un nervio"
+  ],
+  "causes": [
+   "Sobrecarga muscular o de ligamentos",
+   "Degeneración discal",
+   "Hernia discal",
+   "Causas poco frecuentes: fracturas, infecciones, tumores"
+  ],
+  "riskFactors": [
+   "Sedentarismo",
+   "Esfuerzos con mala técnica",
+   "Sobrepeso",
+   "Tabaco",
+   "Estrés"
+  ],
+  "diagnosis": "Clínico. Las pruebas de imagen no se necesitan en la mayoría de los casos, salvo señales de alarma o evolución tórpida.",
+  "treatments": [
+   "Mantenerse activo dentro de lo tolerable (el reposo en cama empeora el pronóstico)",
+   "Calor local",
+   "Analgésicos o antiinflamatorios de venta libre durante poco tiempo",
+   "Fisioterapia y ejercicio terapéutico"
+  ],
+  "prevention": [
+   "Ejercicio regular de fuerza del tronco",
+   "Buena técnica al levantar pesos",
+   "Peso saludable"
+  ],
+  "complications": [
+   "Dolor crónico",
+   "Síndrome de cola de caballo (raro, urgente)"
+  ],
+  "whenToSeek": "Urgencias si hay pérdida de control de la orina o las heces, adormecimiento en la zona genital o entre las piernas, debilidad progresiva de las piernas, fiebre o dolor tras un traumatismo importante. Consulta si no mejora en 4-6 semanas.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "dolor de espalda"
+   },
+   {
+    "sourceId": "nice",
+    "query": "low back pain"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "esguince",
+  "name": "Esguince de tobillo",
+  "specialties": [
+   "traumatologia"
+  ],
+  "summary": "Lesión de los ligamentos del tobillo, normalmente al torcerlo hacia dentro. La mayoría se curan en semanas con tratamiento conservador.",
+  "symptoms": [
+   "Dolor e hinchazón en el tobillo",
+   "Moratón",
+   "Dificultad para apoyar el pie"
+  ],
+  "causes": [
+   "Torcedura del tobillo al caminar, correr o saltar"
+  ],
+  "riskFactors": [
+   "Esguinces previos",
+   "Superficies irregulares",
+   "Calzado inadecuado"
+  ],
+  "diagnosis": "Exploración. Las reglas de Ottawa ayudan a decidir si hace falta una radiografía para descartar fractura.",
+  "treatments": [
+   "Reposo relativo, frío, compresión y elevación en los primeros días",
+   "Analgésicos de venta libre",
+   "Movilización precoz y ejercicios de equilibrio",
+   "Vendaje o tobillera según indicación"
+  ],
+  "prevention": [
+   "Ejercicios de propiocepción",
+   "Calentamiento",
+   "Calzado adecuado"
+  ],
+  "whenToSeek": "Consulta si no puedes dar 4 pasos, hay dolor intenso al presionar el hueso, deformidad o el pie está frío o adormecido.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "esguince de tobillo"
+   },
+   {
+    "sourceId": "nhs",
+    "query": "sprains and strains"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "hbp",
+  "name": "Hiperplasia benigna de próstata",
+  "aka": [
+   "próstata agrandada",
+   "HBP"
+  ],
+  "specialties": [
+   "urologia"
+  ],
+  "summary": "Aumento no canceroso del tamaño de la próstata, muy frecuente con la edad. Puede dificultar la salida de la orina. No aumenta el riesgo de cáncer de próstata, aunque los síntomas pueden parecerse.",
+  "symptoms": [
+   "Chorro débil o entrecortado",
+   "Dificultad para empezar a orinar",
+   "Orinar muchas veces, también de noche",
+   "Sensación de vaciado incompleto",
+   "Goteo al terminar"
+  ],
+  "causes": [
+   "Crecimiento de la próstata ligado a la edad y a las hormonas masculinas"
+  ],
+  "riskFactors": [
+   "Edad mayor de 50",
+   "Antecedentes familiares",
+   "Obesidad y síndrome metabólico"
+  ],
+  "diagnosis": "Historia y cuestionario de síntomas, tacto rectal, análisis de orina, PSA cuando corresponde, ecografía.",
+  "treatments": [
+   "Cambios de hábitos (reducir líquidos por la noche, cafeína y alcohol)",
+   "Alfabloqueantes",
+   "Inhibidores de la 5-alfa reductasa",
+   "Cirugía o técnicas mínimamente invasivas en casos seleccionados"
+  ],
+  "prevention": [
+   "Actividad física y peso saludable"
+  ],
+  "complications": [
+   "Retención aguda de orina",
+   "Infecciones urinarias",
+   "Cálculos en la vejiga"
+  ],
+  "whenToSeek": "Consulta si los síntomas te molestan. Urgencias si no puedes orinar en absoluto, hay sangre en la orina o fiebre.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "agrandamiento de la próstata"
+   },
+   {
+    "sourceId": "nhs",
+    "query": "benign prostate enlargement"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "endometriosis",
+  "name": "Endometriosis",
+  "specialties": [
+   "ginecologia"
+  ],
+  "summary": "Enfermedad crónica en la que un tejido similar al endometrio crece fuera del útero y provoca inflamación y dolor. Afecta aproximadamente a 1 de cada 10 mujeres en edad reproductiva y suele diagnosticarse con años de retraso.",
+  "symptoms": [
+   "Reglas muy dolorosas que limitan la vida diaria",
+   "Dolor pélvico crónico",
+   "Dolor durante o después de las relaciones sexuales",
+   "Dolor al orinar o defecar durante la regla",
+   "Dificultad para quedarse embarazada",
+   "Cansancio"
+  ],
+  "causes": [
+   "No se conoce del todo; intervienen factores hormonales, inmunitarios y genéticos"
+  ],
+  "riskFactors": [
+   "Antecedentes familiares",
+   "Ciclos menstruales cortos o reglas abundantes"
+  ],
+  "diagnosis": "Historia clínica, exploración, ecografía transvaginal o resonancia; la laparoscopia confirma el diagnóstico en algunos casos.",
+  "treatments": [
+   "Analgésicos antiinflamatorios",
+   "Tratamientos hormonales",
+   "Cirugía en casos seleccionados",
+   "Abordaje de la fertilidad cuando se desea embarazo",
+   "Fisioterapia de suelo pélvico y manejo del dolor"
+  ],
+  "prevention": [
+   "No se conoce prevención; el diagnóstico precoz mejora la calidad de vida"
+  ],
+  "whenToSeek": "Consulta si el dolor menstrual te obliga a faltar a clase o al trabajo o no mejora con analgésicos habituales.",
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "endometriosis"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "sop",
+  "name": "Síndrome de ovario poliquístico (SOP)",
+  "specialties": [
+   "ginecologia",
+   "endocrinologia"
+  ],
+  "summary": "Trastorno hormonal frecuente que puede causar reglas irregulares, exceso de andrógenos (vello, acné) y ovarios con muchos folículos. Se asocia a resistencia a la insulina.",
+  "symptoms": [
+   "Reglas irregulares o ausentes",
+   "Exceso de vello en cara o cuerpo",
+   "Acné",
+   "Caída del cabello con patrón masculino",
+   "Dificultad para quedarse embarazada",
+   "Aumento de peso"
+  ],
+  "causes": [
+   "Combinación de factores genéticos, hormonales y resistencia a la insulina"
+  ],
+  "riskFactors": [
+   "Antecedentes familiares",
+   "Obesidad (empeora los síntomas)"
+  ],
+  "diagnosis": "Se usan los criterios de Rotterdam: dos de tres entre ciclos irregulares, signos o análisis de exceso de andrógenos y ovarios poliquísticos en ecografía, tras descartar otras causas.",
+  "treatments": [
+   "Hábitos saludables y control del peso",
+   "Anticonceptivos hormonales para regular ciclos y síntomas",
+   "Metformina en algunos casos",
+   "Tratamientos específicos de fertilidad"
+  ],
+  "prevention": [
+   "Actividad física y alimentación saludable reducen las complicaciones metabólicas"
+  ],
+  "complications": [
+   "Diabetes tipo 2",
+   "Alteraciones del colesterol",
+   "Apnea del sueño",
+   "Hiperplasia endometrial si no hay reglas durante mucho tiempo"
+  ],
+  "whenToSeek": "Consulta si tus reglas son muy irregulares, tienes más vello o acné del habitual o te cuesta quedarte embarazada.",
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "síndrome de ovario poliquístico"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "menopausia",
+  "name": "Síntomas de la menopausia",
+  "aka": [
+   "climaterio",
+   "perimenopausia"
+  ],
+  "specialties": [
+   "ginecologia",
+   "endocrinologia"
+  ],
+  "summary": "La menopausia es el fin natural de la menstruación, diagnosticado tras 12 meses sin regla (habitualmente entre los 45 y 55 años). Los años previos (perimenopausia) pueden traer síntomas que tienen tratamiento.",
+  "symptoms": [
+   "Sofocos y sudores nocturnos",
+   "Alteraciones del sueño",
+   "Cambios de ánimo",
+   "Sequedad vaginal y molestias en las relaciones",
+   "Reglas irregulares en la perimenopausia",
+   "Dificultad de concentración"
+  ],
+  "causes": [
+   "Disminución natural de la función ovárica",
+   "Cirugía o tratamientos oncológicos (menopausia inducida)"
+  ],
+  "riskFactors": [
+   "Tabaco (adelanta la menopausia)"
+  ],
+  "diagnosis": "Clínico por edad y síntomas; los análisis hormonales solo se necesitan en casos concretos (por ejemplo, antes de los 45 años).",
+  "treatments": [
+   "Cambios de hábitos",
+   "Terapia hormonal de la menopausia en mujeres adecuadas tras valorar beneficios y riesgos",
+   "Tratamientos no hormonales para los sofocos",
+   "Hidratantes o estrógenos vaginales para la sequedad"
+  ],
+  "prevention": [
+   "Ejercicio, calcio y vitamina D para proteger los huesos",
+   "No fumar"
+  ],
+  "complications": [
+   "Osteoporosis",
+   "Aumento del riesgo cardiovascular"
+  ],
+  "whenToSeek": "Consulta si los síntomas afectan a tu calidad de vida. Consulta siempre ante cualquier sangrado vaginal después de la menopausia.",
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "nice",
+    "query": "menopause"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "menopausia"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "preeclampsia",
+  "name": "Preeclampsia",
+  "specialties": [
+   "ginecologia",
+   "salud-cardiovascular"
+  ],
+  "summary": "Complicación del embarazo, normalmente a partir de la semana 20, con tensión arterial alta y signos de afectación de órganos (como proteínas en la orina). Puede ser grave para la madre y el bebé, por eso los controles prenatales miden la tensión.",
+  "symptoms": [
+   "Tensión arterial alta",
+   "Dolor de cabeza intenso que no cede",
+   "Visión borrosa o destellos",
+   "Dolor en la parte alta del abdomen, bajo las costillas",
+   "Hinchazón súbita de cara y manos",
+   "Náuseas o vómitos en la segunda mitad del embarazo"
+  ],
+  "causes": [
+   "Alteración en el desarrollo de la placenta"
+  ],
+  "riskFactors": [
+   "Primer embarazo",
+   "Preeclampsia previa",
+   "Hipertensión, diabetes o enfermedad renal previas",
+   "Embarazo múltiple",
+   "Edad mayor de 40",
+   "Obesidad"
+  ],
+  "diagnosis": "Tensión arterial y análisis de orina y sangre en los controles del embarazo.",
+  "treatments": [
+   "Vigilancia estrecha de madre y bebé",
+   "Medicamentos para la tensión compatibles con el embarazo",
+   "Sulfato de magnesio en casos graves para prevenir convulsiones",
+   "El parto es el tratamiento definitivo; su momento lo decide el equipo obstétrico"
+  ],
+  "prevention": [
+   "Asistir a todos los controles prenatales",
+   "En embarazadas de alto riesgo, el equipo médico puede indicar aspirina en dosis bajas"
+  ],
+  "complications": [
+   "Eclampsia (convulsiones)",
+   "Síndrome HELLP",
+   "Restricción del crecimiento fetal",
+   "Desprendimiento de placenta"
+  ],
+  "whenToSeek": "Emergencia en el embarazo: dolor de cabeza intenso, alteraciones de la visión, dolor bajo las costillas, hinchazón súbita o convulsiones requieren atención inmediata.",
+  "sources": [
+   {
+    "sourceId": "oms"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "preeclampsia"
+   },
+   {
+    "sourceId": "nhs",
+    "query": "pre-eclampsia"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "bronquiolitis",
+  "name": "Bronquiolitis",
+  "specialties": [
+   "pediatria",
+   "neumologia"
+  ],
+  "summary": "Infección vírica de las vías respiratorias pequeñas, típica de bebés menores de 2 años, sobre todo en invierno. El virus respiratorio sincitial (VRS) es la causa más común. La mayoría se recupera en casa.",
+  "symptoms": [
+   "Mocos y tos que empeoran en 2-3 días",
+   "Respiración rápida",
+   "Pitidos",
+   "Dificultad para comer",
+   "Fiebre baja"
+  ],
+  "causes": [
+   "Virus respiratorio sincitial (VRS) y otros virus"
+  ],
+  "riskFactors": [
+   "Edad menor de 3 meses",
+   "Prematuridad",
+   "Cardiopatías o enfermedades pulmonares",
+   "Exposición al humo del tabaco"
+  ],
+  "diagnosis": "Clínico; se valoran la respiración, la saturación de oxígeno y la hidratación.",
+  "treatments": [
+   "Lavados nasales y aspiración suave de mocos",
+   "Tomas pequeñas y frecuentes",
+   "Ingreso para oxígeno o hidratación en casos moderados-graves",
+   "Los antibióticos y broncodilatadores no se recomiendan de rutina"
+  ],
+  "prevention": [
+   "Lavado de manos",
+   "Evitar el humo del tabaco",
+   "Anticuerpos monoclonales contra el VRS o vacuna materna, según el calendario de cada país"
+  ],
+  "whenToSeek": "Urgencias si el bebé respira muy rápido, se le hunden las costillas o el cuello al respirar, hace pausas respiratorias, tiene color azulado, come menos de la mitad o moja muchos menos pañales.",
+  "sources": [
+   {
+    "sourceId": "healthychildren"
+   },
+   {
+    "sourceId": "nice",
+    "query": "bronchiolitis"
+   },
+   {
+    "sourceId": "medlineplus",
+    "query": "bronquiolitis"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "gastroenteritis",
+  "name": "Gastroenteritis aguda",
+  "aka": [
+   "gripe estomacal",
+   "diarrea aguda"
+  ],
+  "specialties": [
+   "gastroenterologia",
+   "infectologia",
+   "pediatria"
+  ],
+  "summary": "Infección del estómago y el intestino que causa diarrea y vómitos. Suele durar pocos días. El principal riesgo es la deshidratación, sobre todo en bebés y personas mayores.",
+  "symptoms": [
+   "Diarrea",
+   "Vómitos",
+   "Náuseas",
+   "Dolor abdominal tipo retortijón",
+   "Fiebre baja"
+  ],
+  "causes": [
+   "Virus (norovirus, rotavirus)",
+   "Bacterias (Salmonella, Campylobacter…)",
+   "Parásitos"
+  ],
+  "riskFactors": [
+   "Alimentos o agua contaminados",
+   "Contacto con personas enfermas",
+   "Guarderías y residencias"
+  ],
+  "diagnosis": "Clínico. Análisis de heces solo en casos seleccionados (sangre en heces, viajes, duración prolongada, inmunosupresión).",
+  "treatments": [
+   "Soluciones de rehidratación oral en tomas pequeñas y frecuentes",
+   "Seguir comiendo con normalidad en cuanto se tolere",
+   "Antibióticos solo en casos concretos"
+  ],
+  "prevention": [
+   "Lavado de manos",
+   "Higiene de alimentos",
+   "Vacuna contra el rotavirus en bebés"
+  ],
+  "whenToSeek": "Urgencias ante signos de deshidratación (boca seca, poca orina, somnolencia), sangre en las heces, vómitos que impiden beber, dolor intenso o fiebre alta. En bebés menores de 6 meses, consulta pronto.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "gastroenteritis"
+   },
+   {
+    "sourceId": "oms"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "conjuntivitis",
+  "name": "Conjuntivitis",
+  "aka": [
+   "ojo rojo"
+  ],
+  "specialties": [
+   "oftalmologia",
+   "infectologia"
+  ],
+  "summary": "Inflamación de la membrana que recubre el ojo. Puede ser vírica (la más común), bacteriana o alérgica.",
+  "symptoms": [
+   "Ojo rojo",
+   "Lagrimeo o secreción",
+   "Sensación de arenilla",
+   "Párpados pegados al despertar (bacteriana)",
+   "Picor intenso (alérgica)"
+  ],
+  "causes": [
+   "Virus",
+   "Bacterias",
+   "Alergias",
+   "Irritantes"
+  ],
+  "riskFactors": [
+   "Contacto con personas afectadas",
+   "Lentes de contacto",
+   "Alergias"
+  ],
+  "diagnosis": "Exploración del ojo.",
+  "treatments": [
+   "Lavados con suero fisiológico y compresas",
+   "Antibiótico tópico en la bacteriana si está indicado",
+   "Antihistamínicos tópicos en la alérgica",
+   "Retirar las lentillas hasta la curación"
+  ],
+  "prevention": [
+   "Lavado de manos",
+   "No compartir toallas",
+   "Higiene de las lentillas"
+  ],
+  "whenToSeek": "Consulta urgente si hay dolor ocular intenso, disminución de la visión, mucha sensibilidad a la luz, o si usas lentillas y tienes el ojo rojo y doloroso.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "conjuntivitis"
+   },
+   {
+    "sourceId": "nhs",
+    "query": "conjunctivitis"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "cefalea-tensional",
+  "name": "Cefalea tensional",
+  "aka": [
+   "dolor de cabeza por tensión"
+  ],
+  "specialties": [
+   "neurologia"
+  ],
+  "summary": "El tipo de dolor de cabeza más frecuente. Se siente como una presión o banda alrededor de la cabeza, de intensidad leve a moderada, y no suele empeorar con la actividad física.",
+  "symptoms": [
+   "Dolor opresivo en ambos lados de la cabeza",
+   "Sensación de banda apretada",
+   "Tensión en cuello y hombros",
+   "Sin náuseas intensas ni vómitos"
+  ],
+  "causes": [
+   "Estrés, falta de sueño, mala postura, saltarse comidas"
+  ],
+  "riskFactors": [
+   "Estrés",
+   "Ansiedad",
+   "Trabajo prolongado frente a pantallas"
+  ],
+  "diagnosis": "Clínico; las pruebas solo se necesitan si hay señales de alarma.",
+  "treatments": [
+   "Analgésicos de venta libre de forma ocasional",
+   "Descanso, hidratación y técnicas de relajación",
+   "Fisioterapia o ejercicio",
+   "Tratamiento preventivo si es frecuente"
+  ],
+  "prevention": [
+   "Horarios regulares de sueño y comidas",
+   "Pausas en el trabajo con pantallas",
+   "Ejercicio",
+   "Evitar el abuso de analgésicos (puede causar cefalea por uso excesivo de medicación)"
+  ],
+  "whenToSeek": "Urgencias ante un dolor de cabeza súbito y muy intenso, con fiebre y rigidez de cuello, tras un golpe, o con debilidad, confusión o alteraciones del habla o la visión. Consulta si cambia el patrón habitual o aparece por primera vez después de los 50 años.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "dolor de cabeza tensional"
+   },
+   {
+    "sourceId": "nhs",
+    "query": "tension headaches"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ },
+ {
+  "id": "disfuncion-erectil",
+  "name": "Disfunción eréctil",
+  "specialties": [
+   "urologia",
+   "salud-sexual",
+   "salud-cardiovascular"
+  ],
+  "summary": "Dificultad persistente para conseguir o mantener una erección suficiente para la relación sexual. Es frecuente, tiene tratamiento y puede ser una señal temprana de enfermedad cardiovascular.",
+  "symptoms": [
+   "Dificultad para conseguir una erección",
+   "Dificultad para mantenerla",
+   "Menor deseo sexual en algunos casos"
+  ],
+  "causes": [
+   "Problemas vasculares (aterosclerosis)",
+   "Diabetes",
+   "Factores psicológicos (ansiedad, depresión, estrés)",
+   "Medicamentos",
+   "Alteraciones hormonales",
+   "Tabaco y alcohol"
+  ],
+  "riskFactors": [
+   "Edad",
+   "Diabetes",
+   "Hipertensión",
+   "Colesterol alto",
+   "Tabaco",
+   "Obesidad"
+  ],
+  "diagnosis": "Historia clínica, exploración y análisis (glucosa, lípidos y, según el caso, testosterona).",
+  "treatments": [
+   "Abordar los factores de riesgo cardiovascular",
+   "Inhibidores de la PDE5 bajo prescripción",
+   "Terapia sexual o psicológica",
+   "Otros tratamientos especializados"
+  ],
+  "prevention": [
+   "Ejercicio",
+   "No fumar",
+   "Moderar el alcohol",
+   "Controlar tensión, azúcar y colesterol"
+  ],
+  "whenToSeek": "Consulta si es persistente. Urgencias si una erección dolorosa dura más de 4 horas.",
+  "sources": [
+   {
+    "sourceId": "medlineplus",
+    "query": "disfunción eréctil"
+   },
+   {
+    "sourceId": "nhs",
+    "query": "erectile dysfunction"
+   }
+  ],
+  "meta": {
+   "version": 1,
+   "status": "published",
+   "reviewedAt": "2026-10-02",
+   "reviewer": "equipo-editorial"
+  }
+ }
+]

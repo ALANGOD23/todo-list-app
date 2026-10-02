@@ -1,0 +1,261 @@
+[
+  {
+    "id": "hemoglobina", "name": "Hemoglobina", "aka": ["Hb", "hemograma"], "panel": "Hemograma",
+    "measures": "La proteína de los glóbulos rojos que transporta el oxígeno. Sirve para detectar anemia (baja) o exceso de glóbulos rojos (alta).",
+    "ranges": [
+      { "label": "Mujeres adultas", "low": 12.0, "high": 15.5, "unit": "g/dL" },
+      { "label": "Hombres adultos", "low": 13.5, "high": 17.5, "unit": "g/dL" }
+    ],
+    "highMeaning": ["Deshidratación", "Tabaquismo", "Vivir en altitud", "Enfermedades pulmonares o cardíacas crónicas", "Policitemia (rara)"],
+    "lowMeaning": ["Anemia por falta de hierro (la más común)", "Pérdidas de sangre (reglas abundantes, sangrado digestivo)", "Déficit de vitamina B12 o ácido fólico", "Enfermedad renal crónica", "Embarazo (descenso fisiológico leve)"],
+    "questions": ["¿Mi valor indica anemia y de qué tipo?", "¿Necesito estudiar el hierro, la B12 o el ácido fólico?", "¿Debo buscar alguna causa de sangrado?"],
+    "caveats": "En niños y embarazadas los rangos son distintos.",
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "prueba de hemoglobina" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "glucosa", "name": "Glucosa en ayunas", "aka": ["glucemia", "azúcar en sangre"], "panel": "Bioquímica",
+    "measures": "El azúcar en la sangre tras al menos 8 horas sin comer. Ayuda a detectar prediabetes y diabetes.",
+    "ranges": [
+      { "label": "Normal (ayunas)", "low": 70, "high": 99, "unit": "mg/dL" },
+      { "label": "Prediabetes (ayunas)", "low": 100, "high": 125, "unit": "mg/dL", "note": "Rango de glucosa alterada en ayunas" },
+      { "label": "Compatible con diabetes", "low": 126, "unit": "mg/dL", "note": "Requiere confirmación con una segunda prueba" }
+    ],
+    "highMeaning": ["Prediabetes o diabetes", "No haber estado realmente en ayunas", "Estrés agudo o enfermedad", "Corticoides y otros medicamentos"],
+    "lowMeaning": ["Ayuno prolongado", "Medicamentos para la diabetes (insulina, sulfonilureas)", "Alcohol", "Causas hormonales poco frecuentes"],
+    "questions": ["¿Debo repetir la prueba o hacerme una hemoglobina glicosilada?", "¿Qué cambios de hábitos me recomienda?", "¿Cada cuánto debería controlarlo?"],
+    "caveats": "Un único valor alto no basta para diagnosticar diabetes: se confirma con otra prueba.",
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "prueba de glucosa en la sangre" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "hba1c", "name": "Hemoglobina glicosilada (HbA1c)", "aka": ["A1c", "glicada"], "panel": "Bioquímica",
+    "measures": "El promedio de azúcar en sangre de los últimos 2-3 meses. Se usa para diagnosticar y controlar la diabetes.",
+    "ranges": [
+      { "label": "Normal", "high": 5.6, "unit": "%" },
+      { "label": "Prediabetes", "low": 5.7, "high": 6.4, "unit": "%" },
+      { "label": "Compatible con diabetes", "low": 6.5, "unit": "%", "note": "Requiere confirmación" }
+    ],
+    "highMeaning": ["Prediabetes o diabetes", "Diabetes con control insuficiente", "Anemia ferropénica (puede elevarla falsamente)"],
+    "lowMeaning": ["Situaciones que acortan la vida de los glóbulos rojos (hemólisis, sangrado reciente, embarazo)"],
+    "questions": ["¿Cuál es mi objetivo personal de HbA1c?", "¿Hay algo en mi análisis que pueda alterar este resultado?"],
+    "caveats": "El objetivo en personas con diabetes es individual: no es el mismo para todos.",
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "prueba de hemoglobina A1C" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "colesterol-total", "name": "Colesterol total", "panel": "Perfil lipídico",
+    "measures": "La cantidad total de colesterol en sangre. Se interpreta junto con LDL, HDL y triglicéridos y con tu riesgo cardiovascular global.",
+    "ranges": [{ "label": "Deseable (adultos)", "high": 199, "unit": "mg/dL" }],
+    "highMeaning": ["Alimentación rica en grasas saturadas", "Genética (hipercolesterolemia familiar)", "Hipotiroidismo", "Diabetes", "Algunos medicamentos"],
+    "lowMeaning": ["Desnutrición", "Hipertiroidismo", "Enfermedad hepática", "Tratamiento con estatinas"],
+    "questions": ["¿Cuál es mi riesgo cardiovascular global?", "¿Cuál debería ser mi objetivo de LDL?"],
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "niveles de colesterol" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "ldl", "name": "Colesterol LDL", "aka": ["colesterol malo"], "panel": "Perfil lipídico",
+    "measures": "El colesterol que se deposita en las arterias. Es el principal objetivo del tratamiento para prevenir infartos e ictus.",
+    "ranges": [{ "label": "Óptimo en población general", "high": 99, "unit": "mg/dL", "note": "En personas de riesgo alto o muy alto, los objetivos son más bajos" }],
+    "highMeaning": ["Hábitos de vida", "Hipercolesterolemia familiar (sospecharla con LDL muy alto o casos familiares precoces)", "Hipotiroidismo", "Síndrome nefrótico"],
+    "lowMeaning": ["Tratamiento hipolipemiante", "Hipertiroidismo", "Desnutrición"],
+    "questions": ["¿Qué objetivo de LDL me corresponde según mi riesgo?", "¿Necesito tratamiento además de los cambios de hábitos?"],
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "prueba de colesterol LDL" }, { "sourceId": "aha" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "hdl", "name": "Colesterol HDL", "aka": ["colesterol bueno"], "panel": "Perfil lipídico",
+    "measures": "El colesterol que ayuda a retirar el exceso de las arterias. Valores bajos se asocian a mayor riesgo cardiovascular.",
+    "ranges": [
+      { "label": "Hombres (recomendado)", "low": 40, "unit": "mg/dL" },
+      { "label": "Mujeres (recomendado)", "low": 50, "unit": "mg/dL" }
+    ],
+    "highMeaning": ["Generalmente favorable"],
+    "lowMeaning": ["Sedentarismo", "Tabaco", "Obesidad", "Triglicéridos altos", "Diabetes"],
+    "questions": ["¿Qué hábitos pueden mejorar mi HDL?"],
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "prueba de colesterol HDL" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "trigliceridos", "name": "Triglicéridos", "panel": "Perfil lipídico",
+    "measures": "Un tipo de grasa en la sangre. Sube con el exceso de azúcares, alcohol y calorías.",
+    "ranges": [{ "label": "Normal (ayunas)", "high": 149, "unit": "mg/dL" }],
+    "highMeaning": ["Exceso de azúcares, harinas refinadas o alcohol", "Obesidad y diabetes mal controlada", "Hipotiroidismo", "Algunos medicamentos", "Causas genéticas"],
+    "lowMeaning": ["Generalmente sin importancia clínica"],
+    "questions": ["¿Con estos valores hay riesgo de pancreatitis?", "¿Qué cambios en la dieta me ayudarían más?"],
+    "caveats": "Valores muy altos (por encima de unos 500 mg/dL) aumentan el riesgo de pancreatitis y requieren valoración médica.",
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "prueba de triglicéridos" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "tsh", "name": "TSH (hormona estimulante de la tiroides)", "aka": ["tirotropina"], "panel": "Tiroides",
+    "measures": "La hormona con la que la hipófisis regula la tiroides. Es la prueba inicial para valorar cómo funciona la tiroides.",
+    "ranges": [{ "label": "Adultos", "low": 0.4, "high": 4.0, "unit": "mUI/L", "note": "Muchos laboratorios usan límites algo distintos" }],
+    "highMeaning": ["Hipotiroidismo (la tiroides funciona poco)", "Hipotiroidismo subclínico", "Recuperación de una enfermedad aguda", "Dosis insuficiente de levotiroxina"],
+    "lowMeaning": ["Hipertiroidismo (la tiroides funciona demasiado)", "Exceso de dosis de levotiroxina", "Primer trimestre del embarazo", "Problemas de la hipófisis (raros)"],
+    "questions": ["¿Necesito una T4 libre o anticuerpos antitiroideos?", "¿Debo repetirlo antes de tomar decisiones?"],
+    "caveats": "En el embarazo y en personas mayores los rangos de referencia son diferentes.",
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "prueba de TSH" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "t4-libre", "name": "T4 libre", "aka": ["tiroxina libre"], "panel": "Tiroides",
+    "measures": "La hormona tiroidea activa disponible en la sangre. Se interpreta junto con la TSH.",
+    "ranges": [{ "label": "Adultos", "low": 0.8, "high": 1.8, "unit": "ng/dL" }],
+    "highMeaning": ["Hipertiroidismo", "Exceso de levotiroxina"],
+    "lowMeaning": ["Hipotiroidismo", "Problemas de la hipófisis (raros)"],
+    "questions": ["¿Cómo se relaciona con mi TSH?"],
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "prueba de tiroxina T4" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "creatinina", "name": "Creatinina", "panel": "Función renal",
+    "measures": "Un desecho del músculo que eliminan los riñones. Sirve para estimar cómo filtran los riñones (filtrado glomerular).",
+    "ranges": [
+      { "label": "Mujeres adultas", "low": 0.6, "high": 1.1, "unit": "mg/dL" },
+      { "label": "Hombres adultos", "low": 0.7, "high": 1.3, "unit": "mg/dL" }
+    ],
+    "highMeaning": ["Disminución de la función renal (aguda o crónica)", "Deshidratación", "Mucha masa muscular o consumo elevado de carne o suplementos de creatina", "Algunos medicamentos"],
+    "lowMeaning": ["Poca masa muscular", "Embarazo"],
+    "questions": ["¿Cuál es mi filtrado glomerular estimado?", "¿Debo revisar algún medicamento por mi función renal?", "¿Necesito una prueba de albúmina en orina?"],
+    "caveats": "Depende de la masa muscular, la edad y el sexo; por eso se usa el filtrado glomerular estimado.",
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "prueba de creatinina" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "fge", "name": "Filtrado glomerular estimado (FGe)", "aka": ["eGFR", "filtrado"], "panel": "Función renal",
+    "measures": "Una estimación de cuánta sangre filtran los riñones por minuto, calculada a partir de la creatinina, la edad y el sexo.",
+    "ranges": [
+      { "label": "Normal", "low": 90, "unit": "mL/min/1,73 m²" },
+      { "label": "Ligeramente disminuido", "low": 60, "high": 89, "unit": "mL/min/1,73 m²", "note": "Solo indica enfermedad renal si hay otros signos de daño renal" },
+      { "label": "Disminuido", "high": 59, "unit": "mL/min/1,73 m²", "note": "Si se mantiene más de 3 meses, define enfermedad renal crónica" }
+    ],
+    "highMeaning": ["Generalmente normal"],
+    "lowMeaning": ["Enfermedad renal crónica o lesión renal aguda", "Deshidratación", "Disminución esperable con la edad"],
+    "questions": ["¿Es un valor puntual o se mantiene en el tiempo?", "¿Necesito ajustar algún medicamento?"],
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "tasa de filtración glomerular" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "alt", "name": "ALT (GPT)", "aka": ["alanina aminotransferasa", "transaminasas"], "panel": "Función hepática",
+    "measures": "Una enzima del hígado. Sube cuando las células hepáticas se dañan o inflaman.",
+    "ranges": [{ "label": "Adultos (orientativo)", "low": 7, "high": 55, "unit": "U/L", "note": "El límite superior varía mucho entre laboratorios" }],
+    "highMeaning": ["Hígado graso", "Alcohol", "Hepatitis víricas", "Medicamentos o suplementos", "Ejercicio intenso reciente (leve)"],
+    "lowMeaning": ["Sin importancia clínica habitual"],
+    "questions": ["¿Necesito una ecografía o pruebas de hepatitis?", "¿Algún medicamento o suplemento puede explicarlo?"],
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "prueba de ALT" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "ferritina", "name": "Ferritina", "panel": "Metabolismo del hierro",
+    "measures": "Refleja las reservas de hierro del cuerpo. Es la mejor prueba inicial para detectar falta de hierro.",
+    "ranges": [
+      { "label": "Mujeres adultas", "low": 11, "high": 307, "unit": "ng/mL" },
+      { "label": "Hombres adultos", "low": 24, "high": 336, "unit": "ng/mL" }
+    ],
+    "highMeaning": ["Inflamación o infección (la ferritina sube como respuesta inflamatoria)", "Enfermedad hepática", "Alcohol", "Sobrecarga de hierro (hemocromatosis)"],
+    "lowMeaning": ["Falta de hierro, incluso antes de que aparezca anemia"],
+    "questions": ["¿Necesito suplementos de hierro y durante cuánto tiempo?", "¿Debemos buscar la causa de la pérdida de hierro?"],
+    "caveats": "Con inflamación, una ferritina normal puede ocultar una falta de hierro.",
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "análisis de ferritina" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "vitamina-d", "name": "Vitamina D (25-OH)", "panel": "Vitaminas",
+    "measures": "La forma de vitamina D que refleja las reservas del cuerpo, importante para los huesos.",
+    "ranges": [{ "label": "Suficiencia (orientativo)", "low": 20, "unit": "ng/mL", "note": "Algunas sociedades usan 30 ng/mL como umbral; no hay consenso universal" }],
+    "highMeaning": ["Exceso de suplementos (la toxicidad es rara pero posible)"],
+    "lowMeaning": ["Poca exposición solar", "Piel oscura", "Obesidad", "Malabsorción", "Enfermedad renal o hepática"],
+    "questions": ["¿Necesito suplementos con este valor?", "¿Cuándo debería repetirlo?"],
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "prueba de vitamina D" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "pcr", "name": "Proteína C reactiva (PCR)", "aka": ["PCR", "CRP"], "panel": "Inflamación",
+    "measures": "Un marcador general de inflamación. No indica dónde está ni cuál es su causa.",
+    "ranges": [{ "label": "Habitual", "high": 10, "unit": "mg/L", "note": "Algunos laboratorios la expresan en mg/dL (equivale a 1 mg/dL)" }],
+    "highMeaning": ["Infecciones (especialmente bacterianas)", "Enfermedades inflamatorias o autoinmunes", "Traumatismos o cirugías recientes", "Obesidad (elevaciones leves)"],
+    "lowMeaning": ["Normal"],
+    "questions": ["¿Qué causa podría explicar la inflamación?", "¿Hace falta repetirla para ver su evolución?"],
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "proteína C reactiva" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "leucocitos", "name": "Leucocitos (glóbulos blancos)", "aka": ["leucocitos", "glóbulos blancos"], "panel": "Hemograma",
+    "measures": "Las células de defensa frente a infecciones.",
+    "ranges": [{ "label": "Adultos", "low": 4.0, "high": 11.0, "unit": "×10³/µL" }],
+    "highMeaning": ["Infecciones", "Inflamación", "Estrés físico, corticoides, tabaco", "Enfermedades de la sangre (menos frecuentes)"],
+    "lowMeaning": ["Infecciones víricas", "Medicamentos (quimioterapia, algunos antitiroideos, metamizol)", "Enfermedades autoinmunes", "Problemas de la médula ósea"],
+    "questions": ["¿Qué tipo de glóbulo blanco está alterado (fórmula leucocitaria)?", "¿Hace falta repetirlo?"],
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "conteo de glóbulos blancos" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "plaquetas", "name": "Plaquetas", "panel": "Hemograma",
+    "measures": "Las células que ayudan a coagular la sangre.",
+    "ranges": [{ "label": "Adultos", "low": 150, "high": 450, "unit": "×10³/µL" }],
+    "highMeaning": ["Inflamación o infección", "Falta de hierro", "Después de una cirugía o sangrado", "Enfermedades de la médula ósea (menos frecuentes)"],
+    "lowMeaning": ["Infecciones víricas (como el dengue)", "Medicamentos", "Enfermedad hepática", "Causas inmunitarias", "Embarazo (descenso leve)"],
+    "questions": ["¿Tengo riesgo de sangrado con este valor?", "¿Necesito más pruebas?"],
+    "caveats": "Las plaquetas muy bajas con sangrados requieren atención urgente.",
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "recuento de plaquetas" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "acido-urico", "name": "Ácido úrico", "panel": "Bioquímica",
+    "measures": "Un producto de desecho que, en exceso, puede formar cristales y causar gota o cálculos renales.",
+    "ranges": [
+      { "label": "Mujeres", "low": 2.4, "high": 6.0, "unit": "mg/dL" },
+      { "label": "Hombres", "low": 3.4, "high": 7.0, "unit": "mg/dL" }
+    ],
+    "highMeaning": ["Dieta rica en carnes, mariscos y bebidas azucaradas", "Alcohol (especialmente cerveza)", "Obesidad", "Diuréticos", "Enfermedad renal"],
+    "lowMeaning": ["Generalmente sin importancia clínica"],
+    "questions": ["¿Tengo riesgo de gota o cálculos renales?", "¿Necesito tratamiento si no tengo síntomas?"],
+    "caveats": "Un ácido úrico alto sin síntomas no siempre necesita medicación.",
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "ácido úrico en sangre" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "potasio", "name": "Potasio", "aka": ["K"], "panel": "Electrolitos",
+    "measures": "Un mineral esencial para el funcionamiento de nervios, músculos y corazón.",
+    "ranges": [{ "label": "Adultos", "low": 3.5, "high": 5.0, "unit": "mmol/L" }],
+    "highMeaning": ["Enfermedad renal", "Medicamentos (IECA, ARA-II, espironolactona, suplementos)", "Muestra hemolizada (falso aumento)"],
+    "lowMeaning": ["Diuréticos", "Vómitos o diarrea", "Algunos problemas hormonales"],
+    "questions": ["¿Puede deberse a algún medicamento que tomo?", "¿Es necesario repetirlo pronto?"],
+    "caveats": "Valores muy altos o muy bajos pueden causar arritmias y requieren valoración médica rápida.",
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "análisis de potasio en sangre" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "sodio", "name": "Sodio", "aka": ["Na"], "panel": "Electrolitos",
+    "measures": "El mineral principal que regula el equilibrio de agua del cuerpo.",
+    "ranges": [{ "label": "Adultos", "low": 135, "high": 145, "unit": "mmol/L" }],
+    "highMeaning": ["Deshidratación", "Poca ingesta de agua", "Algunas alteraciones hormonales"],
+    "lowMeaning": ["Diuréticos", "Algunos antidepresivos", "Beber agua en exceso", "Insuficiencia cardíaca, hepática o renal", "Alteraciones hormonales"],
+    "questions": ["¿Algún medicamento puede explicarlo?", "¿Debo cambiar cuánta agua bebo?"],
+    "caveats": "Un sodio bajo con confusión, somnolencia o convulsiones es una urgencia.",
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "análisis de sodio en sangre" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "psa", "name": "PSA (antígeno prostático específico)", "panel": "Marcadores",
+    "measures": "Una proteína producida por la próstata. Puede elevarse por cáncer, pero también por crecimiento benigno, inflamación o infección.",
+    "ranges": [{ "label": "Referencia clásica", "high": 4.0, "unit": "ng/mL", "note": "No existe un valor 'normal' único; se interpreta según la edad, el volumen prostático y la evolución" }],
+    "highMeaning": ["Hiperplasia benigna de próstata", "Prostatitis o infección urinaria", "Cáncer de próstata", "Eyaculación, ciclismo o manipulación reciente de la próstata"],
+    "lowMeaning": ["Algunos fármacos para la próstata (finasterida, dutasterida) lo reducen aproximadamente a la mitad"],
+    "questions": ["¿Debo repetir el PSA?", "¿Necesito una resonancia o valoración por urología?", "¿Qué ventajas y desventajas tiene seguir estudiándolo en mi caso?"],
+    "caveats": "Un PSA alto no significa cáncer, y uno normal no lo descarta del todo.",
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "prueba de PSA" }, { "sourceId": "cancer-gov" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "vitamina-b12", "name": "Vitamina B12", "aka": ["cobalamina"], "panel": "Vitaminas",
+    "measures": "Una vitamina necesaria para formar glóbulos rojos y para el sistema nervioso.",
+    "ranges": [{ "label": "Adultos (orientativo)", "low": 200, "high": 900, "unit": "pg/mL" }],
+    "highMeaning": ["Suplementos", "Enfermedad hepática", "Algunas enfermedades de la sangre (poco frecuente)"],
+    "lowMeaning": ["Dieta vegana sin suplementos", "Anemia perniciosa", "Metformina o IBP de uso prolongado", "Cirugía de estómago o intestino", "Edad avanzada"],
+    "questions": ["¿Necesito suplementos orales o inyectados?", "¿Debemos buscar la causa?"],
+    "sources": [{ "sourceId": "medlineplus-labs", "query": "prueba de vitamina B12" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  }
+]

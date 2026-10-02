@@ -1,0 +1,65 @@
+[
+  {
+    "id": "actividad-fisica", "title": "Movimiento",
+    "summary": "La actividad física regular reduce el riesgo de enfermedad cardiovascular, diabetes tipo 2, varios cánceres, depresión y deterioro cognitivo.",
+    "actions": ["Adultos: al menos 150-300 minutos semanales de actividad moderada (o 75-150 de intensa)", "Ejercicios de fuerza 2 o más días por semana", "Reducir el tiempo sentado; cualquier movimiento suma", "Mayores: añadir ejercicios de equilibrio para prevenir caídas"],
+    "personalizeWith": ["age", "conditions"],
+    "sources": [{ "sourceId": "oms" }, { "sourceId": "cdc" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "sueno", "title": "Sueño",
+    "summary": "Dormir bien es tan importante como comer bien. La falta crónica de sueño se asocia a hipertensión, obesidad, diabetes y problemas de ánimo.",
+    "actions": ["Adultos: 7-9 horas por noche", "Horarios regulares, también los fines de semana", "Evitar pantallas, cafeína y alcohol antes de dormir", "Consultar si roncas fuerte con pausas respiratorias o tienes mucho sueño de día"],
+    "personalizeWith": ["habits"],
+    "sources": [{ "sourceId": "cdc" }, { "sourceId": "medlineplus", "query": "trastornos del sueño" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "alimentacion", "title": "Alimentación",
+    "summary": "Un patrón de alimentación basado en alimentos poco procesados es una de las herramientas más potentes para la salud a largo plazo.",
+    "actions": ["Verduras, frutas, legumbres, cereales integrales y frutos secos a diario", "Menos de 5 g de sal al día", "Limitar azúcares añadidos y bebidas azucaradas", "Preferir aceite de oliva y pescado; limitar carnes procesadas", "Agua como bebida principal"],
+    "personalizeWith": ["conditions"],
+    "sources": [{ "sourceId": "oms" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "corazon", "title": "Corazón y circulación",
+    "summary": "La mayoría de los infartos e ictus se relacionan con factores modificables: tensión, colesterol, azúcar, tabaco, peso y actividad física.",
+    "actions": ["Medirse la tensión arterial al menos una vez al año", "Conocer tu colesterol y tu glucosa según la periodicidad que indique tu médico", "No fumar ni vapear", "Mantener un peso saludable", "Conocer los síntomas de infarto e ictus"],
+    "personalizeWith": ["age", "conditions", "habits"],
+    "sources": [{ "sourceId": "oms" }, { "sourceId": "aha" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "vacunas", "title": "Vacunas",
+    "summary": "Las vacunas protegen a lo largo de toda la vida, no solo en la infancia. El calendario exacto depende de tu país, edad y situación de salud.",
+    "actions": ["Revisar tu calendario vacunal con tu centro de salud", "Gripe anual en grupos de riesgo y mayores", "Tétanos y difteria: mantener la protección al día", "Neumococo, herpes zóster y VRS según edad y país", "VPH en adolescentes", "Vacunas de viaje cuando corresponda"],
+    "personalizeWith": ["age", "pregnant", "conditions"],
+    "sources": [{ "sourceId": "oms" }, { "sourceId": "cdc" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "cribados", "title": "Chequeos y cribados",
+    "summary": "Los cribados buscan enfermedades antes de que den síntomas. Las edades y la frecuencia varían según el país y tu riesgo personal.",
+    "actions": ["Cáncer de cuello uterino: test de VPH o citología según el programa de tu país", "Cáncer de mama: mamografía en las edades que marque tu programa", "Cáncer colorrectal: test de sangre oculta en heces o colonoscopia, habitualmente desde los 45-50 años", "Cáncer de pulmón: TAC de baja dosis en fumadores o exfumadores de alto riesgo, donde exista programa", "Tensión arterial, glucosa y colesterol de forma periódica"],
+    "personalizeWith": ["age", "sex", "habits"],
+    "sources": [{ "sourceId": "uspstf" }, { "sourceId": "cancer-gov" }, { "sourceId": "oms" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "tabaco-alcohol", "title": "Tabaco y alcohol",
+    "summary": "Dejar de fumar es la decisión con mayor impacto en la salud a cualquier edad. Con el alcohol, cuanto menos, mejor.",
+    "actions": ["Si fumas, pide ayuda: el apoyo profesional y algunos tratamientos multiplican las probabilidades de éxito", "Evitar el humo ajeno", "Reducir el alcohol; no existe un consumo totalmente libre de riesgo", "No conducir tras beber"],
+    "personalizeWith": ["habits"],
+    "sources": [{ "sourceId": "oms" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "salud-mental", "title": "Bienestar emocional",
+    "summary": "La salud mental forma parte de la salud. Cuidarla y pedir ayuda a tiempo es igual de importante que con cualquier otra enfermedad.",
+    "actions": ["Mantener vínculos sociales", "Actividad física y contacto con la naturaleza", "Limitar el consumo de noticias y redes si te generan malestar", "Hablar con un profesional si la tristeza o la ansiedad duran semanas"],
+    "sources": [{ "sourceId": "oms" }, { "sourceId": "nimh" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  }
+]

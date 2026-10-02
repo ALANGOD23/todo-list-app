@@ -1,18 +1,44 @@
 {
   "name": "doctor-ia",
-  "version": "1.0.0",
-  "description": "Doctor IA: asistente médico con Claude y enciclopedia de enfermedades",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js",
-    "dev": "node --watch server.js"
-  },
-  "license": "MIT",
-  "dependencies": {
-    "@anthropic-ai/sdk": "^0.128.0"
-  },
+  "version": "2.0.0",
+  "private": true,
+  "description": "Vibrant · Doctor IA — plataforma para entender y organizar tu información de salud con IA",
   "type": "module",
+  "license": "MIT",
   "engines": {
-    "node": ">=18"
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "concurrently -k -n api,web \"tsx watch server/index.ts\" \"vite\"",
+    "dev:web": "vite",
+    "dev:api": "tsx watch server/index.ts",
+    "build": "tsc --noEmit && vite build",
+    "build:preview": "vite build --mode preview",
+    "start": "NODE_ENV=production tsx server/index.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "knowledge:validate": "tsx server/knowledge/cli.ts validate",
+    "knowledge:pipeline": "tsx server/knowledge/cli.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.131.0",
+    "lucide-react": "^1.50.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "tsx": "^4.23.15",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^26.6.4",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.1",
+    "concurrently": "^10.0.5",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^5.9.3",
+    "vite": "^8.3.2",
+    "vite-plugin-singlefile": "^2.3.3",
+    "vitest": "^5.0.3"
   }
 }

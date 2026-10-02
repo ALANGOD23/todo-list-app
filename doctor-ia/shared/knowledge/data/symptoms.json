@@ -1,0 +1,257 @@
+[
+  {
+    "id": "dolor-cabeza", "name": "Dolor de cabeza",
+    "description": "Muy frecuente y, en la gran mayoría de los casos, benigno. Importa sobre todo cómo empezó, cómo es y qué lo acompaña.",
+    "commonCauses": [
+      { "name": "Cefalea tensional", "conditionId": "cefalea-tensional", "note": "Presión en banda, ambos lados" },
+      { "name": "Migraña", "conditionId": "migrana", "note": "Pulsátil, con náuseas o molestia con la luz" },
+      { "name": "Infecciones como gripe o sinusitis", "conditionId": "sinusitis" },
+      { "name": "Uso excesivo de analgésicos", "note": "Más de 10-15 días al mes" },
+      { "name": "Falta de sueño, deshidratación, ayuno" }
+    ],
+    "questions": ["¿Empezó de golpe o poco a poco?", "¿Es el peor dolor de cabeza de tu vida?", "¿Dónde se localiza y cómo es (presión, latido, punzada)?", "¿Hay fiebre, rigidez de cuello, vómitos o alteraciones de la visión?", "¿Has tenido un golpe en la cabeza?", "¿Cuántos días al mes lo tienes y qué tomas para aliviarlo?"],
+    "selfCare": ["Descansar en un lugar tranquilo y oscuro", "Hidratarse y no saltarse comidas", "Analgésico de venta libre de forma ocasional, según el prospecto"],
+    "whenToConsult": "Consulta si los dolores son frecuentes, cambian de patrón, te despiertan por la noche o aparecen por primera vez después de los 50 años.",
+    "redFlags": ["Dolor súbito y muy intenso ('en trueno')", "Fiebre con rigidez de cuello o manchas en la piel", "Debilidad, confusión, dificultad para hablar o pérdida de visión", "Tras un golpe en la cabeza", "En el embarazo o posparto con visión borrosa o hinchazón", "Con convulsiones"],
+    "sources": [{ "sourceId": "medlineplus", "query": "dolor de cabeza" }, { "sourceId": "nhs", "query": "headaches" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "fiebre", "name": "Fiebre",
+    "description": "Elevación de la temperatura corporal (habitualmente 38 °C o más), casi siempre como respuesta a una infección. La edad y el estado general importan más que la cifra.",
+    "commonCauses": [
+      { "name": "Infecciones víricas (resfriado, gripe, COVID-19)", "conditionId": "gripe" },
+      { "name": "Faringoamigdalitis", "conditionId": "faringoamigdalitis" },
+      { "name": "Infección urinaria", "conditionId": "itu" },
+      { "name": "Neumonía", "conditionId": "neumonia" },
+      { "name": "Gastroenteritis", "conditionId": "gastroenteritis" },
+      { "name": "Dengue o malaria tras viajar a zonas tropicales", "conditionId": "dengue" }
+    ],
+    "questions": ["¿Qué edad tiene la persona con fiebre?", "¿Cuánto mide y desde cuándo?", "¿Qué otros síntomas hay (tos, dolor al orinar, dolor de garganta, diarrea, erupción)?", "¿Has viajado recientemente?", "¿Tienes alguna enfermedad o tomas medicamentos que bajen las defensas?", "¿Bebe y orina con normalidad?"],
+    "selfCare": ["Beber abundantes líquidos", "Ropa ligera y descanso", "Antitérmico de venta libre si hay malestar, según el prospecto y la edad"],
+    "whenToConsult": "Consulta si la fiebre dura más de 3 días, si hay un foco claro (dolor al orinar, dolor de oído, tos con flemas) o si tienes enfermedades crónicas.",
+    "redFlags": ["Bebé menor de 3 meses con 38 °C o más", "Manchas en la piel que no desaparecen al presionarlas", "Rigidez de cuello, confusión o somnolencia excesiva", "Dificultad para respirar", "Signos de deshidratación", "Fiebre tras viajar a una zona con malaria", "Personas en quimioterapia o con defensas bajas", "Convulsiones"],
+    "sources": [{ "sourceId": "medlineplus", "query": "fiebre" }, { "sourceId": "healthychildren" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "tos", "name": "Tos",
+    "description": "Un reflejo que protege las vías respiratorias. La tos aguda (menos de 3 semanas) suele ser vírica; la persistente merece estudio.",
+    "commonCauses": [
+      { "name": "Resfriado o gripe", "conditionId": "gripe" },
+      { "name": "Bronquitis aguda" },
+      { "name": "Asma", "conditionId": "asma" },
+      { "name": "Reflujo gastroesofágico", "conditionId": "erge" },
+      { "name": "Rinitis alérgica (goteo posnasal)", "conditionId": "rinitis-alergica" },
+      { "name": "Medicamentos IECA (tos seca)", "note": "Por ejemplo, enalapril" },
+      { "name": "EPOC o tabaquismo", "conditionId": "epoc" },
+      { "name": "Tuberculosis (tos de más de 2-3 semanas con fiebre y pérdida de peso)", "conditionId": "tuberculosis" }
+    ],
+    "questions": ["¿Desde cuándo?", "¿Es seca o con flemas? ¿De qué color?", "¿Hay fiebre, falta de aire o pitidos?", "¿Fumas?", "¿Tomas algún medicamento para la tensión?", "¿Has tosido sangre?"],
+    "selfCare": ["Líquidos y miel (no en menores de 1 año)", "Evitar el humo del tabaco", "Descanso"],
+    "whenToConsult": "Consulta si dura más de 3 semanas, hay fiebre persistente, flemas con sangre, pérdida de peso o pitidos.",
+    "redFlags": ["Dificultad para respirar en reposo", "Tos con sangre abundante", "Labios azulados", "Dolor torácico intenso", "Bebé con respiración muy rápida o pausas respiratorias"],
+    "sources": [{ "sourceId": "medlineplus", "query": "tos" }, { "sourceId": "nhs", "query": "cough" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "dolor-garganta", "name": "Dolor de garganta",
+    "description": "Casi siempre se debe a infecciones víricas que se curan solas en una semana.",
+    "commonCauses": [
+      { "name": "Faringitis vírica", "conditionId": "faringoamigdalitis" },
+      { "name": "Amigdalitis por estreptococo", "conditionId": "faringoamigdalitis" },
+      { "name": "Mononucleosis", "note": "Cansancio intenso y ganglios grandes" },
+      { "name": "Reflujo", "conditionId": "erge" },
+      { "name": "Aire seco, tabaco o uso intenso de la voz" }
+    ],
+    "questions": ["¿Cuántos días lleva?", "¿Hay fiebre?", "¿Hay tos y mocos (sugiere virus) o placas en las amígdalas sin tos (sugiere estreptococo)?", "¿Puedes tragar líquidos y abrir bien la boca?"],
+    "selfCare": ["Líquidos templados o fríos", "Gárgaras con agua salada", "Pastillas para chupar (no en niños pequeños)", "Analgésico de venta libre si hace falta"],
+    "whenToConsult": "Consulta si dura más de 3-4 días, la fiebre es alta, hay placas sin tos o ganglios muy dolorosos.",
+    "redFlags": ["Dificultad para respirar", "Babeo o incapacidad para tragar líquidos", "Dificultad para abrir la boca o voz 'de patata caliente'", "Rigidez de cuello"],
+    "sources": [{ "sourceId": "medlineplus", "query": "dolor de garganta" }, { "sourceId": "cdc" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "dolor-pecho", "name": "Dolor en el pecho",
+    "description": "Puede deberse a causas leves (musculares, digestivas o por ansiedad) o graves (corazón, pulmón, aorta). Ante la duda, debe valorarse con rapidez.",
+    "commonCauses": [
+      { "name": "Infarto o angina", "conditionId": "infarto", "note": "Opresión que puede irradiarse a brazo, mandíbula o espalda" },
+      { "name": "Embolia pulmonar", "conditionId": "trombosis" },
+      { "name": "Dolor muscular o de costillas", "note": "Aumenta al presionar o al moverse" },
+      { "name": "Reflujo gastroesofágico", "conditionId": "erge" },
+      { "name": "Ansiedad o ataque de pánico", "conditionId": "ansiedad" },
+      { "name": "Neumonía", "conditionId": "neumonia" }
+    ],
+    "questions": ["¿Cómo es: opresión, punzada, ardor?", "¿Se extiende al brazo, mandíbula o espalda?", "¿Hay falta de aire, sudor frío, náuseas o mareo?", "¿Cuánto dura?", "¿Empeora al respirar, al presionar o con el esfuerzo?", "¿Edad y factores de riesgo (tensión, diabetes, tabaco, colesterol)?"],
+    "selfCare": ["Solo cuando un profesional ha descartado causas graves"],
+    "whenToConsult": "Cualquier dolor torácico nuevo debe valorarse. Si es intenso, opresivo o con otros síntomas, es una urgencia.",
+    "redFlags": ["Opresión o dolor de más de unos minutos", "Irradiación a brazo, mandíbula, cuello o espalda", "Sudor frío, náuseas o mareo", "Falta de aire", "Desmayo", "Dolor desgarrador que pasa a la espalda"],
+    "sources": [{ "sourceId": "medlineplus", "query": "dolor en el pecho" }, { "sourceId": "aha" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "dolor-abdominal", "name": "Dolor abdominal",
+    "description": "Tiene muchas causas posibles. La localización, la intensidad y los síntomas acompañantes ayudan a orientar.",
+    "commonCauses": [
+      { "name": "Gastroenteritis", "conditionId": "gastroenteritis" },
+      { "name": "Gastritis o úlcera", "conditionId": "gastritis-ulcera" },
+      { "name": "Colon irritable", "conditionId": "colon-irritable" },
+      { "name": "Apendicitis", "conditionId": "apendicitis", "note": "Empieza en el ombligo y se desplaza abajo a la derecha" },
+      { "name": "Cálculos biliares", "conditionId": "calculos-biliares", "note": "Arriba a la derecha tras comidas grasas" },
+      { "name": "Cólico renal", "conditionId": "calculos-renales" },
+      { "name": "Infección urinaria", "conditionId": "itu" },
+      { "name": "Causas ginecológicas (en mujeres)", "conditionId": "endometriosis" }
+    ],
+    "questions": ["¿Dónde duele exactamente?", "¿Empezó de golpe o poco a poco?", "¿Hay fiebre, vómitos, diarrea o sangre en heces?", "¿Podrías estar embarazada?", "¿El dolor empeora al moverte o toser?"],
+    "selfCare": ["Dieta ligera y líquidos si el dolor es leve y hay diarrea", "Evitar antiinflamatorios si hay molestias de estómago"],
+    "whenToConsult": "Consulta si el dolor dura más de 24-48 horas, empeora o se repite.",
+    "redFlags": ["Dolor súbito e intenso", "Abdomen duro y muy doloroso al tocarlo", "Vómitos con sangre o heces negras", "Fiebre con dolor localizado", "Posible embarazo con dolor y sangrado", "Desmayo"],
+    "sources": [{ "sourceId": "medlineplus", "query": "dolor abdominal" }, { "sourceId": "nhs", "query": "stomach ache" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "nauseas-vomitos", "name": "Náuseas y vómitos",
+    "description": "Habitualmente por infecciones gastrointestinales o alimentos, pero también por embarazo, migraña, medicamentos y otras causas.",
+    "commonCauses": [
+      { "name": "Gastroenteritis", "conditionId": "gastroenteritis" },
+      { "name": "Intoxicación alimentaria" },
+      { "name": "Embarazo" },
+      { "name": "Migraña", "conditionId": "migrana" },
+      { "name": "Efectos de medicamentos" },
+      { "name": "Mareo por movimiento" }
+    ],
+    "questions": ["¿Puedes retener líquidos?", "¿Hay sangre o aspecto de 'posos de café'?", "¿Hay dolor abdominal intenso, fiebre o dolor de cabeza?", "¿Podrías estar embarazada?", "¿Tienes diabetes?"],
+    "selfCare": ["Sorbos pequeños y frecuentes de solución de rehidratación", "Comidas suaves cuando se toleren"],
+    "whenToConsult": "Consulta si duran más de 24-48 horas en adultos o menos en niños pequeños.",
+    "redFlags": ["Signos de deshidratación (boca seca, poca orina, somnolencia)", "Vómito con sangre", "Dolor abdominal intenso", "Rigidez de cuello o dolor de cabeza intenso", "Tras un golpe en la cabeza", "Persona con diabetes y glucosa muy alta"],
+    "sources": [{ "sourceId": "medlineplus", "query": "náuseas y vómitos" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "falta-aire", "name": "Falta de aire",
+    "description": "Sensación de dificultad para respirar. Si aparece de forma brusca o en reposo, requiere valoración urgente.",
+    "commonCauses": [
+      { "name": "Asma", "conditionId": "asma" },
+      { "name": "EPOC", "conditionId": "epoc" },
+      { "name": "Neumonía", "conditionId": "neumonia" },
+      { "name": "Insuficiencia cardíaca", "conditionId": "insuficiencia-cardiaca" },
+      { "name": "Embolia pulmonar", "conditionId": "trombosis" },
+      { "name": "Anemia", "conditionId": "anemia" },
+      { "name": "Ansiedad", "conditionId": "ansiedad" },
+      { "name": "Reacción alérgica grave", "conditionId": "anafilaxia" }
+    ],
+    "questions": ["¿Empezó de golpe?", "¿Aparece en reposo o solo con esfuerzo?", "¿Hay dolor torácico, fiebre, pitidos o hinchazón de piernas?", "¿Puedes decir frases completas?"],
+    "selfCare": ["Solo en cuadros leves ya conocidos y con un plan de acción (por ejemplo, el inhalador de rescate en el asma)"],
+    "whenToConsult": "Consulta pronto si es nueva o va empeorando, aunque sea leve.",
+    "redFlags": ["No poder hablar frases completas", "Labios o uñas azulados", "Dolor torácico", "Inicio súbito", "Hinchazón de cara o garganta", "Confusión o somnolencia"],
+    "sources": [{ "sourceId": "medlineplus", "query": "problemas respiratorios" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "mareo", "name": "Mareo y vértigo",
+    "description": "Puede ser sensación de inestabilidad, de desmayo inminente o de que todo gira (vértigo). Cada tipo orienta a causas diferentes.",
+    "commonCauses": [
+      { "name": "Vértigo posicional paroxístico benigno", "note": "Giro breve al mover la cabeza" },
+      { "name": "Bajada de tensión al levantarse" },
+      { "name": "Deshidratación o falta de comida" },
+      { "name": "Anemia", "conditionId": "anemia" },
+      { "name": "Efectos de medicamentos" },
+      { "name": "Arritmias", "conditionId": "fibrilacion-auricular" },
+      { "name": "Ansiedad", "conditionId": "ansiedad" }
+    ],
+    "questions": ["¿Notas que todo gira o que te vas a desmayar?", "¿Cuánto dura?", "¿Aparece al mover la cabeza o al levantarte?", "¿Hay pérdida de audición, dificultad para hablar o debilidad?", "¿Palpitaciones o dolor torácico?"],
+    "selfCare": ["Sentarse o tumbarse al notarlo", "Levantarse despacio", "Hidratarse"],
+    "whenToConsult": "Consulta si se repite, dura mucho o se acompaña de caídas.",
+    "redFlags": ["Debilidad, entumecimiento, dificultad para hablar o caminar", "Visión doble", "Desmayo", "Dolor torácico o palpitaciones", "Dolor de cabeza súbito e intenso"],
+    "sources": [{ "sourceId": "medlineplus", "query": "mareo" }, { "sourceId": "nhs", "query": "dizziness" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "dolor-espalda", "name": "Dolor de espalda",
+    "description": "La mayoría de los dolores de espalda son mecánicos y mejoran en semanas manteniéndose activo.",
+    "commonCauses": [
+      { "name": "Lumbalgia mecánica", "conditionId": "lumbalgia" },
+      { "name": "Hernia discal con ciática", "conditionId": "lumbalgia" },
+      { "name": "Cólico renal", "conditionId": "calculos-renales" },
+      { "name": "Artrosis", "conditionId": "artrosis" },
+      { "name": "Fracturas vertebrales por osteoporosis", "conditionId": "osteoporosis" }
+    ],
+    "questions": ["¿Hubo un esfuerzo o golpe?", "¿El dolor baja por la pierna?", "¿Hay fiebre, pérdida de peso o antecedentes de cáncer?", "¿Problemas para controlar la orina o las heces?"],
+    "selfCare": ["Mantenerse activo dentro de lo tolerable", "Calor local", "Analgésico de venta libre durante poco tiempo"],
+    "whenToConsult": "Consulta si no mejora en 4-6 semanas o es muy intenso.",
+    "redFlags": ["Pérdida del control de la orina o las heces", "Adormecimiento en la zona genital", "Debilidad progresiva en las piernas", "Fiebre", "Traumatismo importante", "Antecedentes de cáncer"],
+    "sources": [{ "sourceId": "medlineplus", "query": "dolor de espalda" }, { "sourceId": "nice", "query": "low back pain" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "erupcion", "name": "Erupción o ronchas en la piel",
+    "description": "Los cambios en la piel tienen causas muy variadas: infecciones, alergias, irritación o enfermedades de la piel.",
+    "commonCauses": [
+      { "name": "Urticaria", "conditionId": "urticaria" },
+      { "name": "Dermatitis atópica", "conditionId": "dermatitis-atopica" },
+      { "name": "Infecciones víricas (varicela, sarampión)", "conditionId": "varicela" },
+      { "name": "Reacción a medicamentos" },
+      { "name": "Psoriasis", "conditionId": "psoriasis" },
+      { "name": "Herpes zóster", "conditionId": "varicela", "note": "Franja dolorosa en un lado del cuerpo" }
+    ],
+    "questions": ["¿Pica, duele o quema?", "¿Hay fiebre?", "¿Has empezado algún medicamento nuevo?", "¿Las manchas desaparecen al presionarlas con un vaso?", "¿Hay hinchazón de labios o dificultad para respirar?"],
+    "selfCare": ["Evitar rascarse", "Hidratación de la piel", "Ropa de algodón", "Antihistamínico de venta libre si hay ronchas que pican"],
+    "whenToConsult": "Consulta si dura más de unos días, se extiende o se acompaña de fiebre.",
+    "redFlags": ["Manchas que no desaparecen al presionarlas, con fiebre", "Ampollas extensas o piel que se despega", "Afectación de ojos o boca", "Hinchazón de cara o garganta, dificultad para respirar"],
+    "sources": [{ "sourceId": "medlineplus", "query": "erupciones cutáneas" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "cansancio", "name": "Cansancio persistente",
+    "description": "El cansancio que dura semanas tiene muchas causas: sueño, estado de ánimo, anemia, tiroides, infecciones o enfermedades crónicas.",
+    "commonCauses": [
+      { "name": "Falta o mala calidad de sueño", "conditionId": "apnea" },
+      { "name": "Anemia", "conditionId": "anemia" },
+      { "name": "Hipotiroidismo", "conditionId": "hipotiroidismo" },
+      { "name": "Depresión o ansiedad", "conditionId": "depresion" },
+      { "name": "Diabetes", "conditionId": "diabetes-2" },
+      { "name": "Recuperación tras infecciones víricas" }
+    ],
+    "questions": ["¿Desde cuándo?", "¿Cuántas horas duermes y roncas?", "¿Cómo está tu ánimo?", "¿Hay pérdida de peso, fiebre o sudores nocturnos?", "¿Reglas abundantes?"],
+    "selfCare": ["Horarios de sueño regulares", "Actividad física gradual", "Alimentación equilibrada"],
+    "whenToConsult": "Consulta si dura más de 2-4 semanas sin explicación.",
+    "redFlags": ["Pérdida de peso inexplicada", "Fiebre o sudores nocturnos", "Falta de aire o dolor torácico", "Ideas de hacerte daño"],
+    "sources": [{ "sourceId": "medlineplus", "query": "fatiga" }, { "sourceId": "nhs", "query": "tiredness and fatigue" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "palpitaciones", "name": "Palpitaciones",
+    "description": "Notar el latido del corazón rápido, fuerte o irregular. Suelen ser benignas, pero algunas indican arritmias.",
+    "commonCauses": [
+      { "name": "Ansiedad o estrés", "conditionId": "ansiedad" },
+      { "name": "Cafeína, alcohol o nicotina" },
+      { "name": "Fibrilación auricular", "conditionId": "fibrilacion-auricular" },
+      { "name": "Hipertiroidismo", "conditionId": "hipertiroidismo" },
+      { "name": "Anemia", "conditionId": "anemia" },
+      { "name": "Extrasístoles benignas" }
+    ],
+    "questions": ["¿El latido es rápido y regular o irregular?", "¿Cuánto duran?", "¿Hay mareo, desmayo, dolor torácico o falta de aire?", "¿Antecedentes de enfermedad cardíaca o muerte súbita en la familia?"],
+    "selfCare": ["Reducir cafeína y alcohol", "Dormir bien", "Técnicas de respiración si se relacionan con ansiedad"],
+    "whenToConsult": "Consulta si son frecuentes o duran mucho; un electrocardiograma durante el episodio es muy útil.",
+    "redFlags": ["Desmayo", "Dolor torácico", "Falta de aire importante", "Latido muy rápido que no cede", "Antecedentes familiares de muerte súbita"],
+    "sources": [{ "sourceId": "medlineplus", "query": "palpitaciones" }, { "sourceId": "nhs", "query": "heart palpitations" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  },
+  {
+    "id": "molestias-orinar", "name": "Molestias al orinar",
+    "description": "Escozor, urgencia o necesidad frecuente de orinar. La causa más común es la infección urinaria.",
+    "commonCauses": [
+      { "name": "Infección urinaria (cistitis)", "conditionId": "itu" },
+      { "name": "Infecciones de transmisión sexual", "conditionId": "sifilis-its" },
+      { "name": "Cálculos renales", "conditionId": "calculos-renales" },
+      { "name": "Próstata agrandada", "conditionId": "hbp" },
+      { "name": "Irritación vaginal" }
+    ],
+    "questions": ["¿Hay fiebre o dolor en la espalda?", "¿Sangre en la orina?", "¿Flujo o secreción genital?", "¿Podrías estar embarazada?", "¿Es hombre, niño o persona mayor?"],
+    "selfCare": ["Beber agua suficiente", "No aguantar las ganas de orinar"],
+    "whenToConsult": "Consulta si los síntomas no mejoran en 1-2 días, si eres hombre, si estás embarazada o si se repiten.",
+    "redFlags": ["Fiebre con dolor lumbar o escalofríos", "Vómitos", "No poder orinar", "Embarazo"],
+    "sources": [{ "sourceId": "medlineplus", "query": "infección urinaria" }],
+    "meta": { "version": 1, "status": "published", "reviewedAt": "2026-10-02", "reviewer": "equipo-editorial" }
+  }
+]
